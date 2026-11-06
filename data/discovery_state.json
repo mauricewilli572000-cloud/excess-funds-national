@@ -1,1 +1,205 @@
-{}
+{
+ "39009": {
+  "last_crawled": "2026-11-06T22:20:58+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": true
+ },
+ "39005": {
+  "last_crawled": "2026-11-06T22:21:10+00:00",
+  "seeds": [
+   "https://sheriffashlandcooh.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": true
+ },
+ "39001": {
+  "last_crawled": "2026-11-06T22:21:15+00:00",
+  "seeds": [
+   "https://adamscountyoh.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": true
+ },
+ "39019": {
+  "last_crawled": "2026-11-06T22:21:17+00:00",
+  "seeds": [
+   "https://carrollcountyohio.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": true
+ },
+ "39003": {
+  "last_crawled": "2026-11-06T22:21:29+00:00",
+  "seeds": [
+   "https://allencountyohiochildsupport.gov/",
+   "https://allencountyohiocsb.gov/"
+  ],
+  "pages": 16,
+  "candidates": 0,
+  "verified": 0,
+  "searched": true
+ },
+ "39013": {
+  "last_crawled": "2026-11-06T22:21:45+00:00",
+  "seeds": [
+   "https://belmontsheriffohio.gov/"
+  ],
+  "pages": 40,
+  "candidates": 0,
+  "verified": 0,
+  "searched": true
+ },
+ "39007": {
+  "last_crawled": "2026-11-06T22:21:48+00:00",
+  "seeds": [
+   "https://ashtabulacounty.gov/"
+  ],
+  "pages": 49,
+  "candidates": 0,
+  "verified": 0,
+  "searched": true
+ },
+ "39017": {
+  "last_crawled": "2026-11-06T22:21:52+00:00",
+  "seeds": [
+   "https://bcohio.gov/",
+   "https://bcvetsoh.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": true
+ },
+ "39015": {
+  "last_crawled": "2026-11-06T22:21:57+00:00",
+  "seeds": [
+   "https://browncountyohio.gov/"
+  ],
+  "pages": 45,
+  "candidates": 0,
+  "verified": 0,
+  "searched": true
+ },
+ "39033": {
+  "last_crawled": "2026-11-06T22:21:57+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": true
+ },
+ "39031": {
+  "last_crawled": "2026-11-06T22:21:59+00:00",
+  "seeds": [
+   "https://coshoctoncounty.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": true
+ },
+ "39029": {
+  "last_crawled": "2026-11-06T22:22:03+00:00",
+  "seeds": [
+   "https://columbianacounty.org/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": true
+ },
+ "39039": {
+  "last_crawled": "2026-11-06T22:22:11+00:00",
+  "seeds": [
+   "https://defiancecountyoh.com/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": true
+ },
+ "39021": {
+  "last_crawled": "2026-11-06T22:22:12+00:00",
+  "seeds": [
+   "https://co.champaign.oh.us/",
+   "https://www.champaigncounty.org/"
+  ],
+  "pages": 49,
+  "candidates": 0,
+  "verified": 0,
+  "searched": true
+ },
+ "39037": {
+  "last_crawled": "2026-11-06T22:22:12+00:00",
+  "seeds": [
+   "https://co.darke.oh.us/",
+   "https://www.co.darke.oh.us/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": true
+ },
+ "39027": {
+  "last_crawled": "2026-11-06T22:22:17+00:00",
+  "seeds": [
+   "https://co.clinton.oh.us/",
+   "https://co.clinton.oh.us/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": true
+ },
+ "39023": {
+  "last_crawled": "2026-11-06T22:22:21+00:00",
+  "seeds": [
+   "https://clarkcountymunicipalcourt.gov/",
+   "https://clarkcountyohio.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": true
+ },
+ "39025": {
+  "last_crawled": "2026-11-06T22:22:21+00:00",
+  "seeds": [
+   "https://clermontcountyohio.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": true
+ },
+ "39035": {
+  "last_crawled": "2026-11-06T22:24:08+00:00",
+  "seeds": [
+   "https://cuyahogacounty.gov/",
+   "https://cuyahogaprosecutor.gov/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": true
+ },
+ "39011": {
+  "last_crawled": "2026-11-06T22:24:15+00:00",
+  "seeds": [
+   "https://auglaizecounty-ohio.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": true
+ }
+}
