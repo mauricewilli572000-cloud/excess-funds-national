@@ -67,6 +67,26 @@ def allowed(url: str) -> bool:
     return True if rp is None else rp.can_fetch(config.USER_AGENT, url)
 
 
+_stats_local = threading.local()
+
+
+def stats() -> dict:
+    """Per-thread counters (reset with reset_stats) for discovery diagnostics."""
+    st = getattr(_stats_local, "d", None)
+    if st is None:
+        st = _stats_local.d = {}
+    return st
+
+
+def reset_stats() -> None:
+    _stats_local.d = {}
+
+
+def _count(key: str) -> None:
+    st = stats()
+    st[key] = st.get(key, 0) + 1
+
+
 class Fetched:
     def __init__(self, url: str, status: int, content_type: str, body: bytes):
         self.url, self.status, self.content_type, self.body = url, status, content_type, body
@@ -90,11 +110,13 @@ def fetch(url: str, *, max_bytes: int = config.MAX_DOWNLOAD_BYTES, check_robots:
     """GET with rate limit + robots + size cap. Returns None on any failure."""
     if check_robots and not allowed(url):
         log.debug("robots.txt disallows %s", url)
+        _count("robots_blocked")
         return None
     host = urlparse(url).netloc.lower()
     _wait_turn(host)
     try:
         with session().get(url, timeout=timeout, stream=True, allow_redirects=True, headers=headers) as r:
+            _count(str(r.status_code))
             if r.status_code >= 400:
                 return Fetched(r.url, r.status_code, r.headers.get("content-type", ""), b"")
             chunks, size = [], 0
@@ -107,4 +129,5 @@ def fetch(url: str, *, max_bytes: int = config.MAX_DOWNLOAD_BYTES, check_robots:
             return Fetched(r.url, r.status_code, r.headers.get("content-type", "").lower(), b"".join(chunks))
     except requests.RequestException as exc:
         log.debug("Fetch failed %s: %s", url, exc)
+        _count("conn_error")
         return None

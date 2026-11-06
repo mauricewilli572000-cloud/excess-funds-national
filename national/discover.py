@@ -95,19 +95,48 @@ def load_json(path, default):
 # Per-county discovery
 # --------------------------------------------------------------------------
 
+MAIN_SITE_HINT = re.compile(r"clerk|court|treas|sheriff|auditor|fiscal")
+
+
+def _homepage_ok(url: str, c: dict) -> Optional[str]:
+    f = http.fetch(url, check_robots=False, max_bytes=3_000_000, timeout=15)
+    if f and f.status == 200 and f.is_html and c["base"].lower() in f.text.lower():
+        return f.url
+    return None
+
+
 def resolve_seeds(c: dict) -> list[str]:
-    seeds = []
-    for d in c.get("domains", []):
+    """Main county site first, then clerk/treasurer-type sites. The .gov registry
+    lists 'exact' matches (org == the county) ahead of department sites."""
+    seeds: list[str] = []
+    doms = c.get("domains", [])
+    exact = c.get("exact_domains")
+    if exact is None:            # counties.json built before exact_domains existed
+        exact = [d for d in doms if not MAIN_SITE_HINT.search(d) and slug_in(c, d)][:1]
+    for d in exact:
         seeds.append(d if d.startswith("http") else f"https://{d}/")
-    if seeds:
-        return seeds
-    for d in c.get("guess_domains", []):
-        f = http.fetch(f"https://{d}/", check_robots=False, max_bytes=3_000_000, timeout=15)
-        if f and f.status == 200 and f.is_html and c["base"].lower() in f.text.lower():
-            seeds.append(f.url)
-            if len(seeds) >= 2:
+    if not exact:
+        main = [d for d in c.get("guess_domains", []) if d in doms]   # registered AND main-site shaped
+        if main:
+            exact = main[:1]
+            seeds.append(f"https://{main[0]}/")
+    if not exact:
+        for d in c.get("guess_domains", []):
+            ok = _homepage_ok(f"https://{d}/", c)
+            if ok:
+                seeds.append(ok)
                 break
-    return seeds
+    for d in doms:
+        if d in exact:
+            continue
+        if MAIN_SITE_HINT.search(d) or d.startswith("http"):
+            seeds.append(d if d.startswith("http") else f"https://{d}/")
+    return list(dict.fromkeys(seeds))[:4]
+
+
+def slug_in(c: dict, d: str) -> bool:
+    b = re.sub(r"[^a-z0-9]", "", c["base"].lower())
+    return d.startswith(b) or d.startswith(f"co.{b}.") or f".{b}." in d
 
 
 def sitemap_urls(base: str, limit: int = 5000) -> list[str]:
@@ -139,6 +168,8 @@ SITE_SEARCH_PATTERNS = [
 
 def discover_county(c: dict) -> dict:
     """Returns {"county_id", "seeds", "pages", "candidates": [ {url, anchor, found_on, via, score} ]}."""
+    http.reset_stats()
+    links_seen = 0
     seeds = resolve_seeds(c)
     seed_hosts = {urlparse(s).netloc.lower().removeprefix("www.") for s in seeds}
     visited: set[str] = set()
@@ -199,7 +230,9 @@ def discover_county(c: dict) -> dict:
             add_candidate(f.url, title or anchor, found_on, "crawl-page", page_score)
         if depth >= config.MAX_CRAWL_DEPTH:
             continue
-        for a in soup.find_all("a", href=True):
+        anchors = soup.find_all("a", href=True)
+        links_seen += len(anchors)
+        for a in anchors:
             href = urljoin(f.url, a["href"])
             if not href.startswith("http") or href.startswith("mailto"):
                 continue
@@ -223,7 +256,8 @@ def discover_county(c: dict) -> dict:
             elif onsite and depth == 0 and s >= 2:
                 push(href, depth + 1, text, f.url, 8)
 
-    return {"county_id": c["id"], "seeds": seeds, "pages": pages, "candidates": list(candidates.values())}
+    return {"county_id": c["id"], "seeds": seeds, "pages": pages, "candidates": list(candidates.values()),
+            "http": dict(http.stats()), "links_seen": links_seen}
 
 
 def search_county(c: dict) -> list[dict]:
@@ -309,12 +343,12 @@ def run(args) -> None:
                     search_budget[0] -= 2
             if ok:
                 cands = search_county(c)
-                used_search = True
+                used_search = bool(cands)
         cands.sort(key=lambda x: -x["score"])
         evaluated = [e for e in (evaluate_candidate(c, x) for x in cands[:12]) if e]
         st = {"last_crawled": now_iso(), "seeds": res["seeds"], "pages": res["pages"],
               "candidates": len(cands), "verified": sum(1 for e in evaluated if e["status"] == "auto-verified"),
-              "searched": used_search}
+              "searched": used_search, "http": res.get("http", {}), "links_seen": res.get("links_seen", 0)}
         return c, evaluated, st
 
     done = 0
@@ -335,9 +369,9 @@ def run(args) -> None:
                     e["first_found"] = prev.get("first_found") or e["last_checked"]
                     sources[e["id"]] = {**prev, **e}
                 done += 1
-            log.info("[%d/%d] %s, %s: %d pages, %d candidates, %d auto-verified%s",
-                     done, len(batch), c["name"], c["state"], st["pages"], st["candidates"],
-                     st["verified"], " (via search)" if st["searched"] else "")
+            log.info("[%d/%d] %s, %s: %d pages, %d links, %d candidates, %d auto-verified%s | seeds=%s http=%s",
+                     done, len(batch), c["name"], c["state"], st["pages"], st["links_seen"], st["candidates"],
+                     st["verified"], " (via search)" if st["searched"] else "", st["seeds"], st["http"])
             if done % 20 == 0:
                 save(state_map, sources)
     save(state_map, sources)

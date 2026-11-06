@@ -20,7 +20,7 @@ SOURCE_SNAPSHOTS_DIR = DATA_DIR / "source_leads"      # last good extraction per
 
 USER_AGENT = os.environ.get(
     "SCRAPER_USER_AGENT",
-    "Mozilla/5.0 (compatible; ExcessFundsResearchBot/1.0; public-records research)",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
 )
 REQUEST_TIMEOUT = 30
 MAX_DOWNLOAD_BYTES = 40 * 1024 * 1024

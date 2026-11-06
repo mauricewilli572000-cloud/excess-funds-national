@@ -83,8 +83,9 @@ def domain_rank(d: str) -> int:
 
 def guess_domains(c: dict) -> list[str]:
     b, st = slug(c["base"]), c["state"].lower()
+    sn = slug(c.get("state_name", ""))
     kind = "parish" if c["state"] == "LA" else "county"
-    return [
+    return [f"{b}{kind}{sn}.gov", f"co.{b}.{sn}.us", f"{b}{kind}-{sn}.gov", f"{b}{kind}{sn}.org",
         f"{b}{kind}{st}.gov", f"{b}{kind}.gov", f"{b}co{st}.gov", f"co.{b}.{st}.us",
         f"{b}{kind}{st}.org", f"{b}{kind}.org", f"{b}{kind}{st}.com", f"{b}{kind}.us",
         f"www.co.{b}.{st}.us", f"{b}{kind}-{st}.gov",
@@ -118,8 +119,9 @@ def build() -> list[dict]:
             elif any(org.startswith(n + " ") for n in names):
                 related.append(dom)   # "Cuyahoga County Prosecutor's Office" etc.
         related.sort(key=domain_rank)
+        c["exact_domains"] = [d for d in dict.fromkeys(exact) if not NOISE_DOMAIN_RE.search(d)][:2]
         c["domains"] = [d for d in dict.fromkeys(exact + related) if not NOISE_DOMAIN_RE.search(d)][:8]
-        c["guess_domains"] = [d for d in guess_domains(c) if d not in c["domains"]]
+        c["guess_domains"] = list(dict.fromkeys(guess_domains(c)))
     have = sum(1 for c in counties if c["domains"])
     log.info("%d counties; %d have at least one registered .gov domain", len(counties), have)
     return counties

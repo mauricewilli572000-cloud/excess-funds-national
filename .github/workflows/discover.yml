@@ -17,6 +17,10 @@ on:
         description: "Optional: number of counties this run"
         required: false
         default: ""
+      recheck:
+        description: "Re-check counties even if they were crawled recently"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -48,6 +52,7 @@ jobs:
           SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
           GOOGLE_CSE_KEY: ${{ secrets.GOOGLE_CSE_KEY }}
           GOOGLE_CSE_CX: ${{ secrets.GOOGLE_CSE_CX }}
+          RECRAWL_DAYS: ${{ github.event.inputs.recheck == 'true' && '0' || '30' }}
         run: |
           ARGS=()
           if [ -n "${{ github.event.inputs.state }}" ]; then ARGS+=(--state ${{ github.event.inputs.state }}); fi
