@@ -1,0 +1,34 @@
+{
+ "generated_at": "2026-11-06T22:36:14+00:00",
+ "total_leads": 320,
+ "total_surplus": 8582197.92,
+ "new_this_run": 320,
+ "states": {
+  "OH": {
+   "leads": 320,
+   "total": 8582197.92,
+   "counties": {
+    "Fairfield County": {
+     "leads": 41,
+     "total": 694661.65
+    },
+    "Franklin County": {
+     "leads": 279,
+     "total": 7887536.27
+    }
+   }
+  }
+ },
+ "sources": {
+  "total": 3,
+  "usable": 2,
+  "candidates": 1,
+  "portals": 0,
+  "errors_this_run": 0
+ },
+ "discovery": {
+  "counties_total": 3152,
+  "counties_crawled": 40,
+  "counties_with_usable_source": 2
+ }
+}
