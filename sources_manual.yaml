@@ -1,0 +1,32 @@
+# Hand-managed sources and overrides for the nationwide excess funds scraper.
+# Discovery (national.discover) finds most sources on its own and writes them to
+# data/sources.json. Use this file when you want to:
+#   - add a list discovery missed            (type: url)
+#   - plug in one of your per-county scrapers (type: json_feed)
+#   - approve / disable / relabel something discovery found (overrides)
+#
+# county_id is the 5-digit county FIPS code (it's shown on the dashboard's
+# Sources view, and listed in data/counties.json).
+
+sources:
+  # Franklin County, OH — the dedicated franklin-excess-funds scraper (already
+  # matched to Auditor / foreclosure addresses). skip_auto_sources stops the
+  # nationwide crawler's copy of the same Clerk XLSX from double-counting.
+  - id: franklin-oh-excess
+    county_id: "39049"
+    type: json_feed
+    url: https://mauricewilli572000-cloud.github.io/franklin-excess-funds/excess_funds.json
+    fund_type: foreclosure
+    skip_auto_sources: true
+
+  # Example of adding a list by hand (any PDF / Excel / CSV / web page):
+  # - county_id: "39035"
+  #   url: https://example.gov/excess-funds.pdf
+  #   fund_type: foreclosure        # foreclosure | tax_sale
+  #   status: verified
+
+# Approve or turn off a discovered source by its id (from the Sources view).
+overrides: {}
+#  3f2a9c1b7d4e:
+#    status: verified      # verified | disabled
+#    fund_type: tax_sale

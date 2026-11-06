@@ -1,0 +1,65 @@
+name: Scrape excess funds (nationwide)
+
+on:
+  schedule:
+    - cron: "41 10 * * *"   # 10:41 UTC daily (~5:41 AM America/New_York)
+  workflow_dispatch:
+    inputs:
+      state:
+        description: "Optional: only these states (e.g. OH GA)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "excess-national-data"
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+      - run: pip install -r requirements.txt
+      - name: Build county seed list if missing
+        run: test -f data/counties.json || python -m national.counties
+      - name: Scrape all usable sources
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: |
+          ARGS=()
+          if [ -n "${{ github.event.inputs.state }}" ]; then ARGS+=(--state ${{ github.event.inputs.state }}); fi
+          python -m national.pipeline "${ARGS[@]}"
+      - name: Commit feeds + history
+        run: |
+          git config user.name "excess-national-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A dashboard/feeds data/history.json data/source_leads
+          if git diff --cached --quiet; then echo "No changes."; else
+            git commit -m "Excess funds scrape: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase && git push
+          fi
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dashboard
+
+  deploy-pages:
+    needs: scrape
+    runs-on: ubuntu-22.04
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
