@@ -39,7 +39,7 @@ from . import config, extract, http, search_providers
 log = logging.getLogger("discover")
 _lock = threading.Lock()
 
-TAX_WORDS = re.compile(r"\btax (sale|deed|lien|certificate|foreclosure)|delinquent tax|tax collector|"
+TAX_WORDS = re.compile(r"\btax[\s_-]+(sale|deed|lien|certificate|foreclosure)|delinquent tax|tax collector|"
                        r"treasurer|tax claim|forfeit|tax commissioner|upset sale|repository", re.I)
 FORECLOSURE_WORDS = re.compile(r"sheriff|mortgage|foreclosure|judicial sale|court|clerk|master commissioner|"
                                r"commissioner sale|partition", re.I)
@@ -70,8 +70,13 @@ def classify_fund_type(context: str) -> str:
     if fc and not tax:
         return "foreclosure"
     if tax and fc:
-        return "tax_sale" if re.search(r"tax (sale|deed)", context, re.I) else "foreclosure"
+        return "tax_sale" if re.search(r"tax[\s_-]+(sale|deed|foreclosure|lien)|delinquent tax|treasurer",
+                                       context, re.I) else "foreclosure"
     return "unknown"
+
+
+NON_SOURCE_HOST_RE = re.compile(r"(^|\.)(codes|law|legislature|legis|lis|casetext|justia|findlaw|govinfo)\.|"
+                                r"(^|\.)ohio\.gov$|\.state\.[a-z]{2}\.us$|ecfr\.gov|uscode", re.I)
 
 
 def same_site(host: str, seeds: set[str]) -> bool:
@@ -114,7 +119,16 @@ def resolve_seeds(c: dict) -> list[str]:
     if exact is None:            # counties.json built before exact_domains existed
         exact = [d for d in doms if not MAIN_SITE_HINT.search(d) and slug_in(c, d)][:1]
     for d in exact:
-        seeds.append(d if d.startswith("http") else f"https://{d}/")
+        if d.startswith("http"):
+            seeds.append(d)
+            continue
+        url = None
+        for variant in (f"https://{d}/", f"https://www.{d}/", f"http://{d}/", f"http://www.{d}/"):
+            f = http.fetch(variant, check_robots=False, max_bytes=3_000_000, timeout=20)
+            if f and f.status < 400:
+                url = f.url
+                break
+        seeds.append(url or f"https://{d}/")
     if not exact:
         main = [d for d in c.get("guess_domains", []) if d in doms]   # registered AND main-site shaped
         if main:
@@ -122,7 +136,7 @@ def resolve_seeds(c: dict) -> list[str]:
             seeds.append(f"https://{main[0]}/")
     if not exact:
         for d in c.get("guess_domains", []):
-            ok = _homepage_ok(f"https://{d}/", c)
+            ok = _homepage_ok(f"https://{d}/", c) or _homepage_ok(f"https://www.{d}/", c)
             if ok:
                 seeds.append(ok)
                 break
@@ -238,6 +252,8 @@ def discover_county(c: dict) -> dict:
                 continue
             text = a.get_text(" ", strip=True)
             host = urlparse(href).netloc.lower()
+            if NON_SOURCE_HOST_RE.search(host) and not same_site(host, seed_hosts):
+                continue
             s = term_score(f"{text} {href.replace('-', ' ').replace('_', ' ')}")
             dept = bool(config.DEPT_LINK_RE.search(text)) or bool(config.DEPT_LINK_RE.search(host))
             onsite = same_site(host, seed_hosts)
@@ -390,6 +406,8 @@ def save(state_map: dict, sources: dict) -> None:
 
 def main() -> None:
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s", datefmt="%H:%M:%S")
+    for noisy in ("pdfminer", "pdfplumber", "urllib3"):
+        logging.getLogger(noisy).setLevel(logging.ERROR)
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--state", nargs="*", help="Only these state codes, e.g. OH GA")
     ap.add_argument("--county", nargs="*", help="Only these 5-digit county FIPS codes")

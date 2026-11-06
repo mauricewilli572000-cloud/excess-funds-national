@@ -498,6 +498,8 @@ def run(args) -> dict:
 
 def main() -> None:
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s", datefmt="%H:%M:%S")
+    for noisy in ("pdfminer", "pdfplumber", "urllib3"):
+        logging.getLogger(noisy).setLevel(logging.ERROR)
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--state", nargs="*")
     ap.add_argument("--source", nargs="*")
