@@ -201,5 +201,311 @@
   "candidates": 0,
   "verified": 0,
   "searched": true
+ },
+ "39055": {
+  "last_crawled": "2026-11-06T22:26:05+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 12,
+   "403": 2
+  },
+  "links_seen": 0
+ },
+ "39047": {
+  "last_crawled": "2026-11-06T22:26:06+00:00",
+  "seeds": [
+   "https://fayettecountyoh.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "39049": {
+  "last_crawled": "2026-11-06T22:26:06+00:00",
+  "seeds": [
+   "https://franklincountyohio.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "39043": {
+  "last_crawled": "2026-11-06T22:26:06+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 13,
+   "200": 1
+  },
+  "links_seen": 0
+ },
+ "39041": {
+  "last_crawled": "2026-11-06T22:26:09+00:00",
+  "seeds": [
+   "https://delawarecountyohio.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "39057": {
+  "last_crawled": "2026-11-06T22:26:16+00:00",
+  "seeds": [
+   "https://greenecountyohio.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "39065": {
+  "last_crawled": "2026-11-06T22:26:21+00:00",
+  "seeds": [
+   "https://hardincountyohio.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6,
+   "404": 4
+  },
+  "links_seen": 54
+ },
+ "39069": {
+  "last_crawled": "2026-11-06T22:26:25+00:00",
+  "seeds": [
+   "https://henrycountyohio.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 4,
+   "robots_blocked": 2
+  },
+  "links_seen": 98
+ },
+ "39051": {
+  "last_crawled": "2026-11-06T22:26:30+00:00",
+  "seeds": [
+   "https://fultoncountyoh.com/"
+  ],
+  "pages": 26,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 10,
+   "401": 1,
+   "200": 25,
+   "robots_blocked": 2
+  },
+  "links_seen": 299
+ },
+ "39071": {
+  "last_crawled": "2026-11-06T22:26:33+00:00",
+  "seeds": [
+   "https://co.highland.oh.us/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7,
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 24
+ },
+ "39061": {
+  "last_crawled": "2026-11-06T22:26:41+00:00",
+  "seeds": [
+   "https://hamiltoncountyohio.gov/",
+   "https://hamcoclerkoh.gov/",
+   "https://hamiltoncountycourtsoh.gov/"
+  ],
+  "pages": 31,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "conn_error": 14,
+   "200": 17
+  },
+  "links_seen": 6134
+ },
+ "39053": {
+  "last_crawled": "2026-11-06T22:26:45+00:00",
+  "seeds": [
+   "https://galliacountyoh.gov/",
+   "https://galliacountycommonpleascourt.gov/"
+  ],
+  "pages": 40,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 42,
+   "404": 8
+  },
+  "links_seen": 2040
+ },
+ "39063": {
+  "last_crawled": "2026-11-06T22:26:46+00:00",
+  "seeds": [
+   "https://flagcity.com"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 3,
+   "200": 36
+  },
+  "links_seen": 172
+ },
+ "39045": {
+  "last_crawled": "2026-11-06T22:26:52+00:00",
+  "seeds": [
+   "https://fairfieldcountyohio.gov/",
+   "https://fairfieldcomunicourtoh.gov/"
+  ],
+  "pages": 51,
+  "candidates": 2,
+  "verified": 1,
+  "searched": false,
+  "http": {
+   "200": 46,
+   "conn_error": 7,
+   "403": 1
+  },
+  "links_seen": 381
+ },
+ "39073": {
+  "last_crawled": "2026-11-06T22:27:00+00:00",
+  "seeds": [
+   "https://co.hocking.oh.us/"
+  ],
+  "pages": 29,
+  "candidates": 1,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7,
+   "200": 27,
+   "403": 3,
+   "robots_blocked": 1
+  },
+  "links_seen": 1341
+ },
+ "39079": {
+  "last_crawled": "2026-11-06T22:27:02+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14
+  },
+  "links_seen": 0
+ },
+ "39077": {
+  "last_crawled": "2026-11-06T22:27:05+00:00",
+  "seeds": [
+   "https://huroncounty-oh.gov/"
+  ],
+  "pages": 22,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 18
+  },
+  "links_seen": 4483
+ },
+ "39067": {
+  "last_crawled": "2026-11-06T22:27:18+00:00",
+  "seeds": [
+   "https://harrisoncountyohio.gov/"
+  ],
+  "pages": 43,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 35,
+   "404": 7,
+   "conn_error": 1,
+   "robots_blocked": 1
+  },
+  "links_seen": 5393
+ },
+ "39059": {
+  "last_crawled": "2026-11-06T22:27:36+00:00",
+  "seeds": [
+   "https://guernseycounty.gov/",
+   "https://guernseysheriff.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 75,
+   "502": 13,
+   "robots_blocked": 1,
+   "404": 1
+  },
+  "links_seen": 2487
+ },
+ "39075": {
+  "last_crawled": "2026-11-06T22:28:32+00:00",
+  "seeds": [
+   "https://co.holmes.oh.us/"
+  ],
+  "pages": 60,
+  "candidates": 1,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 9,
+   "200": 56,
+   "404": 4
+  },
+  "links_seen": 2433
  }
 }
