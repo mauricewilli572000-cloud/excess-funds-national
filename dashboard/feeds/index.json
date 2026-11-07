@@ -1,13 +1,17 @@
 {
- "generated_at": "2026-11-06T22:36:14+00:00",
- "total_leads": 320,
- "total_surplus": 8582197.92,
- "new_this_run": 320,
+ "generated_at": "2026-11-07T04:14:44+00:00",
+ "total_leads": 7003,
+ "total_surplus": 31927866.95,
+ "new_this_run": 6683,
  "states": {
   "OH": {
-   "leads": 320,
-   "total": 8582197.92,
+   "leads": 7003,
+   "total": 31927866.95,
    "counties": {
+    "Cuyahoga County": {
+     "leads": 6683,
+     "total": 23345669.03
+    },
     "Fairfield County": {
      "leads": 41,
      "total": 694661.65
@@ -20,8 +24,8 @@
   }
  },
  "sources": {
-  "total": 3,
-  "usable": 2,
+  "total": 8,
+  "usable": 4,
   "candidates": 1,
   "portals": 0,
   "errors_this_run": 0
@@ -29,6 +33,6 @@
  "discovery": {
   "counties_total": 3152,
   "counties_crawled": 40,
-  "counties_with_usable_source": 2
+  "counties_with_usable_source": 3
  }
 }
