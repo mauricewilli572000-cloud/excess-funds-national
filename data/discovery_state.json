@@ -182,15 +182,20 @@
   "searched": true
  },
  "39035": {
-  "last_crawled": "2026-11-06T22:24:08+00:00",
+  "last_crawled": "2026-11-07T04:10:51+00:00",
   "seeds": [
-   "https://cuyahogacounty.gov/",
-   "https://cuyahogaprosecutor.gov/"
+   "https://cuyahogacounty.gov/"
   ],
-  "pages": 13,
-  "candidates": 0,
-  "verified": 0,
-  "searched": true
+  "pages": 60,
+  "candidates": 5,
+  "verified": 2,
+  "searched": false,
+  "http": {
+   "200": 58,
+   "404": 2,
+   "conn_error": 3
+  },
+  "links_seen": 3555
  },
  "39011": {
   "last_crawled": "2026-11-06T22:24:15+00:00",
