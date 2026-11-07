@@ -247,6 +247,31 @@ def load_case_xref() -> dict[str, dict[str, dict]]:
     return out
 
 
+def apply_enrich_caches(leads: list) -> int:
+    """data/enrich/{county_fips}.json — per-case lookups (e.g. national.enrich_cuyahoga)."""
+    caches: dict[str, dict] = {}
+    for p in (config.DATA_DIR / "enrich").glob("[0-9]*.json"):
+        if p.stem.isdigit():
+            caches[p.stem] = load_json(p, {})
+    hits = 0
+    for l in leads:
+        e = caches.get(l.county_id, {}).get(norm_key(l.case_number))
+        if not e or e.get("status") != "found":
+            continue
+        hits += 1
+        l.prop_address = l.prop_address or e.get("prop_address", "")
+        l.prop_city = l.prop_city or e.get("prop_city", "")
+        l.prop_zip = l.prop_zip or e.get("prop_zip", "")
+        l.parcel = l.parcel or e.get("parcel", "")
+        if not l.mail_address and e.get("still_owner") and e.get("owner_now_mailing"):
+            l.mail_address = e["owner_now_mailing"]          # full "street city ST zip" string
+        elif e.get("owner_now") and not e.get("still_owner"):
+            tag = "Property re-sold"
+            if tag not in (l.source_flag or ""):
+                l.source_flag = (l.source_flag + "; " if l.source_flag else "") + tag
+    return hits
+
+
 def apply_case_xref(leads: list, xref: dict[str, dict[str, dict]]) -> int:
     hits = 0
     for l in leads:
@@ -564,6 +589,7 @@ def run(args) -> dict:
                      info.get("error") or f"{info['leads']} leads")
             all_leads.extend(leads)
             infos.append(info)
+    log.info("Docket/parcel lookups applied to %d leads", apply_enrich_caches(all_leads))
     xref = load_case_xref()
     if xref:
         log.info("Foreclosure case cross-reference matched %d leads", apply_case_xref(all_leads, xref))
