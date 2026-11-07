@@ -73,7 +73,16 @@ def clean_owner(name: str) -> str:
     n = re.sub(r"^([A-Z][A-Z'\-]+)\.([A-Z])", r"\1, \2", n)        # "WISE.LARRY A." -> "WISE, LARRY A."
     n = ETAL_RE.sub("", n.replace("-ET AL", " ET AL"))
     n = re.sub(r"\b(A\.?K\.?A\.?|F\.?K\.?A\.?|N\.?K\.?A\.?)\b.*$", "", n, flags=re.I)
-    n = re.sub(r"^(THE\s+)?(UNKNOWN\s+)?HEIRS[^A-Z]*(AND\s+DEVISEES\s+)?(OF\s+)?", "", n, flags=re.I)
+    # "UNK. HEIRS ETC. OF GEORGE L KISS", "DEVISEES LEGATEES EXECUTORS ... OF JANE DOE" -> the decedent's name
+    heir_words = (r"(?:THE|UNK(?:NOWN)?\.?|HEIRS?(?:\s+AT\s+LAW)?|DEVISEES?|LEGATEES?|EXECUTORS?|EXECUTRIX|ADMINISTRATORS?|"
+                  r"ADMINISTRATRIX|SPOUSES?|BENEFICIARIES|NEXT\s+OF\s+KIN|ASSIGNS|SUCCESSORS|NAME\(S\)|NAMES?|ETC\.?|"
+                  r"AND|OR|IF\s+ANY|THEIR|HIS|HER|RESPECTIVE|SURVIVING|[,&/])")
+    m = re.match(rf"^(?:{heir_words}\s*)+(?:OF\s+)?", n, flags=re.I)
+    if m and not ENTITY_RE.search(n) and re.search(r"HEIR|DEVISEE|LEGATEE|EXECUTOR|ADMINISTRAT|BENEFICIAR", m.group(0), re.I):
+        n = n[m.end():]
+        n = re.sub(r"^(THE\s+)?ESTATE\s+OF\s+", "", n, flags=re.I)
+        if not re.search(r"[A-Z]{2,}\s+[A-Z]", n.upper()):
+            return "Unknown heirs (decedent not named)"
     n = re.sub(r"^(THE\s+)?ESTATE\s+OF\s+", "", n, flags=re.I)
     n = re.sub(r",?\s*(DECEASED|DEC'D)\b.*$", "", n, flags=re.I)
     return n.strip(" ,;-.")
