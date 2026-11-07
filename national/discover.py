@@ -327,6 +327,11 @@ def evaluate_candidate(c: dict, cand: dict) -> Optional[dict]:
         page_text = BeautifulSoup(f.body, "lxml").get_text(" ", strip=True)[:4000]
     context = " ".join([cand.get("anchor", ""), cand["url"], cand.get("found_on", ""), page_text])
     good = ex.quality >= config.AUTO_VERIFY_MIN_QUALITY and len(ex.rows) >= config.AUTO_VERIFY_MIN_ROWS
+    if good and ex.method == "text":
+        # Lines like "$250.00 plus $5.00 per defendant" on a fee page also have words + money.
+        # A real list from text has case/parcel numbers on most lines.
+        numbered = sum(1 for r in ex.rows if r.case_number or r.parcel) / len(ex.rows)
+        good = numbered >= 0.5
     is_portal = ex.format == "html" and not ex.rows and bool(
         re.search(r"<input[^>]+(type=.?text|type=.?search)", f.text, re.I)) and term_score(page_text) >= 10
     return {

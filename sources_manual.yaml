@@ -32,7 +32,22 @@ discovery_hints:
     - https://cuyahogacounty.gov/coc/excess-funds
 
 # Approve or turn off a discovered source by its id (from the Sources view).
-overrides: {}
+overrides:
+  # --- Cuyahoga County, OH (Clerk of Courts excess funds page) ---
+  3174126bb680:            # "Excess Funds - Foreclosure" (~6,000 rows, split name columns, Deposit + Bond)
+    status: verified
+    fund_type: foreclosure
+  e7778108c068:            # "Excess Tax Foreclosure Funds released to Treasurer"
+    status: verified
+    fund_type: tax_sale
+    lead_flag: Released to Treasurer   # claims go to the County Treasurer, not the Clerk
+  aab49b7fdf2a:            # "Excess Funds - Non-Foreclosure": ordinary civil cases, not real estate
+    status: disabled
+  5ab5b2a25d9a:            # "Filing Fees/Court Costs" page — not a list
+    status: disabled
+  c26f8534cf06:            # the excess funds page itself (links to the lists above)
+    status: disabled
+
 #  3f2a9c1b7d4e:
 #    status: verified      # verified | disabled
 #    fund_type: tax_sale

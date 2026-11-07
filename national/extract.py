@@ -45,8 +45,9 @@ ALIASES: dict[str, tuple[str, ...]] = {
     "amount": ("excess amount", "surplus amount", "excess funds", "surplus funds", "excess proceeds",
                "surplus", "excess", "overbid", "overage", "amount available", "balance",
                "amount on deposit", "deposit amount", "current balance", "amount held",
-               "funds available", "amount due", "amount", "total", "funds", "net excess", "remaining"),
-    "date": ("sale date", "date of sale", "auction date", "deposit date", "date deposited",
+               "funds available", "amount due", "amount", "deposit", "total", "funds", "net excess", "remaining"),
+    "date": ("sale date", "date of sale", "auction date", "deposit date", "date deposited", "disp date",
+             "disposition date",
              "date received", "receipt date", "received date", "date", "posted date", "posting date",
              "redemption date", "deed date"),
     "parcel": ("parcel number", "parcel id", "parcel no", "parcel", "ppn", "pin", "apn", "account",
@@ -285,16 +286,50 @@ def map_headers(headers: list[Any]) -> dict[str, int]:
     return mapping
 
 
+SPLIT_NAME_RE = re.compile(r"^(defendant|plaintiff|owner|debtor|party|claimant|payee)s?\s*(last|first|middle|suffix)"
+                           r"(\s*name)?$")
+EXTRA_AMOUNT_HEADERS = {"bond", "cash bond", "bond amount"}
+
+
+def split_name_groups(headers: list[Any]) -> dict[str, dict[str, int]]:
+    """'Defendant/Last', 'Defendant/First', ... -> {'defendant': {'last': 7, 'first': 8, ...}}"""
+    groups: dict[str, dict[str, int]] = {}
+    for i, h in enumerate(headers):
+        m = SPLIT_NAME_RE.match(norm(h))
+        if m:
+            groups.setdefault(m.group(1), {})[m.group(2)] = i
+    return {k: v for k, v in groups.items() if "last" in v}
+
+
+def compose_name(raw: list[Any], parts: dict[str, int]) -> str:
+    get = lambda k: clean(raw[parts[k]]) if k in parts and parts[k] < len(raw) else ""  # noqa: E731
+    last, first = get("last"), get("first")
+    if not first:                       # company names live entirely in the "last" column
+        return last
+    return " ".join(x for x in (first, get("middle"), last, get("suffix")) if x)
+
+
 def rows_from_table(table: list[list[Any]]) -> tuple[list[Row], dict]:
     best_i, best_map = None, {}
     for i, r in enumerate(table[:30]):
-        m = map_headers(r)
+        groups = split_name_groups(r)
+        masked = ["" if any(j in g.values() for g in groups.values()) else h for j, h in enumerate(r)]
+        m = map_headers(masked)
+        if any(k in groups for k in ("defendant", "owner", "debtor", "claimant", "payee", "party")):
+            m["name"] = -1          # placeholder: name is composed from the split columns below
         if "amount" in m and ("name" in m or "case_number" in m or "caption" in m or "parcel" in m):
             if len(m) > len(best_map):
                 best_i, best_map = i, m
     if best_i is None:
         return [], {}
     headers = [clean(h) for h in table[best_i]]
+    groups = split_name_groups(table[best_i])
+    owner_grp = next((groups[k] for k in ("defendant", "owner", "debtor", "claimant", "payee", "party") if k in groups), None)
+    plaintiff_grp = groups.get("plaintiff")
+    if owner_grp and best_map.get("name") == -1:
+        best_map.pop("name")
+    extra_amount_cols = [j for j, h in enumerate(headers) if norm(h) in EXTRA_AMOUNT_HEADERS
+                         and j != best_map.get("amount")]
     out = []
     for raw in table[best_i + 1:]:
         if not raw or all(c in (None, "") for c in raw):
@@ -305,16 +340,30 @@ def rows_from_table(table: list[list[Any]]) -> tuple[list[Row], dict]:
         joined = " ".join(clean(c) for c in raw)
         if TOTAL_RE.search(joined) and not CASE_RE.search(joined):
             continue
+        amount = parse_money(get("amount"))
+        for j in extra_amount_cols:
+            extra = parse_money(raw[j]) if j < len(raw) else None
+            if extra:
+                amount = round((amount or 0) + extra, 2)
+        name = compose_name(raw, owner_grp) if owner_grp else clean(get("name"))
+        plaintiff = compose_name(raw, plaintiff_grp) if plaintiff_grp else clean(get("plaintiff"))
         row = Row(
-            case_number=clean(get("case_number")), name=clean(get("name")), plaintiff=clean(get("plaintiff")),
-            amount=parse_money(get("amount")), date=parse_date(get("date")), parcel=clean(get("parcel")),
+            case_number=clean(get("case_number")), name=name, plaintiff=plaintiff,
+            amount=amount, date=parse_date(get("date")), parcel=clean(get("parcel")),
             address=clean(get("address")), mailing=clean(get("mailing")), caption=clean(get("caption")),
             raw=joined[:400], method="table",
         )
         if not (row.case_number or row.name or row.caption or row.parcel):
             continue
         out.append(row)
-    return out, {k: headers[v] for k, v in best_map.items() if v < len(headers)}
+    cols = {k: headers[v] for k, v in best_map.items() if 0 <= v < len(headers)}
+    if owner_grp:
+        cols["name"] = " + ".join(headers[j] for j in owner_grp.values())
+    if plaintiff_grp:
+        cols["plaintiff"] = " + ".join(headers[j] for j in plaintiff_grp.values())
+    if extra_amount_cols:
+        cols["amount"] = " + ".join([cols.get("amount", "")] + [headers[j] for j in extra_amount_cols]).strip(" +")
+    return out, cols
 
 
 # --------------------------------------------------------------------------

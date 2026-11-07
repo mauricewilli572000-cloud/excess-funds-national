@@ -40,6 +40,13 @@ def test_line_rules():
     assert (r.case_number, r.name, r.amount, r.date) == ("2019-1234", "DOE JANE", 1200.0, "2024-03-01")
 
 
+def test_split_name_columns_and_bond():
+    e = _x("cuyahoga_split_names.xlsx")
+    assert len(e.rows) == 8 and e.total == 20324.63
+    assert e.rows[0].name == "JUANITA GILBERT" and e.rows[0].plaintiff == "WELLS FARGO BANK MINNESOTA"
+    assert e.rows[6].name == "STEPHEN R. REGOVICH III"
+
+
 if __name__ == "__main__":
     for n, f in list(globals().items()):
         if n.startswith("test_"):

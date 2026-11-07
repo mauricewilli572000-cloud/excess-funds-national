@@ -47,10 +47,11 @@ FUND_LABEL = {"tax_sale": "Tax Sale Surplus", "foreclosure": "Foreclosure Surplu
 
 ENTITY_RE = re.compile(r"\b(LLC|L\.L\.C|INC|CORP(ORATION)?|LTD|L\.?P|CO\.|COMPANY|TRUST|TRUSTEE|BANK|N\.?A\.?|"
                        r"ASSOCIATION|FSB|MORTGAGE|FINANCIAL|SERVICING|LENDING|CREDIT UNION|HOLDINGS|"
-                       r"PROPERTIES|INVESTMENTS|PARTNERS|CHURCH|MINISTRIES|FUND)\b", re.I)
+                       r"PROPERTIES|INVESTMENTS|PARTNERS|CHURCH|MINISTRIES|FUND|ENTERPRISES|GROUP|ASSOCIATES|"
+                       r"DEVELOPMENT|CONDOMINIUM|HOA|REALTY)\b|\bCO\.?$", re.I)
 GOV_RE = re.compile(r"treasurer|state of|city of|county of|\bcounty\b|united states|department of|board of|"
                     r"village of|township|internal revenue|attorney general|secretary of|\bhud\b|land bank", re.I)
-ESTATE_RE = re.compile(r"\b(ESTATE OF|ESTATE|UNKNOWN HEIRS|HEIRS|DEVISEES|DECEASED|DEC'D|EXECUT(OR|RIX)|"
+ESTATE_RE = re.compile(r"\b(ESTATE OF|UNKNOWN HEIRS|HEIRS|DEVISEES|DECEASED|DEC'D|EXECUT(OR|RIX)|"
                        r"ADMINISTRAT(OR|RIX)|FIDUCIARY|SURVIVING SPOUSE)\b", re.I)
 VS_RE = re.compile(r"\s+(?:-\s*)?(?:VS?\.?|VERSUS)(?:\s*-)?\s+", re.I)
 ETAL_RE = re.compile(r",?\s*\b(ET\s*AL\.?|ET\s*UX\.?|ET\s*VIR\.?)\b.*$", re.I)
@@ -68,7 +69,9 @@ def load_json(path, default):
 
 
 def clean_owner(name: str) -> str:
-    n = ETAL_RE.sub("", re.sub(r"\s+", " ", name or "").strip())
+    n = re.sub(r"\s+", " ", name or "").strip()
+    n = re.sub(r"^([A-Z][A-Z'\-]+)\.([A-Z])", r"\1, \2", n)        # "WISE.LARRY A." -> "WISE, LARRY A."
+    n = ETAL_RE.sub("", n.replace("-ET AL", " ET AL"))
     n = re.sub(r"\b(A\.?K\.?A\.?|F\.?K\.?A\.?|N\.?K\.?A\.?)\b.*$", "", n, flags=re.I)
     n = re.sub(r"^(THE\s+)?(UNKNOWN\s+)?HEIRS[^A-Z]*(AND\s+DEVISEES\s+)?(OF\s+)?", "", n, flags=re.I)
     n = re.sub(r"^(THE\s+)?ESTATE\s+OF\s+", "", n, flags=re.I)
@@ -107,6 +110,7 @@ class Lead:
     mail_state: str = ""
     mail_zip: str = ""
     parse_method: str = ""
+    source_flag: str = ""                # e.g. "Released to Treasurer" (set per source in sources_manual.yaml)
     source_id: str = ""
     source_url: str = ""
     flags: list[str] = field(default_factory=list)
@@ -156,6 +160,8 @@ def rows_to_leads(rows: list[extract.Row], src: dict) -> list[Lead]:
         lead.prop_address = lead.prop_address or r.address
     for lead in by_id.values():
         lead.owner_type = owner_type(f"{lead.owner_raw} {lead.plaintiff}", lead.owner)
+        if src.get("lead_flag"):
+            lead.source_flag = src["lead_flag"]
         if lead.fund_type == "unknown" and re.search(r"treasurer", lead.plaintiff, re.I):
             lead.fund_type = "tax_sale"
     return list(by_id.values())
@@ -328,6 +334,8 @@ def score(lead: Lead, today: date) -> None:
         f.append("New this week")
     if lead.parse_method == "text":
         f.append("Parsed from text - verify")
+    if lead.source_flag:
+        f.append(lead.source_flag)
     lead.flags = f
 
 

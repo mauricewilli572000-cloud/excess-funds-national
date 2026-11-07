@@ -50,7 +50,7 @@ NEGATIVE_TERMS = [
     "surplus property", "surplus equipment", "surplus vehicle", "surplus auction", "surplus items",
     "budget surplus", "excess property", "govdeals", "publicsurplus", "excess liability",
     "excess baggage", "excess heat", "flood", "job", "employment", "rfp", "bid opportunities",
-    "minutes", "agenda",
+    "minutes", "agenda", "court costs", "filing fees", "fee schedule", "cost deposit",
 ]
 # Departments worth following off the main county site (clerk, treasurer...).
 DEPT_LINK_RE = re.compile(
