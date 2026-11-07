@@ -2,7 +2,10 @@ name: Scrape excess funds (nationwide)
 
 on:
   schedule:
-    - cron: "41 10 * * *"   # 10:41 UTC daily (~5:41 AM America/New_York)
+    - cron: "41 10,22 * * *"   # 10:41 + 22:41 UTC (~5:41 AM / 5:41 PM New York)
+  workflow_run:               # also refresh the dashboard after each Cuyahoga lookup batch
+    workflows: ["Cuyahoga docket address lookups"]
+    types: [completed]
   workflow_dispatch:
     inputs:
       state:

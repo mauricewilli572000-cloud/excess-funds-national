@@ -1,8 +1,8 @@
 name: Cuyahoga docket address lookups
 
 # Looks up Cuyahoga excess-funds cases on the Clerk's docket (property address +
-# parcel) and the Fiscal Officer parcel record, biggest surplus first, ~100 min
-# per run. Results cache in data/enrich/39035.json; the daily scrape applies them.
+# parcel) and the Fiscal Officer parcel record, biggest surplus first, 350 cases
+# per run (the docket throttles after ~350 quick searches and recovers in a few hours). Results cache in data/enrich/39035.json; the daily scrape applies them.
 on:
   schedule:
     - cron: "7 1,7,13,19 * * *"
@@ -11,7 +11,7 @@ on:
       limit:
         description: "Max cases this run"
         required: false
-        default: "5000"
+        default: "350"
       cases:
         description: "Optional: only these case numbers (space separated), e.g. CV23976232"
         required: false
@@ -41,7 +41,7 @@ jobs:
         env:
           PYTHONUNBUFFERED: "1"
         run: |
-          ARGS=(--limit "${{ github.event.inputs.limit || '5000' }}" --minutes 100)
+          ARGS=(--limit "${{ github.event.inputs.limit || '350' }}" --minutes 100)
           if [ -n "${{ github.event.inputs.cases }}" ]; then ARGS+=(--case ${{ github.event.inputs.cases }}); fi
           python -m national.enrich_cuyahoga "${ARGS[@]}"
       - name: Commit lookups

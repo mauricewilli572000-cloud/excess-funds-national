@@ -32,7 +32,11 @@ log = logging.getLogger("enrich_cuyahoga")
 COUNTY_ID = "39035"
 CACHE_PATH = config.DATA_DIR / "enrich" / f"{COUNTY_ID}.json"
 DEBUG_PATH = config.DATA_DIR / "enrich" / f"{COUNTY_ID}_debug.json"
-DELAY = 1.0              # seconds between docket requests
+DELAY = 2.0              # seconds between docket requests
+# The docket starts returning empty results after ~350 quick searches (then
+# recovers after a few hours). An unbroken run of empty grids = throttled,
+# not "case not found".
+BLOCK_STREAK = 8
 RETRY_ERRORS_AFTER = timedelta(days=7)
 
 CASE_RE = re.compile(r"^([A-Z]{2})(\d{2})(\d{3,7})$")
@@ -197,12 +201,34 @@ def run(limit: int, minutes: float, only: Optional[list[str]]) -> None:
     s = Searcher()
     deadline = time.monotonic() + minutes * 60
     counts: dict[str, int] = {}
+    empty_streak: list[str] = []     # case keys in the current run of empty results
+    cooled_down = False
     for i, l in enumerate(todo, 1):
         if time.monotonic() > deadline:
             log.info("Time budget reached after %d cases", i - 1)
             break
         entry = s.search(l["case_number"])
         entry["looked_up"] = now_iso()
+        if entry["status"] == "not_found" and entry.get("grid_rows") == 0:
+            empty_streak.append(key(l["case_number"]))
+        elif entry["status"] == "found":
+            empty_streak = []
+        if len(empty_streak) >= BLOCK_STREAK:
+            # Throttled: forget this streak's "not found" results so they get retried.
+            for k in empty_streak:
+                cache.pop(k, None)
+            counts["not_found"] = max(0, counts.get("not_found", 0) - (len(empty_streak) - 1))
+            empty_streak = []
+            if cooled_down:
+                log.warning("Docket still returning empty results after a cool-down — stopping this run; "
+                            "the next scheduled run continues where this left off.")
+                s.debug["stopped_throttled_at"] = now_iso()
+                break
+            log.warning("Docket returning empty results (throttled?) — cooling down 10 minutes")
+            s.sess = None
+            time.sleep(600)
+            cooled_down = True
+            continue
         if entry["status"] == "found":
             parcel_owner(entry, l.get("owner", ""))
         cache[key(l["case_number"])] = entry
