@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-07T14:15:38+00:00",
- "total_leads": 7184,
- "total_surplus": 33303727.4,
- "new_this_run": 6864,
+ "generated_at": "2026-11-07T23:23:56+00:00",
+ "total_leads": 7384,
+ "total_surplus": 35543473.61,
+ "new_this_run": 7064,
  "states": {
   "AK": {
    "leads": 22,
@@ -28,6 +28,16 @@
     }
    }
   },
+  "GA": {
+   "leads": 200,
+   "total": 2239746.21,
+   "counties": {
+    "Chatham County": {
+     "leads": 200,
+     "total": 2239746.21
+    }
+   }
+  },
   "OH": {
    "leads": 7003,
    "total": 31927866.95,
@@ -48,15 +58,15 @@
   }
  },
  "sources": {
-  "total": 46,
-  "usable": 7,
-  "candidates": 35,
-  "portals": 1,
+  "total": 68,
+  "usable": 8,
+  "candidates": 54,
+  "portals": 3,
   "errors_this_run": 0
  },
  "discovery": {
   "counties_total": 3152,
-  "counties_crawled": 338,
-  "counties_with_usable_source": 6
+  "counties_crawled": 487,
+  "counties_with_usable_source": 7
  }
 }
