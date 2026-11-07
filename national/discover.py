@@ -180,6 +180,23 @@ SITE_SEARCH_PATTERNS = [
 ]
 
 
+_HINTS: Optional[dict] = None
+
+
+def discovery_hints() -> dict:
+    """sources_manual.yaml -> discovery_hints: {county_fips: [page urls]}.
+    Pages you point the crawler at; every document linked from them is test-read."""
+    global _HINTS
+    if _HINTS is None:
+        try:
+            import yaml
+            data = yaml.safe_load(config.MANUAL_SOURCES_PATH.read_text(encoding="utf-8")) or {}
+            _HINTS = {str(k): v for k, v in (data.get("discovery_hints") or {}).items()}
+        except Exception:  # noqa: BLE001
+            _HINTS = {}
+    return _HINTS
+
+
 def discover_county(c: dict) -> dict:
     """Returns {"county_id", "seeds", "pages", "candidates": [ {url, anchor, found_on, via, score} ]}."""
     http.reset_stats()
@@ -205,6 +222,10 @@ def discover_county(c: dict) -> dict:
         if not prev or score > prev["score"]:
             candidates[url] = {"url": url, "anchor": anchor[:200], "found_on": found_on, "via": via, "score": score}
 
+    hint_pages = {norm_url(u) for u in discovery_hints().get(c["id"], [])}
+    for h in hint_pages:
+        seed_hosts.add(urlparse(h).netloc.lower().removeprefix("www."))
+        push(h, 1, "hint page (sources_manual.yaml)", "", 200)
     for s in seeds:
         push(s, 0, "home", "", 5)
         for u in sitemap_urls(s):
@@ -240,7 +261,7 @@ def discover_county(c: dict) -> dict:
         body_text = soup.get_text(" ", strip=True)[:20000]
         page_score = term_score(f"{title} {anchor}") + min(term_score(body_text[:3000]), 20)
         # A page that itself contains a table/list with amounts is a candidate too
-        if page_score >= 12 and (soup.find("table") or extract.MONEY_RE.search(body_text)):
+        if norm_url(url) in hint_pages or (page_score >= 12 and (soup.find("table") or extract.MONEY_RE.search(body_text))):
             add_candidate(f.url, title or anchor, found_on, "crawl-page", page_score)
         if depth >= config.MAX_CRAWL_DEPTH:
             continue
@@ -259,9 +280,13 @@ def discover_county(c: dict) -> dict:
             onsite = same_site(host, seed_hosts)
             if s < 0:
                 continue
-            if config.DOC_EXT_RE.search(href):
-                if s >= 10:
-                    add_candidate(href, text, f.url, "crawl", s)
+            on_hint = norm_url(url) in hint_pages
+            if config.DOC_EXT_RE.search(href) or (on_hint and re.search(r"/(documents?|files?|media|uploads|docs)/", href, re.I)):
+                if s >= 10 or on_hint:
+                    add_candidate(href, text, f.url, "hint-page" if on_hint else "crawl", max(s, 10))
+                continue
+            if on_hint and onsite and s >= 0:
+                push(href, depth + 1, text, f.url, 60 + s)
                 continue
             if s >= 10:
                 push(href, depth + 1, text, f.url, 30 + s)
@@ -361,7 +386,7 @@ def run(args) -> None:
                 cands = search_county(c)
                 used_search = bool(cands)
         cands.sort(key=lambda x: -x["score"])
-        evaluated = [e for e in (evaluate_candidate(c, x) for x in cands[:12]) if e]
+        evaluated = [e for e in (evaluate_candidate(c, x) for x in cands[:25]) if e]
         st = {"last_crawled": now_iso(), "seeds": res["seeds"], "pages": res["pages"],
               "candidates": len(cands), "verified": sum(1 for e in evaluated if e["status"] == "auto-verified"),
               "searched": used_search, "http": res.get("http", {}), "links_seen": res.get("links_seen", 0)}

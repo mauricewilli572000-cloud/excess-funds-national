@@ -42,7 +42,7 @@ STRONG_TERMS = [
     "surplus funds", "surplus proceeds", "overbid", "over bid", "overage",
     "excess tax sale", "tax sale excess", "tax sale surplus", "tax deed surplus",
     "surplus from tax sale", "unclaimed surplus", "unclaimed excess", "excess bid",
-    "sheriff sale surplus", "foreclosure surplus",
+    "sheriff sale surplus", "foreclosure surplus", "unapplied funds", "unapplied excess",
 ]
 WEAK_TERMS = ["unclaimed funds", "unclaimed money", "surplus", "excess", "tax deed", "tax sale",
               "sheriff sale", "foreclosure"]

@@ -17,6 +17,10 @@ on:
         description: "Optional: number of counties this run"
         required: false
         default: ""
+      county:
+        description: "Optional: only these 5-digit county FIPS codes (e.g. 39035 = Cuyahoga)"
+        required: false
+        default: ""
       recheck:
         description: "Re-check counties even if they were crawled recently"
         type: boolean
@@ -56,6 +60,7 @@ jobs:
         run: |
           ARGS=()
           if [ -n "${{ github.event.inputs.state }}" ]; then ARGS+=(--state ${{ github.event.inputs.state }}); fi
+          if [ -n "${{ github.event.inputs.county }}" ]; then ARGS+=(--county ${{ github.event.inputs.county }}); fi
           if [ -n "${{ github.event.inputs.limit }}" ]; then ARGS+=(--limit "${{ github.event.inputs.limit }}"); fi
           python -m national.discover "${ARGS[@]}"
       - name: Commit discovery results

@@ -25,6 +25,12 @@ sources:
   #   fund_type: foreclosure        # foreclosure | tax_sale
   #   status: verified
 
+# Pages to start the crawler on for a county (5-digit FIPS -> list of URLs).
+# Every PDF / Excel / CSV linked from these pages gets test-read.
+discovery_hints:
+  "39035":   # Cuyahoga County, OH — Clerk of Courts unapplied / excess funds lists
+    - https://cuyahogacounty.gov/coc/excess-funds
+
 # Approve or turn off a discovered source by its id (from the Sources view).
 overrides: {}
 #  3f2a9c1b7d4e:
