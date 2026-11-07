@@ -31,6 +31,12 @@ discovery_hints:
   "39035":   # Cuyahoga County, OH — Clerk of Courts unapplied / excess funds lists
     - https://cuyahogacounty.gov/coc/excess-funds
 
+# County foreclosure scrapers whose records have addresses by case number.
+# Excess-funds cases with the same case number get the property / mailing address.
+case_xref:
+  "39035":   # Cuyahoga County, OH — your Cuyahoga foreclosure scraper
+    - https://mauricewilli572000-cloud.github.io/franklin-foreclosure-scraper/cuyahoga.json
+
 # Approve or turn off a discovered source by its id (from the Sources view).
 overrides:
   # --- Cuyahoga County, OH (Clerk of Courts excess funds page) ---

@@ -210,6 +210,65 @@ CONNECTORS = {"json_feed": connector_json_feed}
 
 
 # --------------------------------------------------------------------------
+# Address cross-reference: your county foreclosure scrapers already have
+# property + mailing addresses by case number (sources_manual.yaml -> case_xref)
+# --------------------------------------------------------------------------
+
+def _first(d: dict, *keys) -> str:
+    for k in keys:
+        if d.get(k):
+            return str(d[k]).strip()
+    return ""
+
+
+def load_case_xref() -> dict[str, dict[str, dict]]:
+    if not config.MANUAL_SOURCES_PATH.exists():
+        return {}
+    data = yaml.safe_load(config.MANUAL_SOURCES_PATH.read_text(encoding="utf-8")) or {}
+    out: dict[str, dict[str, dict]] = {}
+    for cid, urls in (data.get("case_xref") or {}).items():
+        idx: dict[str, dict] = {}
+        for url in urls if isinstance(urls, list) else [urls]:
+            f = http.fetch(url, check_robots=False)
+            if not f or f.status != 200:
+                log.warning("case_xref: could not load %s", url)
+                continue
+            try:
+                d = json.loads(f.text)
+            except ValueError:
+                continue
+            recs = d.get("leads") or d.get("records") or [] if isinstance(d, dict) else d
+            for r in recs if isinstance(recs, list) else []:
+                k = norm_key(_first(r, "case_number"))
+                if k:
+                    idx[k] = r
+        out[str(cid)] = idx
+        log.info("case_xref %s: %d cases with addresses", cid, len(idx))
+    return out
+
+
+def apply_case_xref(leads: list, xref: dict[str, dict[str, dict]]) -> int:
+    hits = 0
+    for l in leads:
+        r = xref.get(l.county_id, {}).get(norm_key(l.case_number))
+        if not r:
+            continue
+        hits += 1
+        l.prop_address = l.prop_address or _first(r, "prop_address", "property_address")
+        l.prop_city = l.prop_city or _first(r, "prop_city", "property_city")
+        l.prop_zip = l.prop_zip or _first(r, "prop_zip", "property_zip")
+        l.parcel = l.parcel or _first(r, "parcel_number", "parcel")
+        if not l.mail_address:
+            l.mail_address = _first(r, "mail_address", "mailing_address")
+            l.mail_city = _first(r, "mail_city", "mailing_city")
+            l.mail_state = _first(r, "mail_state", "mailing_state")
+            l.mail_zip = _first(r, "mail_zip", "mailing_zip")
+        if "Matched to foreclosure record" not in l.score_reasons:
+            l.source_flag = (l.source_flag + "; " if l.source_flag else "") + "Matched to foreclosure record"
+    return hits
+
+
+# --------------------------------------------------------------------------
 # Sources
 # --------------------------------------------------------------------------
 
@@ -344,7 +403,7 @@ def score(lead: Lead, today: date) -> None:
     if lead.parse_method == "text":
         f.append("Parsed from text - verify")
     if lead.source_flag:
-        f.append(lead.source_flag)
+        f.extend(x.strip() for x in lead.source_flag.split(";") if x.strip())
     lead.flags = f
 
 
@@ -505,6 +564,9 @@ def run(args) -> dict:
                      info.get("error") or f"{info['leads']} leads")
             all_leads.extend(leads)
             infos.append(info)
+    xref = load_case_xref()
+    if xref:
+        log.info("Foreclosure case cross-reference matched %d leads", apply_case_xref(all_leads, xref))
     scraped = {i["id"] for i in infos if i["result"] in ("ok", "unchanged")}
     merged = merge_history(all_leads, scraped, date.today().isoformat())
     today = date.today()
