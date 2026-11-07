@@ -1,0 +1,29 @@
+name: Inspect a source (debug)
+
+# Downloads one or more list URLs and prints their raw rows to the log,
+# so a list that "reads 0 rows" can be diagnosed. Changes nothing.
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "One or more URLs separated by spaces"
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  inspect:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+      - run: pip install -r requirements.txt
+      - name: Inspect
+        env:
+          URLS: ${{ github.event.inputs.urls }}
+        run: python -m national.inspect $URLS
