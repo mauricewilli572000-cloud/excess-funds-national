@@ -1,9 +1,33 @@
 {
- "generated_at": "2026-11-07T04:27:28+00:00",
- "total_leads": 7003,
- "total_surplus": 31927866.95,
- "new_this_run": 6683,
+ "generated_at": "2026-11-07T14:15:38+00:00",
+ "total_leads": 7184,
+ "total_surplus": 33303727.4,
+ "new_this_run": 6864,
  "states": {
+  "AK": {
+   "leads": 22,
+   "total": 354204.06,
+   "counties": {
+    "Fairbanks North Star Borough": {
+     "leads": 22,
+     "total": 354204.06
+    }
+   }
+  },
+  "CA": {
+   "leads": 159,
+   "total": 1021656.39,
+   "counties": {
+    "Imperial County": {
+     "leads": 137,
+     "total": 942955.74
+    },
+    "Lassen County": {
+     "leads": 22,
+     "total": 78700.65
+    }
+   }
+  },
   "OH": {
    "leads": 7003,
    "total": 31927866.95,
@@ -24,15 +48,15 @@
   }
  },
  "sources": {
-  "total": 8,
-  "usable": 4,
-  "candidates": 1,
-  "portals": 0,
+  "total": 46,
+  "usable": 7,
+  "candidates": 35,
+  "portals": 1,
   "errors_this_run": 0
  },
  "discovery": {
   "counties_total": 3152,
-  "counties_crawled": 40,
-  "counties_with_usable_source": 3
+  "counties_crawled": 338,
+  "counties_with_usable_source": 6
  }
 }
