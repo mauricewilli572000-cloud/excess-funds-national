@@ -512,5 +512,2126 @@
    "404": 4
   },
   "links_seen": 2433
+ },
+ "01007": {
+  "last_crawled": "2026-11-07T06:16:40+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "01005": {
+  "last_crawled": "2026-11-07T06:16:41+00:00",
+  "seeds": [
+   "https://barbourcountyal.gov/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6,
+   "robots_blocked": 2
+  },
+  "links_seen": 182
+ },
+ "01011": {
+  "last_crawled": "2026-11-07T06:16:44+00:00",
+  "seeds": [
+   "https://bullockcountyal.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "01013": {
+  "last_crawled": "2026-11-07T06:16:53+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "01023": {
+  "last_crawled": "2026-11-07T06:16:55+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "503": 2
+  },
+  "links_seen": 0
+ },
+ "01001": {
+  "last_crawled": "2026-11-07T06:17:02+00:00",
+  "seeds": [
+   "https://autaugacountyal.org/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 8,
+   "404": 4
+  },
+  "links_seen": 158
+ },
+ "01025": {
+  "last_crawled": "2026-11-07T06:17:08+00:00",
+  "seeds": [
+   "https://clarkecountyal.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "01029": {
+  "last_crawled": "2026-11-07T06:17:10+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 22,
+   "202": 6
+  },
+  "links_seen": 0
+ },
+ "01027": {
+  "last_crawled": "2026-11-07T06:17:34+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "01031": {
+  "last_crawled": "2026-11-07T06:17:43+00:00",
+  "seeds": [
+   "https://coffeecounty.us/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 9,
+   "robots_blocked": 2
+  },
+  "links_seen": 138
+ },
+ "01019": {
+  "last_crawled": "2026-11-07T06:17:44+00:00",
+  "seeds": [
+   "https://cherokeecounty-al.gov/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 12,
+   "404": 4
+  },
+  "links_seen": 103
+ },
+ "01035": {
+  "last_crawled": "2026-11-07T06:17:44+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "404": 2
+  },
+  "links_seen": 0
+ },
+ "01033": {
+  "last_crawled": "2026-11-07T06:17:47+00:00",
+  "seeds": [
+   "https://colbertcounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 15
+ },
+ "01037": {
+  "last_crawled": "2026-11-07T06:17:50+00:00",
+  "seeds": [
+   "https://coosacountyal.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "01021": {
+  "last_crawled": "2026-11-07T06:17:51+00:00",
+  "seeds": [
+   "https://chiltoncounty.org/"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 18,
+   "404": 4
+  },
+  "links_seen": 424
+ },
+ "01041": {
+  "last_crawled": "2026-11-07T06:17:53+00:00",
+  "seeds": [
+   "https://crenshawcounty.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "01045": {
+  "last_crawled": "2026-11-07T06:17:58+00:00",
+  "seeds": [
+   "https://dalecountyal.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 64
+ },
+ "01043": {
+  "last_crawled": "2026-11-07T06:17:59+00:00",
+  "seeds": [
+   "https://co.cullman.al.us/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 3,
+   "404": 6
+  },
+  "links_seen": 129
+ },
+ "01049": {
+  "last_crawled": "2026-11-07T06:18:00+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "202": 2
+  },
+  "links_seen": 0
+ },
+ "01017": {
+  "last_crawled": "2026-11-07T06:18:01+00:00",
+  "seeds": [
+   "https://chamberscountyal.gov/"
+  ],
+  "pages": 12,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 7,
+   "conn_error": 1
+  },
+  "links_seen": 716
+ },
+ "01039": {
+  "last_crawled": "2026-11-07T06:18:02+00:00",
+  "seeds": [
+   "https://covingtoncountyal.gov/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8,
+   "robots_blocked": 2
+  },
+  "links_seen": 392
+ },
+ "01009": {
+  "last_crawled": "2026-11-07T06:18:20+00:00",
+  "seeds": [
+   "https://blountcountyal.gov/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8,
+   "404": 4,
+   "conn_error": 2
+  },
+  "links_seen": 106
+ },
+ "01053": {
+  "last_crawled": "2026-11-07T06:18:26+00:00",
+  "seeds": [
+   "https://escambiacountyal.gov/"
+  ],
+  "pages": 17,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 15,
+   "200": 4
+  },
+  "links_seen": 728
+ },
+ "01059": {
+  "last_crawled": "2026-11-07T06:18:27+00:00",
+  "seeds": [
+   "https://franklincountyal.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "01061": {
+  "last_crawled": "2026-11-07T06:18:32+00:00",
+  "seeds": [
+   "https://genevacountyal.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "202": 7
+  },
+  "links_seen": 0
+ },
+ "01003": {
+  "last_crawled": "2026-11-07T06:18:36+00:00",
+  "seeds": [
+   "https://baldwincountyal.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 55,
+   "404": 5,
+   "conn_error": 1
+  },
+  "links_seen": 2939
+ },
+ "01063": {
+  "last_crawled": "2026-11-07T06:18:37+00:00",
+  "seeds": [
+   "https://greenecounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 6
+  },
+  "links_seen": 8
+ },
+ "01065": {
+  "last_crawled": "2026-11-07T06:18:38+00:00",
+  "seeds": [
+   "https://halecountyal.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "01071": {
+  "last_crawled": "2026-11-07T06:18:45+00:00",
+  "seeds": [
+   "https://jacksoncountyal.gov/"
+  ],
+  "pages": 6,
+  "candidates": 2,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 218
+ },
+ "01067": {
+  "last_crawled": "2026-11-07T06:18:46+00:00",
+  "seeds": [
+   "https://henrycountyal.gov/",
+   "https://henrycountysheriff-al.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14
+  },
+  "links_seen": 0
+ },
+ "01057": {
+  "last_crawled": "2026-11-07T06:18:48+00:00",
+  "seeds": [
+   "https://fayettecounty.us/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 17
+  },
+  "links_seen": 119
+ },
+ "01055": {
+  "last_crawled": "2026-11-07T06:18:51+00:00",
+  "seeds": [
+   "https://etowahcounty.org/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 19,
+   "200": 5,
+   "404": 4
+  },
+  "links_seen": 150
+ },
+ "01075": {
+  "last_crawled": "2026-11-07T06:18:52+00:00",
+  "seeds": [
+   "https://lamarcountyal.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "01073": {
+  "last_crawled": "2026-11-07T06:18:54+00:00",
+  "seeds": [
+   "https://jeffersoncounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 2,
+   "404": 2,
+   "403": 4
+  },
+  "links_seen": 90
+ },
+ "01077": {
+  "last_crawled": "2026-11-07T06:18:55+00:00",
+  "seeds": [
+   "https://lauderdalecountyal.gov/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8,
+   "robots_blocked": 1
+  },
+  "links_seen": 565
+ },
+ "01085": {
+  "last_crawled": "2026-11-07T06:18:57+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 25,
+   "200": 3
+  },
+  "links_seen": 0
+ },
+ "01079": {
+  "last_crawled": "2026-11-07T06:18:57+00:00",
+  "seeds": [
+   "https://lawrencecountyal.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "01083": {
+  "last_crawled": "2026-11-07T06:19:01+00:00",
+  "seeds": [
+   "https://limestonecounty-al.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "01087": {
+  "last_crawled": "2026-11-07T06:19:03+00:00",
+  "seeds": [
+   "https://maconcountyal.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "01089": {
+  "last_crawled": "2026-11-07T06:19:03+00:00",
+  "seeds": [
+   "https://madisoncountyal.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "01047": {
+  "last_crawled": "2026-11-07T06:19:06+00:00",
+  "seeds": [
+   "https://www.dallascounty.org/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 19,
+   "200": 54,
+   "404": 8,
+   "robots_blocked": 1
+  },
+  "links_seen": 9896
+ },
+ "01091": {
+  "last_crawled": "2026-11-07T06:19:12+00:00",
+  "seeds": [
+   "https://www.marengocountyal.com/Default.asp"
+  ],
+  "pages": 7,
+  "candidates": 1,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 9,
+   "robots_blocked": 1
+  },
+  "links_seen": 545
+ },
+ "01093": {
+  "last_crawled": "2026-11-07T06:19:13+00:00",
+  "seeds": [
+   "https://marioncountyal.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "01097": {
+  "last_crawled": "2026-11-07T06:19:16+00:00",
+  "seeds": [
+   "https://mobilecountyal.gov/"
+  ],
+  "pages": 11,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 13
+  },
+  "links_seen": 1719
+ },
+ "01099": {
+  "last_crawled": "2026-11-07T06:19:18+00:00",
+  "seeds": [
+   "https://monroecountyal.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "01101": {
+  "last_crawled": "2026-11-07T06:19:23+00:00",
+  "seeds": [
+   "https://montgomerycountyal.gov/",
+   "https://montgomeryprobatecourtal.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 14
+  },
+  "links_seen": 0
+ },
+ "01105": {
+  "last_crawled": "2026-11-07T06:19:25+00:00",
+  "seeds": [
+   "https://perrycountyal.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "01109": {
+  "last_crawled": "2026-11-07T06:19:26+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "01051": {
+  "last_crawled": "2026-11-07T06:19:32+00:00",
+  "seeds": [
+   "https://elmorecounty.org/"
+  ],
+  "pages": 37,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 37,
+   "404": 6
+  },
+  "links_seen": 1994
+ },
+ "01111": {
+  "last_crawled": "2026-11-07T06:19:33+00:00",
+  "seeds": [
+   "https://randolphcountyalabama.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "01095": {
+  "last_crawled": "2026-11-07T06:19:35+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "01107": {
+  "last_crawled": "2026-11-07T06:19:39+00:00",
+  "seeds": [
+   "https://pickenscountyal.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 9,
+   "404": 5
+  },
+  "links_seen": 38
+ },
+ "01015": {
+  "last_crawled": "2026-11-07T06:19:41+00:00",
+  "seeds": [
+   "https://calhouncountyal.gov/",
+   "https://calhounalsheriff.gov/"
+  ],
+  "pages": 39,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 32,
+   "conn_error": 10,
+   "404": 1
+  },
+  "links_seen": 583
+ },
+ "01069": {
+  "last_crawled": "2026-11-07T06:19:43+00:00",
+  "seeds": [
+   "https://houstoncountyal.gov/"
+  ],
+  "pages": 35,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 4,
+   "200": 32,
+   "conn_error": 1
+  },
+  "links_seen": 364
+ },
+ "01123": {
+  "last_crawled": "2026-11-07T06:19:45+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "01125": {
+  "last_crawled": "2026-11-07T06:19:46+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "01113": {
+  "last_crawled": "2026-11-07T06:19:52+00:00",
+  "seeds": [
+   "https://russellcountyal.gov/"
+  ],
+  "pages": 18,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 14
+  },
+  "links_seen": 2189
+ },
+ "01117": {
+  "last_crawled": "2026-11-07T06:19:52+00:00",
+  "seeds": [
+   "https://www.shelbycounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 19,
+   "200": 1,
+   "robots_blocked": 7
+  },
+  "links_seen": 0
+ },
+ "01131": {
+  "last_crawled": "2026-11-07T06:19:58+00:00",
+  "seeds": [
+   "https://wilcoxcountyal.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "01133": {
+  "last_crawled": "2026-11-07T06:19:59+00:00",
+  "seeds": [
+   "https://winstoncountyalabama.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 6,
+   "200": 1,
+   "robots_blocked": 7
+  },
+  "links_seen": 0
+ },
+ "02013": {
+  "last_crawled": "2026-11-07T06:20:01+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "02016": {
+  "last_crawled": "2026-11-07T06:20:02+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "02020": {
+  "last_crawled": "2026-11-07T06:20:05+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "02050": {
+  "last_crawled": "2026-11-07T06:20:07+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "02060": {
+  "last_crawled": "2026-11-07T06:20:08+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "01115": {
+  "last_crawled": "2026-11-07T06:20:09+00:00",
+  "seeds": [
+   "https://stclaircounty.org/"
+  ],
+  "pages": 36,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 33,
+   "404": 6
+  },
+  "links_seen": 621
+ },
+ "02066": {
+  "last_crawled": "2026-11-07T06:20:10+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "02068": {
+  "last_crawled": "2026-11-07T06:20:11+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "02070": {
+  "last_crawled": "2026-11-07T06:20:11+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "01127": {
+  "last_crawled": "2026-11-07T06:20:18+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "02105": {
+  "last_crawled": "2026-11-07T06:20:19+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "02100": {
+  "last_crawled": "2026-11-07T06:20:19+00:00",
+  "seeds": [
+   "https://hainesalaska.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 11
+  },
+  "links_seen": 0
+ },
+ "01119": {
+  "last_crawled": "2026-11-07T06:20:19+00:00",
+  "seeds": [
+   "https://sumtercountyal.com/"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 5,
+   "404": 6
+  },
+  "links_seen": 139
+ },
+ "02122": {
+  "last_crawled": "2026-11-07T06:20:21+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "02130": {
+  "last_crawled": "2026-11-07T06:20:21+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "02090": {
+  "last_crawled": "2026-11-07T06:20:23+00:00",
+  "seeds": [
+   "https://fnsb.gov/"
+  ],
+  "pages": 9,
+  "candidates": 3,
+  "verified": 1,
+  "searched": false,
+  "http": {
+   "200": 9,
+   "robots_blocked": 2
+  },
+  "links_seen": 301
+ },
+ "02158": {
+  "last_crawled": "2026-11-07T06:20:25+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "02164": {
+  "last_crawled": "2026-11-07T06:20:24+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "01129": {
+  "last_crawled": "2026-11-07T06:20:26+00:00",
+  "seeds": [
+   "https://washingtoncountyal.com/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 3,
+   "robots_blocked": 7
+  },
+  "links_seen": 0
+ },
+ "02180": {
+  "last_crawled": "2026-11-07T06:20:26+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "02185": {
+  "last_crawled": "2026-11-07T06:20:27+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "02188": {
+  "last_crawled": "2026-11-07T06:20:28+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "02150": {
+  "last_crawled": "2026-11-07T06:20:28+00:00",
+  "seeds": [
+   "https://kodiak.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8
+  },
+  "links_seen": 0
+ },
+ "02195": {
+  "last_crawled": "2026-11-07T06:20:31+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "02198": {
+  "last_crawled": "2026-11-07T06:20:29+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "02220": {
+  "last_crawled": "2026-11-07T06:20:30+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "02230": {
+  "last_crawled": "2026-11-07T06:20:31+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "02170": {
+  "last_crawled": "2026-11-07T06:20:32+00:00",
+  "seeds": [
+   "https://matsu.gov/"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7,
+   "404": 3
+  },
+  "links_seen": 140
+ },
+ "02282": {
+  "last_crawled": "2026-11-07T06:20:33+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "02275": {
+  "last_crawled": "2026-11-07T06:20:34+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "02240": {
+  "last_crawled": "2026-11-07T06:20:34+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "02261": {
+  "last_crawled": "2026-11-07T06:20:34+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "02290": {
+  "last_crawled": "2026-11-07T06:20:34+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "04003": {
+  "last_crawled": "2026-11-07T06:20:51+00:00",
+  "seeds": [
+   "https://cochise.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 9,
+   "conn_error": 2
+  },
+  "links_seen": 0
+ },
+ "02110": {
+  "last_crawled": "2026-11-07T06:20:51+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 27,
+   "200": 1
+  },
+  "links_seen": 0
+ },
+ "01103": {
+  "last_crawled": "2026-11-07T06:20:54+00:00",
+  "seeds": [
+   "https://morgancounty-al.gov/",
+   "https://morgancountysheriffal.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 60,
+   "404": 2,
+   "conn_error": 1
+  },
+  "links_seen": 7286
+ },
+ "04012": {
+  "last_crawled": "2026-11-07T06:20:58+00:00",
+  "seeds": [
+   "https://lapaz.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 136
+ },
+ "04001": {
+  "last_crawled": "2026-11-07T06:21:02+00:00",
+  "seeds": [
+   "https://apachecounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "403": 4,
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 0
+ },
+ "04005": {
+  "last_crawled": "2026-11-07T06:21:11+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "04017": {
+  "last_crawled": "2026-11-07T06:21:19+00:00",
+  "seeds": [
+   "https://www.navajocountyaz.gov/",
+   "https://www.navajocountyaz.gov/157/Sheriff"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 9,
+   "robots_blocked": 2
+  },
+  "links_seen": 266
+ },
+ "01081": {
+  "last_crawled": "2026-11-07T06:21:21+00:00",
+  "seeds": [
+   "https://leecountyal.gov/",
+   "https://leecosheriffal.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 8,
+   "200": 52,
+   "conn_error": 3
+  },
+  "links_seen": 2277
+ },
+ "01121": {
+  "last_crawled": "2026-11-07T06:21:43+00:00",
+  "seeds": [
+   "https://talladegacountyal.org/"
+  ],
+  "pages": 53,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 48,
+   "404": 6
+  },
+  "links_seen": 1612
+ },
+ "04023": {
+  "last_crawled": "2026-11-07T06:21:51+00:00",
+  "seeds": [
+   "https://santacruzcountyaz.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 11
+  },
+  "links_seen": 0
+ },
+ "04011": {
+  "last_crawled": "2026-11-07T06:21:58+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "04013": {
+  "last_crawled": "2026-11-07T06:21:59+00:00",
+  "seeds": [
+   "https://www.maricopa.gov/"
+  ],
+  "pages": 60,
+  "candidates": 9,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 56,
+   "robots_blocked": 2,
+   "403": 3,
+   "404": 1
+  },
+  "links_seen": 5152
+ },
+ "04025": {
+  "last_crawled": "2026-11-07T06:22:03+00:00",
+  "seeds": [
+   "https://yavapaicoesa.gov/",
+   "https://ycsoaz.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "202": 8,
+   "403": 11
+  },
+  "links_seen": 0
+ },
+ "04007": {
+  "last_crawled": "2026-11-07T06:22:04+00:00",
+  "seeds": [
+   "https://www.gilacountyaz.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 56,
+   "404": 6,
+   "403": 1
+  },
+  "links_seen": 5527
+ },
+ "04027": {
+  "last_crawled": "2026-11-07T06:22:04+00:00",
+  "seeds": [
+   "https://yumacountyaz.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "05003": {
+  "last_crawled": "2026-11-07T06:22:05+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "403": 2
+  },
+  "links_seen": 0
+ },
+ "05007": {
+  "last_crawled": "2026-11-07T06:22:11+00:00",
+  "seeds": [
+   "https://bentoncountyar.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "05001": {
+  "last_crawled": "2026-11-07T06:22:11+00:00",
+  "seeds": [
+   "https://arkansascountyar.gov/",
+   "https://arkansascountyarcircuitclerk.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18
+  },
+  "links_seen": 0
+ },
+ "04009": {
+  "last_crawled": "2026-11-07T06:22:11+00:00",
+  "seeds": [
+   "https://grahamcounty.org/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 57,
+   "404": 6
+  },
+  "links_seen": 305
+ },
+ "04019": {
+  "last_crawled": "2026-11-07T06:22:12+00:00",
+  "seeds": [
+   "https://pimacountyaz.org/"
+  ],
+  "pages": 15,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 14,
+   "404": 4
+  },
+  "links_seen": 998
+ },
+ "04021": {
+  "last_crawled": "2026-11-07T06:22:12+00:00",
+  "seeds": [
+   "https://pinalcountyaz.gov/",
+   "https://pinalcourtsaz.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 8,
+   "200": 51,
+   "robots_blocked": 4
+  },
+  "links_seen": 2075
+ },
+ "05011": {
+  "last_crawled": "2026-11-07T06:22:13+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "05005": {
+  "last_crawled": "2026-11-07T06:22:16+00:00",
+  "seeds": [
+   "https://baxtercountyar.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 6
+  },
+  "links_seen": 879
+ },
+ "05013": {
+  "last_crawled": "2026-11-07T06:22:17+00:00",
+  "seeds": [
+   "https://calhouncountyar.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7
+  },
+  "links_seen": 0
+ },
+ "05025": {
+  "last_crawled": "2026-11-07T06:22:19+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "05009": {
+  "last_crawled": "2026-11-07T06:22:20+00:00",
+  "seeds": [
+   "https://boonecounty-ar.gov/",
+   "https://boonecountyartreasurer.gov/",
+   "https://boonesheriffar.gov/"
+  ],
+  "pages": 15,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 21
+  },
+  "links_seen": 0
+ },
+ "05017": {
+  "last_crawled": "2026-11-07T06:22:22+00:00",
+  "seeds": [
+   "https://chicotcountyar.gov/",
+   "https://chicotcircuitclerk.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14
+  },
+  "links_seen": 0
+ },
+ "05021": {
+  "last_crawled": "2026-11-07T06:22:24+00:00",
+  "seeds": [
+   "https://www.claycountyarkansas.org/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 6,
+   "200": 8,
+   "404": 4
+  },
+  "links_seen": 320
+ },
+ "05029": {
+  "last_crawled": "2026-11-07T06:22:28+00:00",
+  "seeds": [
+   "https://conwaycounty.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 9,
+   "403": 2
+  },
+  "links_seen": 0
+ },
+ "05031": {
+  "last_crawled": "2026-11-07T06:22:30+00:00",
+  "seeds": [
+   "https://craigheadcountyar.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "05023": {
+  "last_crawled": "2026-11-07T06:22:30+00:00",
+  "seeds": [
+   "https://www.cleburnecountyar.com/"
+  ],
+  "pages": 12,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 14,
+   "404": 2
+  },
+  "links_seen": 701
+ },
+ "05027": {
+  "last_crawled": "2026-11-07T06:22:31+00:00",
+  "seeds": [
+   "https://ww17.columbiacounty.org/",
+   "https://columbiacircuitclerkar.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 25,
+   "200": 8
+  },
+  "links_seen": 5
+ },
+ "05041": {
+  "last_crawled": "2026-11-07T06:22:34+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "403": 2
+  },
+  "links_seen": 0
+ },
+ "05037": {
+  "last_crawled": "2026-11-07T06:22:45+00:00",
+  "seeds": [
+   "https://crosscountyar.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "05043": {
+  "last_crawled": "2026-11-07T06:22:47+00:00",
+  "seeds": [
+   "https://drewcountyar.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "05019": {
+  "last_crawled": "2026-11-07T06:22:52+00:00",
+  "seeds": [
+   "https://clarkcountyar.gov/"
+  ],
+  "pages": 19,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 20,
+   "404": 6
+  },
+  "links_seen": 1007
+ },
+ "05015": {
+  "last_crawled": "2026-11-07T06:22:58+00:00",
+  "seeds": [
+   "https://carrollcountyarkansas.org/",
+   "https://carrollcountysheriffar.gov/"
+  ],
+  "pages": 37,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 6,
+   "200": 32,
+   "404": 8
+  },
+  "links_seen": 291
+ },
+ "05049": {
+  "last_crawled": "2026-11-07T06:23:04+00:00",
+  "seeds": [
+   "https://fultoncountyar.gov/"
+  ],
+  "pages": 18,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 17,
+   "404": 2
+  },
+  "links_seen": 679
+ },
+ "05051": {
+  "last_crawled": "2026-11-07T06:23:06+00:00",
+  "seeds": [
+   "http://garlandcountyar.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 2,
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 1
+ },
+ "05047": {
+  "last_crawled": "2026-11-07T06:23:07+00:00",
+  "seeds": [
+   "https://franklincountyar.gov/",
+   "https://franklincircuitclerkar.gov/"
+  ],
+  "pages": 18,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 14,
+   "conn_error": 7,
+   "404": 4
+  },
+  "links_seen": 563
+ },
+ "05057": {
+  "last_crawled": "2026-11-07T06:23:09+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "202": 2
+  },
+  "links_seen": 0
+ },
+ "05055": {
+  "last_crawled": "2026-11-07T06:23:12+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 23,
+   "200": 3,
+   "526": 2
+  },
+  "links_seen": 0
+ },
+ "04015": {
+  "last_crawled": "2026-11-07T06:23:13+00:00",
+  "seeds": [
+   "https://www.mohave.gov/"
+  ],
+  "pages": 60,
+  "candidates": 6,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 60,
+   "conn_error": 2
+  },
+  "links_seen": 5519
+ },
+ "05053": {
+  "last_crawled": "2026-11-07T06:23:16+00:00",
+  "seeds": [
+   "https://grantcounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 76
+ },
+ "05059": {
+  "last_crawled": "2026-11-07T06:23:17+00:00",
+  "seeds": [
+   "https://hotspringcircuitclerkar.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 32,
+   "202": 2,
+   "200": 1
+  },
+  "links_seen": 0
+ },
+ "05067": {
+  "last_crawled": "2026-11-07T06:23:25+00:00",
+  "seeds": [
+   "https://jacksoncountyar.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "05061": {
+  "last_crawled": "2026-11-07T06:23:30+00:00",
+  "seeds": [
+   "https://howardcircuitclerkar.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 35
+  },
+  "links_seen": 0
+ },
+ "05033": {
+  "last_crawled": "2026-11-07T06:23:32+00:00",
+  "seeds": [
+   "https://crawfordcountyar.gov/",
+   "https://21circuitcourtar.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 52,
+   "404": 5,
+   "conn_error": 7,
+   "robots_blocked": 1
+  },
+  "links_seen": 1220
+ },
+ "05071": {
+  "last_crawled": "2026-11-07T06:23:32+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 24,
+   "200": 4
+  },
+  "links_seen": 0
+ },
+ "05039": {
+  "last_crawled": "2026-11-07T06:23:43+00:00",
+  "seeds": [
+   "https://www.dallascounty.org/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 19,
+   "200": 54,
+   "404": 8,
+   "robots_blocked": 1
+  },
+  "links_seen": 9896
+ },
+ "05069": {
+  "last_crawled": "2026-11-07T06:23:45+00:00",
+  "seeds": [
+   "https://jeffersoncountyar.gov/",
+   "https://jeffersoncoarclerk.gov/",
+   "https://jeffersoncountyarsheriff.gov/",
+   "https://jeffersoncountyarcourts.gov/"
+  ],
+  "pages": 20,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 11,
+   "conn_error": 21
+  },
+  "links_seen": 0
+ },
+ "05045": {
+  "last_crawled": "2026-11-07T06:23:49+00:00",
+  "seeds": [
+   "https://faulknercountyar.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 60
+  },
+  "links_seen": 6551
+ },
+ "05063": {
+  "last_crawled": "2026-11-07T06:23:50+00:00",
+  "seeds": [
+   "https://independencecircuitclerkar.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 35
+  },
+  "links_seen": 0
+ },
+ "05065": {
+  "last_crawled": "2026-11-07T06:24:16+00:00",
+  "seeds": [
+   "https://www.izardcountyar.org/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 17,
+   "200": 59,
+   "404": 2
+  },
+  "links_seen": 698
+ },
+ "05035": {
+  "last_crawled": "2026-11-07T06:26:01+00:00",
+  "seeds": [
+   "https://www.crittendencountyar.org/",
+   "https://crittcircuitclerkar.gov/"
+  ],
+  "pages": 17,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 23,
+   "200": 13,
+   "404": 2
+  },
+  "links_seen": 427
  }
 }
