@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-08T18:59:27+00:00",
- "total_leads": 7442,
- "total_surplus": 35769203.83,
- "new_this_run": 58,
+ "generated_at": "2026-11-08T22:36:54+00:00",
+ "total_leads": 7447,
+ "total_surplus": 36747089.17,
+ "new_this_run": 63,
  "states": {
   "AK": {
    "leads": 22,
@@ -15,8 +15,8 @@
    }
   },
   "CA": {
-   "leads": 159,
-   "total": 1021656.39,
+   "leads": 164,
+   "total": 1999541.73,
    "counties": {
     "Imperial County": {
      "leads": 137,
@@ -25,6 +25,10 @@
     "Lassen County": {
      "leads": 22,
      "total": 78700.65
+    },
+    "Sacramento County": {
+     "leads": 5,
+     "total": 977885.34
     }
    }
   },
@@ -63,14 +67,14 @@
  },
  "sources": {
   "total": 81,
-  "usable": 9,
-  "candidates": 66,
+  "usable": 11,
+  "candidates": 61,
   "portals": 3,
   "errors_this_run": 0
  },
  "discovery": {
   "counties_total": 3152,
   "counties_crawled": 785,
-  "counties_with_usable_source": 8
+  "counties_with_usable_source": 9
  }
 }
