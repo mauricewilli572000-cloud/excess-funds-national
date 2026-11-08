@@ -7168,5 +7168,2204 @@
    "200": 53
   },
   "links_seen": 3664
+ },
+ "13125": {
+  "last_crawled": "2026-11-08T06:22:02+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "403": 2
+  },
+  "links_seen": 0
+ },
+ "13127": {
+  "last_crawled": "2026-11-08T06:22:12+00:00",
+  "seeds": [
+   "https://glynncounty-ga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "13129": {
+  "last_crawled": "2026-11-08T06:22:14+00:00",
+  "seeds": [
+   "https://gordoncountyga.gov/"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8,
+   "robots_blocked": 2
+  },
+  "links_seen": 266
+ },
+ "13139": {
+  "last_crawled": "2026-11-08T06:22:18+00:00",
+  "seeds": [
+   "https://hallcountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "13141": {
+  "last_crawled": "2026-11-08T06:22:21+00:00",
+  "seeds": [
+   "https://hancockcountyga.gov/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6,
+   "404": 2,
+   "robots_blocked": 2
+  },
+  "links_seen": 188
+ },
+ "13121": {
+  "last_crawled": "2026-11-08T06:22:29+00:00",
+  "seeds": [
+   "https://fultoncountyga.gov/"
+  ],
+  "pages": 24,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 24,
+   "202": 1
+  },
+  "links_seen": 4931
+ },
+ "13123": {
+  "last_crawled": "2026-11-08T06:22:34+00:00",
+  "seeds": [
+   "https://gilmercounty-ga.gov/",
+   "https://gilmersheriffga.gov/"
+  ],
+  "pages": 27,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 19,
+   "404": 11,
+   "403": 1
+  },
+  "links_seen": 1430
+ },
+ "13147": {
+  "last_crawled": "2026-11-08T06:22:37+00:00",
+  "seeds": [
+   "https://hartcountyga.gov/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 2
+  },
+  "links_seen": 145
+ },
+ "13143": {
+  "last_crawled": "2026-11-08T06:22:37+00:00",
+  "seeds": [
+   "https://haralsoncountyga.gov/"
+  ],
+  "pages": 22,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 23
+  },
+  "links_seen": 6489
+ },
+ "13131": {
+  "last_crawled": "2026-11-08T06:22:38+00:00",
+  "seeds": [
+   "https://gradycountyga.gov/"
+  ],
+  "pages": 10,
+  "candidates": 1,
+  "verified": 1,
+  "searched": false,
+  "http": {
+   "200": 14,
+   "404": 4
+  },
+  "links_seen": 472
+ },
+ "13153": {
+  "last_crawled": "2026-11-08T06:22:44+00:00",
+  "seeds": [
+   "https://houstoncountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "13157": {
+  "last_crawled": "2026-11-08T06:22:50+00:00",
+  "seeds": [
+   "https://jacksoncountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "13149": {
+  "last_crawled": "2026-11-08T06:22:50+00:00",
+  "seeds": [
+   "https://heardcountyga.com/"
+  ],
+  "pages": 11,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 8,
+   "404": 6
+  },
+  "links_seen": 300
+ },
+ "13155": {
+  "last_crawled": "2026-11-08T06:22:57+00:00",
+  "seeds": [
+   "https://irwincounty-ga.gov/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 16,
+   "404": 4
+  },
+  "links_seen": 881
+ },
+ "13161": {
+  "last_crawled": "2026-11-08T06:23:07+00:00",
+  "seeds": [
+   "https://jeffdaviscountyga.gov/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "404": 4
+  },
+  "links_seen": 161
+ },
+ "13165": {
+  "last_crawled": "2026-11-08T06:23:14+00:00",
+  "seeds": [
+   "https://jenkinscountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "13167": {
+  "last_crawled": "2026-11-08T06:23:16+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "13145": {
+  "last_crawled": "2026-11-08T06:23:16+00:00",
+  "seeds": [
+   "https://harriscountyga.gov/"
+  ],
+  "pages": 12,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 15,
+   "404": 4
+  },
+  "links_seen": 1412
+ },
+ "13159": {
+  "last_crawled": "2026-11-08T06:23:16+00:00",
+  "seeds": [
+   "https://jaspercountyga.org/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 6,
+   "404": 4
+  },
+  "links_seen": 591
+ },
+ "13137": {
+  "last_crawled": "2026-11-08T06:23:20+00:00",
+  "seeds": [
+   "https://www.habershamga.com/"
+  ],
+  "pages": 28,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 2,
+   "200": 30
+  },
+  "links_seen": 10861
+ },
+ "13173": {
+  "last_crawled": "2026-11-08T06:23:24+00:00",
+  "seeds": [
+   "https://lanierprobatecourt.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 35
+  },
+  "links_seen": 0
+ },
+ "13175": {
+  "last_crawled": "2026-11-08T06:23:26+00:00",
+  "seeds": [
+   "https://laurenscoga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "13171": {
+  "last_crawled": "2026-11-08T06:23:46+00:00",
+  "seeds": [
+   "https://www.lamarcountyga.gov/"
+  ],
+  "pages": 11,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "200": 18,
+   "404": 2
+  },
+  "links_seen": 421
+ },
+ "13181": {
+  "last_crawled": "2026-11-08T06:23:46+00:00",
+  "seeds": [
+   "https://lincolncountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "robots_blocked": 7
+  },
+  "links_seen": 0
+ },
+ "13183": {
+  "last_crawled": "2026-11-08T06:23:51+00:00",
+  "seeds": [
+   "https://longcountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 2,
+   "404": 2,
+   "robots_blocked": 2
+  },
+  "links_seen": 144
+ },
+ "13185": {
+  "last_crawled": "2026-11-08T06:23:59+00:00",
+  "seeds": [
+   "https://lowndescountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "13151": {
+  "last_crawled": "2026-11-08T06:24:06+00:00",
+  "seeds": [
+   "https://henrycountyga.gov/",
+   "https://henrycountysheriffga.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 61,
+   "404": 9
+  },
+  "links_seen": 4329
+ },
+ "13189": {
+  "last_crawled": "2026-11-08T06:24:14+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "13177": {
+  "last_crawled": "2026-11-08T06:24:19+00:00",
+  "seeds": [
+   "https://leecountyga.gov/"
+  ],
+  "pages": 17,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 3,
+   "conn_error": 1,
+   "200": 14,
+   "robots_blocked": 1
+  },
+  "links_seen": 1600
+ },
+ "13191": {
+  "last_crawled": "2026-11-08T06:24:20+00:00",
+  "seeds": [
+   "https://mcintoshcounty-ga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "13169": {
+  "last_crawled": "2026-11-08T06:24:26+00:00",
+  "seeds": [
+   "https://www.jonescountyga.org/"
+  ],
+  "pages": 33,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 44,
+   "404": 4
+  },
+  "links_seen": 1044
+ },
+ "13195": {
+  "last_crawled": "2026-11-08T06:24:30+00:00",
+  "seeds": [
+   "https://www.madisoncountyga.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 4,
+   "404": 4
+  },
+  "links_seen": 85
+ },
+ "13193": {
+  "last_crawled": "2026-11-08T06:24:33+00:00",
+  "seeds": [
+   "https://maconcountyga.gov/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 10,
+   "404": 4
+  },
+  "links_seen": 2868
+ },
+ "13199": {
+  "last_crawled": "2026-11-08T06:24:36+00:00",
+  "seeds": [
+   "https://meriwethercountyga.gov/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8
+  },
+  "links_seen": 282
+ },
+ "13197": {
+  "last_crawled": "2026-11-08T06:24:42+00:00",
+  "seeds": [
+   "https://www.marioncountyga.org/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 11,
+   "500": 4
+  },
+  "links_seen": 598
+ },
+ "13205": {
+  "last_crawled": "2026-11-08T06:25:08+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "13201": {
+  "last_crawled": "2026-11-08T06:25:11+00:00",
+  "seeds": [
+   "https://millercountyga.gov/"
+  ],
+  "pages": 37,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 30,
+   "200": 9
+  },
+  "links_seen": 941
+ },
+ "13133": {
+  "last_crawled": "2026-11-08T06:25:17+00:00",
+  "seeds": [
+   "https://greenecountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "13209": {
+  "last_crawled": "2026-11-08T06:25:42+00:00",
+  "seeds": [
+   "https://montgomerycounty.org/",
+   "https://montgomeryprobatecourtga.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 25,
+   "200": 5,
+   "404": 4
+  },
+  "links_seen": 8
+ },
+ "13215": {
+  "last_crawled": "2026-11-08T06:25:44+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "13217": {
+  "last_crawled": "2026-11-08T06:25:49+00:00",
+  "seeds": [
+   "https://newtoncountyga.gov/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6,
+   "robots_blocked": 2
+  },
+  "links_seen": 219
+ },
+ "13207": {
+  "last_crawled": "2026-11-08T06:26:03+00:00",
+  "seeds": [
+   "https://www.monroecounty.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 10,
+   "200": 56,
+   "404": 5,
+   "403": 2
+  },
+  "links_seen": 12558
+ },
+ "13221": {
+  "last_crawled": "2026-11-08T06:26:12+00:00",
+  "seeds": [
+   "https://oglethorpecountyga.gov/"
+  ],
+  "pages": 12,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 10,
+   "404": 4
+  },
+  "links_seen": 403
+ },
+ "13163": {
+  "last_crawled": "2026-11-08T06:26:37+00:00",
+  "seeds": [
+   "https://jeffersoncountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "13223": {
+  "last_crawled": "2026-11-08T06:26:44+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "13179": {
+  "last_crawled": "2026-11-08T06:26:46+00:00",
+  "seeds": [
+   "https://libertycounty-ga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "13227": {
+  "last_crawled": "2026-11-08T06:26:49+00:00",
+  "seeds": [
+   "https://pickenscountyga.gov/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6,
+   "robots_blocked": 2
+  },
+  "links_seen": 216
+ },
+ "13231": {
+  "last_crawled": "2026-11-08T06:26:57+00:00",
+  "seeds": [
+   "https://www.pikecoga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 12,
+   "200": 6,
+   "404": 2
+  },
+  "links_seen": 105
+ },
+ "13233": {
+  "last_crawled": "2026-11-08T06:26:59+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "13225": {
+  "last_crawled": "2026-11-08T06:27:01+00:00",
+  "seeds": [
+   "https://peachcounty.gov/"
+  ],
+  "pages": 14,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 15,
+   "404": 4
+  },
+  "links_seen": 658
+ },
+ "13229": {
+  "last_crawled": "2026-11-08T06:27:03+00:00",
+  "seeds": [
+   "https://piercecountyga.gov/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "200": 15,
+   "404": 4
+  },
+  "links_seen": 764
+ },
+ "13237": {
+  "last_crawled": "2026-11-08T06:27:11+00:00",
+  "seeds": [
+   "https://putnamcounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 2,
+   "429": 6
+  },
+  "links_seen": 14
+ },
+ "13239": {
+  "last_crawled": "2026-11-08T06:27:52+00:00",
+  "seeds": [
+   "https://quitmancountyms.org/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 18,
+   "404": 4
+  },
+  "links_seen": 206
+ },
+ "13243": {
+  "last_crawled": "2026-11-08T06:27:58+00:00",
+  "seeds": [
+   "https://randolphcountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "13235": {
+  "last_crawled": "2026-11-08T06:27:59+00:00",
+  "seeds": [
+   "https://pulaskicounty.org/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 57,
+   "404": 4,
+   "403": 1
+  },
+  "links_seen": 517
+ },
+ "13241": {
+  "last_crawled": "2026-11-08T06:28:02+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "13249": {
+  "last_crawled": "2026-11-08T06:28:04+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "13251": {
+  "last_crawled": "2026-11-08T06:28:27+00:00",
+  "seeds": [
+   "https://screvencountyga.gov/",
+   "https://screvencosheriffga.gov/"
+  ],
+  "pages": 22,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 20,
+   "404": 6,
+   "robots_blocked": 2
+  },
+  "links_seen": 307
+ },
+ "13213": {
+  "last_crawled": "2026-11-08T06:28:43+00:00",
+  "seeds": [
+   "https://murraycountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "13245": {
+  "last_crawled": "2026-11-08T06:28:43+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "13255": {
+  "last_crawled": "2026-11-08T06:28:45+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "13257": {
+  "last_crawled": "2026-11-08T06:28:49+00:00",
+  "seeds": [
+   "https://stephenscountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "13187": {
+  "last_crawled": "2026-11-08T06:28:51+00:00",
+  "seeds": [
+   "https://lumpkincounty.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "13259": {
+  "last_crawled": "2026-11-08T06:28:53+00:00",
+  "seeds": [
+   "https://stewartcountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 1
+  },
+  "links_seen": 174
+ },
+ "13253": {
+  "last_crawled": "2026-11-08T06:28:59+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "403": 2
+  },
+  "links_seen": 0
+ },
+ "13265": {
+  "last_crawled": "2026-11-08T06:29:00+00:00",
+  "seeds": [
+   "https://taliaferrocountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 1
+  },
+  "links_seen": 27
+ },
+ "13267": {
+  "last_crawled": "2026-11-08T06:29:05+00:00",
+  "seeds": [
+   "https://tattnallcountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "13219": {
+  "last_crawled": "2026-11-08T06:29:12+00:00",
+  "seeds": [
+   "https://oconeecountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "13271": {
+  "last_crawled": "2026-11-08T06:29:13+00:00",
+  "seeds": [
+   "https://telfaircountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 1
+  },
+  "links_seen": 0
+ },
+ "13263": {
+  "last_crawled": "2026-11-08T06:29:16+00:00",
+  "seeds": [
+   "https://talbotcountymd.gov"
+  ],
+  "pages": 17,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "403": 4,
+   "200": 18,
+   "404": 2
+  },
+  "links_seen": 3448
+ },
+ "13273": {
+  "last_crawled": "2026-11-08T06:29:19+00:00",
+  "seeds": [
+   "https://terrellcountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 1
+  },
+  "links_seen": 251
+ },
+ "13275": {
+  "last_crawled": "2026-11-08T06:29:19+00:00",
+  "seeds": [
+   "https://thomascountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "13261": {
+  "last_crawled": "2026-11-08T06:29:20+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "13283": {
+  "last_crawled": "2026-11-08T06:29:22+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "13277": {
+  "last_crawled": "2026-11-08T06:29:24+00:00",
+  "seeds": [
+   "https://tiftcounty.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 9,
+   "403": 2
+  },
+  "links_seen": 0
+ },
+ "13287": {
+  "last_crawled": "2026-11-08T06:29:26+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "13269": {
+  "last_crawled": "2026-11-08T06:29:31+00:00",
+  "seeds": [
+   "https://taylorcountyga.com/"
+  ],
+  "pages": 25,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "403": 2,
+   "200": 23,
+   "404": 4
+  },
+  "links_seen": 407
+ },
+ "13281": {
+  "last_crawled": "2026-11-08T06:29:31+00:00",
+  "seeds": [
+   "https://townscountyga.com/",
+   "https://townscountysheriff.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 27,
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 0
+ },
+ "13291": {
+  "last_crawled": "2026-11-08T06:29:38+00:00",
+  "seeds": [
+   "https://unioncountyga.gov/"
+  ],
+  "pages": 9,
+  "candidates": 2,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8,
+   "robots_blocked": 2
+  },
+  "links_seen": 316
+ },
+ "13211": {
+  "last_crawled": "2026-11-08T06:29:52+00:00",
+  "seeds": [
+   "https://morgancountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "13293": {
+  "last_crawled": "2026-11-08T06:30:03+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 27,
+   "200": 1
+  },
+  "links_seen": 0
+ },
+ "13295": {
+  "last_crawled": "2026-11-08T06:30:07+00:00",
+  "seeds": [
+   "https://walkercountyga.gov/"
+  ],
+  "pages": 20,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 15,
+   "200": 7
+  },
+  "links_seen": 1088
+ },
+ "13301": {
+  "last_crawled": "2026-11-08T06:30:12+00:00",
+  "seeds": [
+   "https://warrencountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 2,
+   "404": 4
+  },
+  "links_seen": 0
+ },
+ "13299": {
+  "last_crawled": "2026-11-08T06:30:23+00:00",
+  "seeds": [
+   "https://warecountyga.gov/",
+   "https://waresheriffga.gov/"
+  ],
+  "pages": 11,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "conn_error": 7,
+   "200": 2
+  },
+  "links_seen": 338
+ },
+ "13289": {
+  "last_crawled": "2026-11-08T06:30:42+00:00",
+  "seeds": [
+   "https://www.twiggscounty.us/"
+  ],
+  "pages": 12,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 22,
+   "200": 20,
+   "404": 4
+  },
+  "links_seen": 427
+ },
+ "13247": {
+  "last_crawled": "2026-11-08T06:30:46+00:00",
+  "seeds": [
+   "https://www.rockdalecountyga.gov/",
+   "https://rockdalecoprobatecourt.gov/"
+  ],
+  "pages": 60,
+  "candidates": 1,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 76,
+   "404": 8
+  },
+  "links_seen": 1055
+ },
+ "13309": {
+  "last_crawled": "2026-11-08T06:30:48+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 24,
+   "200": 2,
+   "403": 2
+  },
+  "links_seen": 0
+ },
+ "13285": {
+  "last_crawled": "2026-11-08T06:30:59+00:00",
+  "seeds": [
+   "https://troupcountyga.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 7,
+   "200": 42,
+   "502": 13
+  },
+  "links_seen": 6743
+ },
+ "13307": {
+  "last_crawled": "2026-11-08T06:31:04+00:00",
+  "seeds": [
+   "https://webstercountyga.org/"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 10,
+   "404": 4
+  },
+  "links_seen": 375
+ },
+ "13279": {
+  "last_crawled": "2026-11-08T06:31:04+00:00",
+  "seeds": [
+   "https://toombscountyga.gov/",
+   "https://toombscosheriff.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 63,
+   "404": 11,
+   "robots_blocked": 1
+  },
+  "links_seen": 2514
+ },
+ "13315": {
+  "last_crawled": "2026-11-08T06:31:06+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "13317": {
+  "last_crawled": "2026-11-08T06:31:06+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "403": 2
+  },
+  "links_seen": 0
+ },
+ "13319": {
+  "last_crawled": "2026-11-08T06:31:07+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "15001": {
+  "last_crawled": "2026-11-08T06:31:15+00:00",
+  "seeds": [
+   "https://hawaiicounty.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 11
+  },
+  "links_seen": 0
+ },
+ "13321": {
+  "last_crawled": "2026-11-08T06:31:27+00:00",
+  "seeds": [
+   "https://worthcountyiowa.gov/"
+  ],
+  "pages": 19,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 18,
+   "404": 4
+  },
+  "links_seen": 778
+ },
+ "15005": {
+  "last_crawled": "2026-11-08T06:31:29+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "15007": {
+  "last_crawled": "2026-11-08T06:31:37+00:00",
+  "seeds": [
+   "https://kauai.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 11
+  },
+  "links_seen": 0
+ },
+ "13313": {
+  "last_crawled": "2026-11-08T06:32:04+00:00",
+  "seeds": [
+   "https://whitfieldcountyga.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 12,
+   "404": 49
+  },
+  "links_seen": 2486
+ },
+ "15003": {
+  "last_crawled": "2026-11-08T06:32:18+00:00",
+  "seeds": [
+   "https://www.honolulu.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 1,
+   "200": 4,
+   "404": 4
+  },
+  "links_seen": 72
+ },
+ "15009": {
+  "last_crawled": "2026-11-08T06:32:36+00:00",
+  "seeds": [
+   "https://www.mauicounty.gov/",
+   "https://mauicounty-hi.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "conn_error": 11,
+   "robots_blocked": 2
+  },
+  "links_seen": 699
+ },
+ "16001": {
+  "last_crawled": "2026-11-08T06:32:52+00:00",
+  "seeds": [
+   "https://adacountyidaho.org/"
+  ],
+  "pages": 18,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 6,
+   "200": 17,
+   "404": 4
+  },
+  "links_seen": 1270
+ },
+ "13297": {
+  "last_crawled": "2026-11-08T06:33:13+00:00",
+  "seeds": [
+   "https://waltoncountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "16007": {
+  "last_crawled": "2026-11-08T06:33:14+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "16009": {
+  "last_crawled": "2026-11-08T06:33:21+00:00",
+  "seeds": [
+   "https://benewahcountyid.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "16011": {
+  "last_crawled": "2026-11-08T06:33:26+00:00",
+  "seeds": [
+   "https://binghamcountyid.gov/",
+   "https://www.binghamid.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11,
+   "200": 3,
+   "404": 4
+  },
+  "links_seen": 7
+ },
+ "13303": {
+  "last_crawled": "2026-11-08T06:33:32+00:00",
+  "seeds": [
+   "https://washingtoncountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "16003": {
+  "last_crawled": "2026-11-08T06:33:39+00:00",
+  "seeds": [
+   "https://www.co.adams.id.us/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 60,
+   "404": 2
+  },
+  "links_seen": 907
+ },
+ "16013": {
+  "last_crawled": "2026-11-08T06:33:39+00:00",
+  "seeds": [
+   "https://blainecountyid.gov/",
+   "https://blainesheriffid.gov/"
+  ],
+  "pages": 21,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 14,
+   "conn_error": 7,
+   "robots_blocked": 2,
+   "404": 1
+  },
+  "links_seen": 603
+ },
+ "13305": {
+  "last_crawled": "2026-11-08T06:33:48+00:00",
+  "seeds": [
+   "https://waynecounty-ga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "16017": {
+  "last_crawled": "2026-11-08T06:33:54+00:00",
+  "seeds": [
+   "https://www.bonnercountyid.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 2,
+   "200": 4,
+   "404": 4
+  },
+  "links_seen": 20
+ },
+ "16005": {
+  "last_crawled": "2026-11-08T06:34:04+00:00",
+  "seeds": [
+   "https://www.bannockcounty.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 63,
+   "404": 8,
+   "conn_error": 1
+  },
+  "links_seen": 3755
+ },
+ "13311": {
+  "last_crawled": "2026-11-08T06:34:09+00:00",
+  "seeds": [
+   "https://whitecountyga.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "16023": {
+  "last_crawled": "2026-11-08T06:34:13+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "403": 2
+  },
+  "links_seen": 0
+ },
+ "16025": {
+  "last_crawled": "2026-11-08T06:34:16+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "16015": {
+  "last_crawled": "2026-11-08T06:34:17+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "403": 2
+  },
+  "links_seen": 0
+ },
+ "16021": {
+  "last_crawled": "2026-11-08T06:34:30+00:00",
+  "seeds": [
+   "https://boundarycountyid.org/"
+  ],
+  "pages": 15,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 25
+  },
+  "links_seen": 1969
+ },
+ "16033": {
+  "last_crawled": "2026-11-08T06:34:43+00:00",
+  "seeds": [
+   "https://co.clark.id.us/owa/auth/logon.aspx?url=https%3a%2f%2fco.clark.id.us%2fowa%2f&reason=0"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 4,
+   "404": 4
+  },
+  "links_seen": 1
+ },
+ "16031": {
+  "last_crawled": "2026-11-08T06:34:52+00:00",
+  "seeds": [
+   "https://www.cassia.gov/",
+   "https://cassiasheriff.gov/"
+  ],
+  "pages": 40,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 32,
+   "conn_error": 11,
+   "404": 5
+  },
+  "links_seen": 490
+ },
+ "16029": {
+  "last_crawled": "2026-11-08T06:34:53+00:00",
+  "seeds": [
+   "https://www.cariboucounty.us/"
+  ],
+  "pages": 26,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 22,
+   "200": 14,
+   "404": 15
+  },
+  "links_seen": 381
+ },
+ "16043": {
+  "last_crawled": "2026-11-08T06:34:57+00:00",
+  "seeds": [
+   "https://www.fremontcountyid.gov"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 134
+ },
+ "16039": {
+  "last_crawled": "2026-11-08T06:35:48+00:00",
+  "seeds": [
+   "https://elmorecounty.org/"
+  ],
+  "pages": 37,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "200": 37,
+   "404": 6
+  },
+  "links_seen": 1994
+ },
+ "16047": {
+  "last_crawled": "2026-11-08T06:35:56+00:00",
+  "seeds": [
+   "https://goodingcountyid.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 9,
+   "403": 2
+  },
+  "links_seen": 0
+ },
+ "16027": {
+  "last_crawled": "2026-11-08T06:36:13+00:00",
+  "seeds": [
+   "https://www.canyoncounty.id.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 3,
+   "200": 63,
+   "404": 7,
+   "403": 1
+  },
+  "links_seen": 3760
+ },
+ "16035": {
+  "last_crawled": "2026-11-08T06:36:25+00:00",
+  "seeds": [
+   "https://clearwatercounty.org/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 57,
+   "404": 6
+  },
+  "links_seen": 1655
+ },
+ "16053": {
+  "last_crawled": "2026-11-08T06:36:31+00:00",
+  "seeds": [
+   "https://jeromecountyid.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 9,
+   "robots_blocked": 2
+  },
+  "links_seen": 0
+ },
+ "16049": {
+  "last_crawled": "2026-11-08T06:36:33+00:00",
+  "seeds": [
+   "https://idahocounty.org/planb/"
+  ],
+  "pages": 11,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 13,
+   "404": 4
+  },
+  "links_seen": 1827
+ },
+ "16045": {
+  "last_crawled": "2026-11-08T06:36:37+00:00",
+  "seeds": [
+   "https://gemcounty.org/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 17,
+   "404": 28,
+   "200": 36
+  },
+  "links_seen": 2501
+ },
+ "16041": {
+  "last_crawled": "2026-11-08T06:36:46+00:00",
+  "seeds": [
+   "https://franklincountyidaho.org/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 6,
+   "200": 55,
+   "404": 8
+  },
+  "links_seen": 3846
+ },
+ "16037": {
+  "last_crawled": "2026-11-08T06:36:48+00:00",
+  "seeds": [
+   "https://custercountyidaho.org/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 6,
+   "200": 69,
+   "404": 4
+  },
+  "links_seen": 721
+ },
+ "16063": {
+  "last_crawled": "2026-11-08T06:36:56+00:00",
+  "seeds": [
+   "https://lincolncountyid.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 11
+  },
+  "links_seen": 0
+ },
+ "16019": {
+  "last_crawled": "2026-11-08T06:37:04+00:00",
+  "seeds": [
+   "https://bonnevillecountyid.gov/",
+   "https://bonnevillecountysheriff.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14
+  },
+  "links_seen": 0
+ },
+ "16051": {
+  "last_crawled": "2026-11-08T06:37:11+00:00",
+  "seeds": [
+   "https://jeffersoncounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 2,
+   "404": 2,
+   "403": 4
+  },
+  "links_seen": 90
+ },
+ "16059": {
+  "last_crawled": "2026-11-08T06:37:28+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "16057": {
+  "last_crawled": "2026-11-08T06:37:33+00:00",
+  "seeds": [
+   "https://latahcountyid.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 56,
+   "404": 5
+  },
+  "links_seen": 977
+ },
+ "16065": {
+  "last_crawled": "2026-11-08T06:37:38+00:00",
+  "seeds": [
+   "https://madisoncountyid.gov/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "200": 6,
+   "404": 6
+  },
+  "links_seen": 841
+ },
+ "16073": {
+  "last_crawled": "2026-11-08T06:37:41+00:00",
+  "seeds": [
+   "https://owyheecounty.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 9,
+   "403": 2
+  },
+  "links_seen": 0
+ },
+ "16077": {
+  "last_crawled": "2026-11-08T06:37:48+00:00",
+  "seeds": [
+   "https://www.powercounty.gov"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7,
+   "robots_blocked": 2
+  },
+  "links_seen": 158
+ },
+ "16055": {
+  "last_crawled": "2026-11-08T06:37:58+00:00",
+  "seeds": [
+   "https://www.kootenaicounty.org"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 19,
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 10
+ },
+ "16075": {
+  "last_crawled": "2026-11-08T06:38:00+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "520": 2
+  },
+  "links_seen": 0
+ },
+ "16067": {
+  "last_crawled": "2026-11-08T06:38:10+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "16081": {
+  "last_crawled": "2026-11-08T06:38:13+00:00",
+  "seeds": [
+   "https://tetoncountyidaho.gov/"
+  ],
+  "pages": 22,
+  "candidates": 1,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 14,
+   "robots_blocked": 4
+  },
+  "links_seen": 1129
+ },
+ "16069": {
+  "last_crawled": "2026-11-08T06:38:18+00:00",
+  "seeds": [
+   "https://co.nezperce.id.us/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 56,
+   "404": 7
+  },
+  "links_seen": 5093
+ },
+ "16085": {
+  "last_crawled": "2026-11-08T06:38:20+00:00",
+  "seeds": [
+   "https://valleycountyid.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 2,
+   "404": 4
+  },
+  "links_seen": 9
+ },
+ "16061": {
+  "last_crawled": "2026-11-08T06:38:23+00:00",
+  "seeds": [
+   "https://lewiscountyny.gov"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 69
+  },
+  "links_seen": 2220
+ },
+ "16079": {
+  "last_crawled": "2026-11-08T06:38:25+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "403": 2
+  },
+  "links_seen": 0
+ },
+ "16087": {
+  "last_crawled": "2026-11-08T06:38:39+00:00",
+  "seeds": [
+   "https://washingtoncountyid.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 2,
+   "404": 5,
+   "522": 1
+  },
+  "links_seen": 1
+ },
+ "16071": {
+  "last_crawled": "2026-11-08T06:38:41+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "403": 2
+  },
+  "links_seen": 0
+ },
+ "16083": {
+  "last_crawled": "2026-11-08T06:38:51+00:00",
+  "seeds": [
+   "https://twinfallscounty.org/"
+  ],
+  "pages": 37,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 37,
+   "404": 5
+  },
+  "links_seen": 514
+ },
+ "13135": {
+  "last_crawled": "2026-11-08T06:39:36+00:00",
+  "seeds": [
+   "https://gwinnettcountyga.gov/",
+   "https://gwinnettclerkofcourts.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 41,
+   "conn_error": 22
+  },
+  "links_seen": 2635
  }
 }
