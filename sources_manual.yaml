@@ -54,6 +54,22 @@ overrides:
   c26f8534cf06:            # the excess funds page itself (links to the lists above)
     status: disabled
 
+  # --- Sacramento County, CA (Dept of Finance tax-defaulted sale excess proceeds) ---
+  e4014f5ae8d9:            # February 2026 sale: 3 parcels, owner names
+    status: verified
+    fund_type: tax_sale
+  2fe355c0f1d4:            # May 2026 sale: 2 parcels, no owner names on the list
+    status: verified
+    fund_type: tax_sale
+  c1457a7f305f:            # claim form, not a list
+    status: disabled
+  1ef344eb8e05:            # claim form, not a list
+    status: disabled
+
+  # --- Rockdale County, GA: budget (SPLOST) "overage requests", not excess funds ---
+  83cf4e63b228:
+    status: disabled
+
 #  3f2a9c1b7d4e:
 #    status: verified      # verified | disabled
 #    fund_type: tax_sale

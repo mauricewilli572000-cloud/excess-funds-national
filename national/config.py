@@ -50,7 +50,7 @@ NEGATIVE_TERMS = [
     "surplus property", "surplus equipment", "surplus vehicle", "surplus auction", "surplus items",
     "budget surplus", "excess property", "govdeals", "publicsurplus", "excess liability",
     "excess baggage", "excess heat", "flood", "job", "employment", "rfp", "bid opportunities",
-    "minutes", "agenda", "court costs", "filing fees", "fee schedule", "cost deposit",
+    "minutes", "agenda", "splost", "overage request", "overage requests", "capital project", "court costs", "filing fees", "fee schedule", "cost deposit",
 ]
 # Departments worth following off the main county site (clerk, treasurer...).
 DEPT_LINK_RE = re.compile(
@@ -77,4 +77,7 @@ SEARCH_BLOCKLIST = [
 
 # --- Source verification ---------------------------------------------------
 AUTO_VERIFY_MIN_ROWS = 5         # extraction must find at least this many leads with amounts
+# ...or a short list (some sales leave only 2-4 surplus parcels) that reads perfectly:
+# clean table or numbered lines, every row has an amount + case/parcel/name, strong link text.
+SMALL_LIST_MIN_ROWS = 2
 AUTO_VERIFY_MIN_QUALITY = 0.6    # share of rows that have a name AND an amount

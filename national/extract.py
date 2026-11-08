@@ -58,7 +58,7 @@ ALIASES: dict[str, tuple[str, ...]] = {
     "mailing": ("mailing address", "owner address", "last known address", "mail address"),
 }
 TOTAL_RE = re.compile(r"^\s*(grand\s+)?totals?\b|\bsub\s*total\b|\bpage\s+\d+\s+of\b|balance forward", re.I)
-MONEY_RE = re.compile(r"(?<![\d.])\(?\$\s?\d{1,3}(?:,\d{3})*(?:\.\d{2})?\)?|(?<![\d.$])\d{1,3}(?:,\d{3})+\.\d{2}(?!\d)|(?<![\d.$])\d+\.\d{2}(?!\d)")
+MONEY_RE = re.compile(r"(?<![\d.])\(?\$\s?(?:\d\s?){1,3}(?:,\d{3})+\.\d{2}\)?|(?<![\d.])\(?\$\s?\d{1,3}(?:,\d{3})*(?:\.\d{2})?\)?|(?<![\d.$])\d{1,3}(?:,\d{3})+\.\d{2}(?!\d)|(?<![\d.$])\d+\.\d{2}(?!\d)")
 CASE_RE = re.compile(
     r"\b(?:(?:19|20)?\d{2}[-\s]?(?:CV|CF|CA|CE|TX|TD|TC|CH|FC|CI|SC|TF|DR|M|E|C|CVE|TAX|TL|TS)[-\s]?\d{2,8}"
     r"|[A-Z]{1,3}\d{2}-\d{3,7}|(?:19|20)\d{2}-\d{2,8}(?:-[A-Z0-9]+)?|\d{2}-[A-Z]{1,4}-\d{2,8})\b",
@@ -148,7 +148,8 @@ class Extraction:
     def quality(self) -> float:
         if not self.rows:
             return 0.0
-        good = sum(1 for r in self.rows if r.amount is not None and r.amount > 0 and (r.name or r.case_number))
+        good = sum(1 for r in self.rows if r.amount is not None and r.amount > 0
+                   and (r.name or r.case_number or r.parcel))
         return round(good / len(self.rows), 2)
 
     @property
@@ -415,7 +416,7 @@ def row_from_line(line: str) -> Optional[Row]:
     name = rest if len(re.findall(r"[A-Za-z]{2,}", rest)) >= 2 else ""
     if name and len(NAME_JUNK_RE.findall(name)) >= 2:
         name = ""
-    if not (name or case):
+    if not (name or case or parcel):
         return None
     return Row(
         case_number=case.group(0) if case else "", name=name[:120], amount=amount,
