@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T01:48:20+00:00",
+ "generated_at": "2026-11-08T08:02:48+00:00",
  "total_leads": 7384,
  "total_surplus": 35543473.61,
  "new_this_run": 0,
@@ -58,15 +58,15 @@
   }
  },
  "sources": {
-  "total": 68,
-  "usable": 8,
-  "candidates": 54,
+  "total": 73,
+  "usable": 9,
+  "candidates": 58,
   "portals": 3,
-  "errors_this_run": 1
+  "errors_this_run": 3
  },
  "discovery": {
   "counties_total": 3152,
-  "counties_crawled": 487,
-  "counties_with_usable_source": 7
+  "counties_crawled": 636,
+  "counties_with_usable_source": 8
  }
 }
