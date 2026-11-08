@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-08T08:02:48+00:00",
- "total_leads": 7384,
- "total_surplus": 35543473.61,
- "new_this_run": 0,
+ "generated_at": "2026-11-08T16:46:55+00:00",
+ "total_leads": 7442,
+ "total_surplus": 35769203.83,
+ "new_this_run": 58,
  "states": {
   "AK": {
    "leads": 22,
@@ -29,12 +29,16 @@
    }
   },
   "GA": {
-   "leads": 200,
-   "total": 2239746.21,
+   "leads": 258,
+   "total": 2465476.43,
    "counties": {
     "Chatham County": {
      "leads": 200,
      "total": 2239746.21
+    },
+    "Grady County": {
+     "leads": 58,
+     "total": 225730.22
     }
    }
   },
@@ -58,15 +62,15 @@
   }
  },
  "sources": {
-  "total": 73,
+  "total": 81,
   "usable": 9,
-  "candidates": 58,
+  "candidates": 66,
   "portals": 3,
-  "errors_this_run": 3
+  "errors_this_run": 0
  },
  "discovery": {
   "counties_total": 3152,
-  "counties_crawled": 636,
+  "counties_crawled": 785,
   "counties_with_usable_source": 8
  }
 }
