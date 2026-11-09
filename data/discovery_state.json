@@ -13829,5 +13829,2203 @@
    "404": 4
   },
   "links_seen": 859
+ },
+ "20019": {
+  "last_crawled": "2026-11-09T06:55:44+00:00",
+  "seeds": [
+   "https://chautauquacountyks.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "20025": {
+  "last_crawled": "2026-11-09T06:55:44+00:00",
+  "seeds": [
+   "https://clarkcountyks.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "20021": {
+  "last_crawled": "2026-11-09T06:55:45+00:00",
+  "seeds": [
+   "https://cherokee-county.cichosting.com/main/",
+   "https://cherokeesheriff-ks.gov/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7,
+   "404": 10
+  },
+  "links_seen": 363
+ },
+ "20023": {
+  "last_crawled": "2026-11-09T06:55:47+00:00",
+  "seeds": [
+   "https://cheyennecounty.org/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 11
+  },
+  "links_seen": 321
+ },
+ "20033": {
+  "last_crawled": "2026-11-09T06:55:55+00:00",
+  "seeds": [
+   "https://comanchecountyks.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "20015": {
+  "last_crawled": "2026-11-09T06:55:55+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "20027": {
+  "last_crawled": "2026-11-09T06:55:59+00:00",
+  "seeds": [
+   "https://claycountykansas.org/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 6,
+   "200": 9,
+   "robots_blocked": 2
+  },
+  "links_seen": 399
+ },
+ "20031": {
+  "last_crawled": "2026-11-09T06:55:59+00:00",
+  "seeds": [
+   "https://coffeycountyks.org/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 5,
+   "robots_blocked": 2,
+   "404": 1
+  },
+  "links_seen": 140
+ },
+ "20039": {
+  "last_crawled": "2026-11-09T06:56:01+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "20041": {
+  "last_crawled": "2026-11-09T06:56:03+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "20043": {
+  "last_crawled": "2026-11-09T06:56:04+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "20037": {
+  "last_crawled": "2026-11-09T06:56:08+00:00",
+  "seeds": [
+   "https://crawfordcountykansas.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "20035": {
+  "last_crawled": "2026-11-09T06:56:08+00:00",
+  "seeds": [
+   "https://www.cowleycountyks.gov"
+  ],
+  "pages": 12,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 12,
+   "robots_blocked": 2
+  },
+  "links_seen": 410
+ },
+ "20051": {
+  "last_crawled": "2026-11-09T06:56:12+00:00",
+  "seeds": [
+   "https://www.elliscounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 2,
+   "robots_blocked": 7
+  },
+  "links_seen": 0
+ },
+ "20047": {
+  "last_crawled": "2026-11-09T06:56:14+00:00",
+  "seeds": [
+   "https://www.edwardscountyks.org/"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 6,
+   "404": 4
+  },
+  "links_seen": 95
+ },
+ "20013": {
+  "last_crawled": "2026-11-09T06:56:16+00:00",
+  "seeds": [
+   "https://browncounty.com/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 30
+  },
+  "links_seen": 666
+ },
+ "20057": {
+  "last_crawled": "2026-11-09T06:56:20+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "20053": {
+  "last_crawled": "2026-11-09T06:56:20+00:00",
+  "seeds": [
+   "https://ellsworthcountyks.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "20049": {
+  "last_crawled": "2026-11-09T06:56:22+00:00",
+  "seeds": [
+   "https://elkcountyks.org/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 6,
+   "404": 6
+  },
+  "links_seen": 223
+ },
+ "20059": {
+  "last_crawled": "2026-11-09T06:56:23+00:00",
+  "seeds": [
+   "https://franklincountyks.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "20063": {
+  "last_crawled": "2026-11-09T06:56:29+00:00",
+  "seeds": [
+   "https://govecountyks.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "520": 11
+  },
+  "links_seen": 0
+ },
+ "20069": {
+  "last_crawled": "2026-11-09T06:56:30+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "20029": {
+  "last_crawled": "2026-11-09T06:56:32+00:00",
+  "seeds": [
+   "https://cloudcountyks.org/"
+  ],
+  "pages": 39,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 8,
+   "404": 34
+  },
+  "links_seen": 1645
+ },
+ "20067": {
+  "last_crawled": "2026-11-09T06:56:36+00:00",
+  "seeds": [
+   "https://grantcounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 76
+ },
+ "20017": {
+  "last_crawled": "2026-11-09T06:56:39+00:00",
+  "seeds": [
+   "https://chasecountyks.com/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 59,
+   "500": 6
+  },
+  "links_seen": 619
+ },
+ "20075": {
+  "last_crawled": "2026-11-09T06:56:48+00:00",
+  "seeds": [
+   "https://hamiltoncountyks.org/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 9,
+   "robots_blocked": 2
+  },
+  "links_seen": 181
+ },
+ "20045": {
+  "last_crawled": "2026-11-09T06:56:50+00:00",
+  "seeds": [
+   "https://www.dgcoks.gov/"
+  ],
+  "pages": 51,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 53
+  },
+  "links_seen": 3989
+ },
+ "20077": {
+  "last_crawled": "2026-11-09T06:56:54+00:00",
+  "seeds": [
+   "https://harpercountyks.gov/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 17,
+   "404": 2
+  },
+  "links_seen": 240
+ },
+ "20055": {
+  "last_crawled": "2026-11-09T06:56:55+00:00",
+  "seeds": [
+   "https://finneycountyks.gov/",
+   "https://finneycountysheriffks.gov/"
+  ],
+  "pages": 35,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 40,
+   "404": 4
+  },
+  "links_seen": 1605
+ },
+ "20085": {
+  "last_crawled": "2026-11-09T06:57:03+00:00",
+  "seeds": [
+   "https://jacksoncountyks.com/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 115
+ },
+ "20081": {
+  "last_crawled": "2026-11-09T06:57:04+00:00",
+  "seeds": [
+   "https://haskellcountyks.com/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 19,
+   "403": 1,
+   "200": 5,
+   "404": 4
+  },
+  "links_seen": 6
+ },
+ "20079": {
+  "last_crawled": "2026-11-09T06:57:05+00:00",
+  "seeds": [
+   "https://www.harveycounty.gov/"
+  ],
+  "pages": 24,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 26
+  },
+  "links_seen": 2278
+ },
+ "20089": {
+  "last_crawled": "2026-11-09T06:57:21+00:00",
+  "seeds": [
+   "https://jewellcountyks.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "20087": {
+  "last_crawled": "2026-11-09T06:57:22+00:00",
+  "seeds": [
+   "https://jeffersoncounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 2,
+   "404": 2,
+   "403": 4
+  },
+  "links_seen": 90
+ },
+ "20061": {
+  "last_crawled": "2026-11-09T06:57:23+00:00",
+  "seeds": [
+   "https://gearycounty.gov/",
+   "https://gearycountysheriff.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 62,
+   "robots_blocked": 2
+  },
+  "links_seen": 3731
+ },
+ "20093": {
+  "last_crawled": "2026-11-09T06:57:24+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "20095": {
+  "last_crawled": "2026-11-09T06:57:25+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "20091": {
+  "last_crawled": "2026-11-09T06:57:26+00:00",
+  "seeds": [
+   "https://www.jocogov.org/"
+  ],
+  "pages": 19,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 6,
+   "200": 12,
+   "robots_blocked": 9
+  },
+  "links_seen": 588
+ },
+ "20099": {
+  "last_crawled": "2026-11-09T06:57:26+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "20097": {
+  "last_crawled": "2026-11-09T06:57:27+00:00",
+  "seeds": [
+   "https://kiowacountyks.gov/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6,
+   "robots_blocked": 2
+  },
+  "links_seen": 206
+ },
+ "20107": {
+  "last_crawled": "2026-11-09T06:57:31+00:00",
+  "seeds": [
+   "https://linncountyks.gov/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6,
+   "robots_blocked": 2
+  },
+  "links_seen": 230
+ },
+ "20065": {
+  "last_crawled": "2026-11-09T06:57:32+00:00",
+  "seeds": [
+   "https://grahamcounty.org/",
+   "https://grahamcosheriffks.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 24,
+   "200": 53,
+   "404": 6
+  },
+  "links_seen": 305
+ },
+ "20111": {
+  "last_crawled": "2026-11-09T06:57:36+00:00",
+  "seeds": [
+   "https://lyoncountyks.gov/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 228
+ },
+ "20109": {
+  "last_crawled": "2026-11-09T06:57:38+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "20115": {
+  "last_crawled": "2026-11-09T06:57:41+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 27,
+   "200": 1
+  },
+  "links_seen": 0
+ },
+ "20113": {
+  "last_crawled": "2026-11-09T06:57:43+00:00",
+  "seeds": [
+   "https://www.mcphersoncountyks.us/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 242
+ },
+ "20083": {
+  "last_crawled": "2026-11-09T06:57:46+00:00",
+  "seeds": [
+   "https://hodgemancountyks.com/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 21,
+   "200": 6,
+   "404": 4
+  },
+  "links_seen": 138
+ },
+ "20119": {
+  "last_crawled": "2026-11-09T06:57:53+00:00",
+  "seeds": [
+   "https://www.meadecounty.org/",
+   "https://meadecokssheriff.gov/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 25,
+   "200": 6,
+   "404": 2,
+   "robots_blocked": 2
+  },
+  "links_seen": 393
+ },
+ "20121": {
+  "last_crawled": "2026-11-09T06:57:58+00:00",
+  "seeds": [
+   "https://miamicountyks.gov/",
+   "https://sheriffmiamicountyks.gov/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 14,
+   "robots_blocked": 2
+  },
+  "links_seen": 553
+ },
+ "20123": {
+  "last_crawled": "2026-11-09T06:58:02+00:00",
+  "seeds": [
+   "https://mitchellcountyks.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "20127": {
+  "last_crawled": "2026-11-09T06:58:09+00:00",
+  "seeds": [
+   "https://morriscountyks.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 132
+ },
+ "20129": {
+  "last_crawled": "2026-11-09T06:58:14+00:00",
+  "seeds": [
+   "https://mtcoks.com/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 2,
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 149
+ },
+ "20131": {
+  "last_crawled": "2026-11-09T06:58:16+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "20125": {
+  "last_crawled": "2026-11-09T06:58:17+00:00",
+  "seeds": [
+   "https://montgomerycounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 5,
+   "404": 4
+  },
+  "links_seen": 8
+ },
+ "20117": {
+  "last_crawled": "2026-11-09T06:58:19+00:00",
+  "seeds": [
+   "https://marshallcountykssheriff.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 35
+  },
+  "links_seen": 0
+ },
+ "20071": {
+  "last_crawled": "2026-11-09T06:58:22+00:00",
+  "seeds": [
+   "https://greeleycountyks.gov/"
+  ],
+  "pages": 53,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "200": 50,
+   "404": 6
+  },
+  "links_seen": 249
+ },
+ "20133": {
+  "last_crawled": "2026-11-09T06:58:23+00:00",
+  "seeds": [
+   "https://neoshocountyks.org/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 7,
+   "robots_blocked": 2
+  },
+  "links_seen": 259
+ },
+ "20139": {
+  "last_crawled": "2026-11-09T06:58:24+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "20137": {
+  "last_crawled": "2026-11-09T06:58:25+00:00",
+  "seeds": [
+   "https://www.nortoncountyks.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 3,
+   "404": 4
+  },
+  "links_seen": 10
+ },
+ "20143": {
+  "last_crawled": "2026-11-09T06:58:27+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "20135": {
+  "last_crawled": "2026-11-09T06:58:30+00:00",
+  "seeds": [
+   "https://www.nesscountyks.gov/"
+  ],
+  "pages": 12,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 1,
+   "200": 12,
+   "404": 2
+  },
+  "links_seen": 406
+ },
+ "20145": {
+  "last_crawled": "2026-11-09T06:58:31+00:00",
+  "seeds": [
+   "https://pawneecountykansas.org/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 6,
+   "200": 6,
+   "robots_blocked": 2
+  },
+  "links_seen": 178
+ },
+ "20151": {
+  "last_crawled": "2026-11-09T06:58:37+00:00",
+  "seeds": [
+   "https://prattcounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 84
+ },
+ "20149": {
+  "last_crawled": "2026-11-09T06:58:39+00:00",
+  "seeds": [
+   "http://pottcountyks.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 2,
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 1
+ },
+ "20105": {
+  "last_crawled": "2026-11-09T06:58:40+00:00",
+  "seeds": [
+   "http://www.lincolncountync.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 19,
+   "200": 60,
+   "robots_blocked": 2
+  },
+  "links_seen": 1045
+ },
+ "20157": {
+  "last_crawled": "2026-11-09T06:58:42+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "20101": {
+  "last_crawled": "2026-11-09T06:58:43+00:00",
+  "seeds": [
+   "https://www.lanecounty.org/"
+  ],
+  "pages": 60,
+  "candidates": 1,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 62
+  },
+  "links_seen": 3498
+ },
+ "20141": {
+  "last_crawled": "2026-11-09T06:59:16+00:00",
+  "seeds": [
+   "https://osbornecounty.gov/"
+  ],
+  "pages": 46,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 43,
+   "404": 6
+  },
+  "links_seen": 315
+ },
+ "20163": {
+  "last_crawled": "2026-11-09T06:59:23+00:00",
+  "seeds": [
+   "https://rookscountyks.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "20073": {
+  "last_crawled": "2026-11-09T06:59:26+00:00",
+  "seeds": [
+   "https://www.greenwoodcounty.org/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 61,
+   "404": 4
+  },
+  "links_seen": 760
+ },
+ "20167": {
+  "last_crawled": "2026-11-09T06:59:34+00:00",
+  "seeds": [
+   "https://www.russellcountyks.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 3,
+   "404": 5
+  },
+  "links_seen": 47
+ },
+ "20169": {
+  "last_crawled": "2026-11-09T06:59:42+00:00",
+  "seeds": [
+   "https://salinecountyks.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 11
+  },
+  "links_seen": 0
+ },
+ "20171": {
+  "last_crawled": "2026-11-09T06:59:55+00:00",
+  "seeds": [
+   "https://scottcountyks.com/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "404": 6,
+   "200": 7
+  },
+  "links_seen": 359
+ },
+ "20103": {
+  "last_crawled": "2026-11-09T06:59:55+00:00",
+  "seeds": [
+   "https://leavenworthcounty.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 56
+  },
+  "links_seen": 1206
+ },
+ "20175": {
+  "last_crawled": "2026-11-09T07:00:01+00:00",
+  "seeds": [
+   "https://sewardcountyks.org/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 6,
+   "robots_blocked": 2
+  },
+  "links_seen": 174
+ },
+ "20173": {
+  "last_crawled": "2026-11-09T07:00:11+00:00",
+  "seeds": [
+   "https://sedgwickcountyks.org/"
+  ],
+  "pages": 15,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 14,
+   "404": 4
+  },
+  "links_seen": 1004
+ },
+ "20179": {
+  "last_crawled": "2026-11-09T07:00:18+00:00",
+  "seeds": [
+   "https://www.sheridancountyks.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6,
+   "404": 2
+  },
+  "links_seen": 190
+ },
+ "20181": {
+  "last_crawled": "2026-11-09T07:00:47+00:00",
+  "seeds": [
+   "https://www.shermancountyks.gov/"
+  ],
+  "pages": 14,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 15,
+   "403": 1
+  },
+  "links_seen": 735
+ },
+ "20147": {
+  "last_crawled": "2026-11-09T07:00:48+00:00",
+  "seeds": [
+   "https://www.phillipscountyks.org/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 55,
+   "404": 6,
+   "403": 1
+  },
+  "links_seen": 1696
+ },
+ "20183": {
+  "last_crawled": "2026-11-09T07:00:53+00:00",
+  "seeds": [
+   "https://smithcountykansas.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "20161": {
+  "last_crawled": "2026-11-09T07:00:54+00:00",
+  "seeds": [
+   "https://www.rileycountyks.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 59,
+   "robots_blocked": 2,
+   "404": 1
+  },
+  "links_seen": 1626
+ },
+ "20185": {
+  "last_crawled": "2026-11-09T07:00:56+00:00",
+  "seeds": [
+   "https://staffordcountyks.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "20187": {
+  "last_crawled": "2026-11-09T07:01:00+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "403": 2
+  },
+  "links_seen": 0
+ },
+ "20159": {
+  "last_crawled": "2026-11-09T07:01:00+00:00",
+  "seeds": [
+   "https://ricecounty.us/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 49,
+   "404": 16
+  },
+  "links_seen": 2156
+ },
+ "20195": {
+  "last_crawled": "2026-11-09T07:01:02+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 24,
+   "520": 4
+  },
+  "links_seen": 0
+ },
+ "20193": {
+  "last_crawled": "2026-11-09T07:01:04+00:00",
+  "seeds": [
+   "https://www.thomascountyks.gov"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 112
+ },
+ "20197": {
+  "last_crawled": "2026-11-09T07:01:08+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "20199": {
+  "last_crawled": "2026-11-09T07:01:09+00:00",
+  "seeds": [
+   "https://wallacecountyks.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 118
+ },
+ "20189": {
+  "last_crawled": "2026-11-09T07:01:09+00:00",
+  "seeds": [
+   "https://stevenscountyks.com/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 8,
+   "404": 4
+  },
+  "links_seen": 58
+ },
+ "20191": {
+  "last_crawled": "2026-11-09T07:01:13+00:00",
+  "seeds": [
+   "https://co.sumner.ks.us/"
+  ],
+  "pages": 11,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 4,
+   "404": 10
+  },
+  "links_seen": 664
+ },
+ "20207": {
+  "last_crawled": "2026-11-09T07:01:19+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "20203": {
+  "last_crawled": "2026-11-09T07:01:19+00:00",
+  "seeds": [
+   "https://wichitacounty.org/"
+  ],
+  "pages": 7,
+  "candidates": 2,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 7,
+   "robots_blocked": 2
+  },
+  "links_seen": 167
+ },
+ "20155": {
+  "last_crawled": "2026-11-09T07:01:28+00:00",
+  "seeds": [
+   "https://www.renocountyks.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "200": 62
+  },
+  "links_seen": 3414
+ },
+ "21003": {
+  "last_crawled": "2026-11-09T07:01:34+00:00",
+  "seeds": [
+   "https://allencountykentucky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "20205": {
+  "last_crawled": "2026-11-09T07:01:43+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "20165": {
+  "last_crawled": "2026-11-09T07:01:46+00:00",
+  "seeds": [
+   "https://rushcountykansas.org/"
+  ],
+  "pages": 50,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 49,
+   "404": 4
+  },
+  "links_seen": 688
+ },
+ "20209": {
+  "last_crawled": "2026-11-09T07:01:53+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 27,
+   "200": 1
+  },
+  "links_seen": 0
+ },
+ "20177": {
+  "last_crawled": "2026-11-09T07:02:00+00:00",
+  "seeds": [
+   "https://snco.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 57,
+   "404": 6
+  },
+  "links_seen": 741
+ },
+ "21005": {
+  "last_crawled": "2026-11-09T07:02:05+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "20153": {
+  "last_crawled": "2026-11-09T07:02:06+00:00",
+  "seeds": [
+   "https://rawlinscounty.org/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 50,
+   "404": 13
+  },
+  "links_seen": 829
+ },
+ "21015": {
+  "last_crawled": "2026-11-09T07:02:12+00:00",
+  "seeds": [
+   "https://boonecountyky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "21019": {
+  "last_crawled": "2026-11-09T07:02:19+00:00",
+  "seeds": [
+   "https://boydcountyky.gov/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8,
+   "robots_blocked": 2
+  },
+  "links_seen": 295
+ },
+ "21007": {
+  "last_crawled": "2026-11-09T07:02:22+00:00",
+  "seeds": [
+   "https://ballardcoclerkky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 35
+  },
+  "links_seen": 0
+ },
+ "21021": {
+  "last_crawled": "2026-11-09T07:02:30+00:00",
+  "seeds": [
+   "https://boylecountyky.gov/"
+  ],
+  "pages": 12,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 11,
+   "robots_blocked": 2
+  },
+  "links_seen": 358
+ },
+ "21013": {
+  "last_crawled": "2026-11-09T07:02:32+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "21011": {
+  "last_crawled": "2026-11-09T07:02:34+00:00",
+  "seeds": [
+   "https://bathcounty.org/",
+   "https://bathcoclerkky.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 2,
+   "403": 13
+  },
+  "links_seen": 2
+ },
+ "20201": {
+  "last_crawled": "2026-11-09T07:02:37+00:00",
+  "seeds": [
+   "https://washingtoncountyks.gov/"
+  ],
+  "pages": 49,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 57,
+   "404": 4
+  },
+  "links_seen": 1411
+ },
+ "21027": {
+  "last_crawled": "2026-11-09T07:02:38+00:00",
+  "seeds": [
+   "https://breckinridgecountyky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "21029": {
+  "last_crawled": "2026-11-09T07:02:40+00:00",
+  "seeds": [
+   "https://bullittcountyky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "21001": {
+  "last_crawled": "2026-11-09T07:02:42+00:00",
+  "seeds": [
+   "https://adaircountyky.com/",
+   "https://adaircoclerkky.gov/"
+  ],
+  "pages": 52,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 44,
+   "404": 13
+  },
+  "links_seen": 2282
+ },
+ "21031": {
+  "last_crawled": "2026-11-09T07:02:43+00:00",
+  "seeds": [
+   "https://butlercountyky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "21039": {
+  "last_crawled": "2026-11-09T07:02:51+00:00",
+  "seeds": [
+   "https://carlislecounty.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "21035": {
+  "last_crawled": "2026-11-09T07:02:57+00:00",
+  "seeds": [
+   "https://callowaycountyky.gov/",
+   "https://callowaycoclerkky.gov/"
+  ],
+  "pages": 11,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6,
+   "403": 7,
+   "404": 4
+  },
+  "links_seen": 114
+ },
+ "21025": {
+  "last_crawled": "2026-11-09T07:03:01+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "21033": {
+  "last_crawled": "2026-11-09T07:03:10+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "21045": {
+  "last_crawled": "2026-11-09T07:03:11+00:00",
+  "seeds": [
+   "https://caseycountyky.gov/",
+   "https://caseycountysheriff.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14
+  },
+  "links_seen": 0
+ },
+ "21049": {
+  "last_crawled": "2026-11-09T07:03:17+00:00",
+  "seeds": [
+   "https://clarkcoky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "21009": {
+  "last_crawled": "2026-11-09T07:03:18+00:00",
+  "seeds": [
+   "https://www.barrencounty.net/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "200": 61,
+   "404": 5
+  },
+  "links_seen": 6117
+ },
+ "21023": {
+  "last_crawled": "2026-11-09T07:03:31+00:00",
+  "seeds": [
+   "https://10thregion.com"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 2,
+   "429": 5,
+   "404": 1
+  },
+  "links_seen": 268
+ },
+ "21017": {
+  "last_crawled": "2026-11-09T07:03:44+00:00",
+  "seeds": [
+   "https://www.kypropertyhunters.com/bourbon-county-homes"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 3,
+   "404": 4
+  },
+  "links_seen": 4
+ },
+ "21037": {
+  "last_crawled": "2026-11-09T07:03:46+00:00",
+  "seeds": [
+   "https://www.campbellcountyky.gov/"
+  ],
+  "pages": 53,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 52,
+   "404": 3,
+   "conn_error": 1
+  },
+  "links_seen": 1152
+ },
+ "21043": {
+  "last_crawled": "2026-11-09T07:03:51+00:00",
+  "seeds": [
+   "https://www.cartercountyky.com/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 21,
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 40
+ },
+ "21041": {
+  "last_crawled": "2026-11-09T07:03:53+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "403": 2
+  },
+  "links_seen": 0
+ },
+ "21051": {
+  "last_crawled": "2026-11-09T07:03:58+00:00",
+  "seeds": [
+   "https://claycountyky.org/",
+   "https://claycoclerkky.gov/"
+  ],
+  "pages": 12,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "403": 9,
+   "200": 3,
+   "404": 7
+  },
+  "links_seen": 81
+ },
+ "21061": {
+  "last_crawled": "2026-11-09T07:03:59+00:00",
+  "seeds": [
+   "https://edmonsoncountyky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "21063": {
+  "last_crawled": "2026-11-09T07:03:59+00:00",
+  "seeds": [
+   "https://elliottcountyky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "21053": {
+  "last_crawled": "2026-11-09T07:04:05+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "21047": {
+  "last_crawled": "2026-11-09T07:04:08+00:00",
+  "seeds": [
+   "https://christiancountyky.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 57,
+   "404": 4
+  },
+  "links_seen": 1001
+ },
+ "21059": {
+  "last_crawled": "2026-11-09T07:04:18+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "21075": {
+  "last_crawled": "2026-11-09T07:04:27+00:00",
+  "seeds": [
+   "https://fultoncountyky.gov/",
+   "https://fultoncoclerkky.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7,
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "21069": {
+  "last_crawled": "2026-11-09T07:04:36+00:00",
+  "seeds": [
+   "https://flemingcountyky.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 3,
+   "404": 4
+  },
+  "links_seen": 131
+ },
+ "21077": {
+  "last_crawled": "2026-11-09T07:04:36+00:00",
+  "seeds": [
+   "https://www.gallatinky.gov"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 10
+  },
+  "links_seen": 557
+ },
+ "21079": {
+  "last_crawled": "2026-11-09T07:04:49+00:00",
+  "seeds": [
+   "https://garrardcountyky.gov/"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6,
+   "404": 4
+  },
+  "links_seen": 672
+ },
+ "21065": {
+  "last_crawled": "2026-11-09T07:04:49+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "21085": {
+  "last_crawled": "2026-11-09T07:04:56+00:00",
+  "seeds": [
+   "https://graysoncountyky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 7
+  },
+  "links_seen": 0
+ },
+ "21071": {
+  "last_crawled": "2026-11-09T07:04:58+00:00",
+  "seeds": [
+   "https://floydcoclerkky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 27,
+   "200": 1,
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "21055": {
+  "last_crawled": "2026-11-09T07:05:00+00:00",
+  "seeds": [
+   "https://www.crittendencountyky.org/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 56,
+   "404": 7
+  },
+  "links_seen": 6171
+ },
+ "21091": {
+  "last_crawled": "2026-11-09T07:05:06+00:00",
+  "seeds": [
+   "https://hancockcountyky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "21073": {
+  "last_crawled": "2026-11-09T07:05:10+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "21093": {
+  "last_crawled": "2026-11-09T07:05:11+00:00",
+  "seeds": [
+   "https://hardincountyky.gov/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 231
+ },
+ "21057": {
+  "last_crawled": "2026-11-09T07:05:13+00:00",
+  "seeds": [
+   "https://www.cumberlandcountyme.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 40,
+   "404": 22
+  },
+  "links_seen": 2232
+ },
+ "21099": {
+  "last_crawled": "2026-11-09T07:05:20+00:00",
+  "seeds": [
+   "https://hartcountyky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "403": 1
+  },
+  "links_seen": 0
+ },
+ "21081": {
+  "last_crawled": "2026-11-09T07:05:20+00:00",
+  "seeds": [
+   "https://grantcounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 76
+ },
+ "21095": {
+  "last_crawled": "2026-11-09T07:05:42+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "21067": {
+  "last_crawled": "2026-11-09T07:05:48+00:00",
+  "seeds": [
+   "https://fayettecounty.us/",
+   "https://fayettekyclerk.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 77,
+   "404": 5,
+   "401": 1
+  },
+  "links_seen": 3064
+ },
+ "21097": {
+  "last_crawled": "2026-11-09T07:05:49+00:00",
+  "seeds": [
+   "https://www.kypropertyhunters.com/harrison-county-homes"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 3,
+   "404": 4
+  },
+  "links_seen": 4
+ },
+ "21087": {
+  "last_crawled": "2026-11-09T07:06:17+00:00",
+  "seeds": [
+   "https://www.greencounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 18,
+   "404": 4
+  },
+  "links_seen": 58
+ },
+ "21083": {
+  "last_crawled": "2026-11-09T07:06:35+00:00",
+  "seeds": [
+   "https://gravescountyky.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 61,
+   "404": 4
+  },
+  "links_seen": 1308
+ },
+ "21089": {
+  "last_crawled": "2026-11-09T07:06:36+00:00",
+  "seeds": [
+   "https://www.greenupcountyky.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 60,
+   "404": 5
+  },
+  "links_seen": 596
  }
 }
