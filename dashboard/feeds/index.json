@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T01:56:55+00:00",
+ "generated_at": "2026-11-09T08:41:11+00:00",
  "total_leads": 7447,
  "total_surplus": 36747089.17,
  "new_this_run": 0,
@@ -66,15 +66,15 @@
   }
  },
  "sources": {
-  "total": 87,
+  "total": 90,
   "usable": 11,
-  "candidates": 67,
+  "candidates": 70,
   "portals": 3,
   "errors_this_run": 0
  },
  "discovery": {
   "counties_total": 3152,
-  "counties_crawled": 934,
+  "counties_crawled": 1083,
   "counties_with_usable_source": 9
  }
 }
