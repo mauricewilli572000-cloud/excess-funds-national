@@ -16027,5 +16027,2136 @@
    "404": 5
   },
   "links_seen": 596
+ },
+ "21101": {
+  "last_crawled": "2026-11-09T22:33:49+00:00",
+  "seeds": [
+   "https://hendersoncountyky.gov/"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7,
+   "robots_blocked": 2
+  },
+  "links_seen": 229
+ },
+ "21105": {
+  "last_crawled": "2026-11-09T22:34:11+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "21113": {
+  "last_crawled": "2026-11-09T22:34:21+00:00",
+  "seeds": [
+   "https://jessaminesheriff.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 34,
+   "200": 1
+  },
+  "links_seen": 0
+ },
+ "21115": {
+  "last_crawled": "2026-11-09T22:34:21+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "21119": {
+  "last_crawled": "2026-11-09T22:34:22+00:00",
+  "seeds": [
+   "https://knottcountyky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "520": 7
+  },
+  "links_seen": 0
+ },
+ "21123": {
+  "last_crawled": "2026-11-09T22:34:28+00:00",
+  "seeds": [
+   "https://laruecountyky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "21107": {
+  "last_crawled": "2026-11-09T22:34:28+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 24,
+   "403": 2,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "21125": {
+  "last_crawled": "2026-11-09T22:34:30+00:00",
+  "seeds": [
+   "https://laurelcoky.gov/",
+   "https://laurelcountysheriff.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6,
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "21109": {
+  "last_crawled": "2026-11-09T22:34:33+00:00",
+  "seeds": [
+   "https://www.jacksoncounty.us/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 23,
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 0
+ },
+ "21127": {
+  "last_crawled": "2026-11-09T22:34:45+00:00",
+  "seeds": [
+   "https://lawrencecountyky.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 14,
+   "404": 4
+  },
+  "links_seen": 265
+ },
+ "21131": {
+  "last_crawled": "2026-11-09T22:35:09+00:00",
+  "seeds": [
+   "https://lesliecoclerkky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28,
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "21129": {
+  "last_crawled": "2026-11-09T22:35:12+00:00",
+  "seeds": [
+   "https://leecountyky.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 7,
+   "404": 4
+  },
+  "links_seen": 6
+ },
+ "21117": {
+  "last_crawled": "2026-11-09T22:35:17+00:00",
+  "seeds": [
+   "https://kentoncountyky.gov/",
+   "https://kentonkyclerk.gov/"
+  ],
+  "pages": 55,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 54,
+   "robots_blocked": 2,
+   "404": 4
+  },
+  "links_seen": 508
+ },
+ "21103": {
+  "last_crawled": "2026-11-09T22:35:19+00:00",
+  "seeds": [
+   "https://henrycountyky.com/"
+  ],
+  "pages": 34,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 31,
+   "404": 6
+  },
+  "links_seen": 1005
+ },
+ "21141": {
+  "last_crawled": "2026-11-09T22:35:23+00:00",
+  "seeds": [
+   "https://logancountyky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "21143": {
+  "last_crawled": "2026-11-09T22:35:25+00:00",
+  "seeds": [
+   "https://lyoncountyky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "21147": {
+  "last_crawled": "2026-11-09T22:35:31+00:00",
+  "seeds": [
+   "https://mccrearycountyky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "21121": {
+  "last_crawled": "2026-11-09T22:35:36+00:00",
+  "seeds": [
+   "https://knoxcounty.org/"
+  ],
+  "pages": 46,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 43,
+   "404": 2,
+   "403": 3
+  },
+  "links_seen": 1838
+ },
+ "21149": {
+  "last_crawled": "2026-11-09T22:35:37+00:00",
+  "seeds": [
+   "https://mcleancountyky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "21145": {
+  "last_crawled": "2026-11-09T22:35:40+00:00",
+  "seeds": [
+   "https://mccrackencountyky.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 10,
+   "404": 4
+  },
+  "links_seen": 629
+ },
+ "21151": {
+  "last_crawled": "2026-11-09T22:35:42+00:00",
+  "seeds": [
+   "https://madisoncountyky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "21155": {
+  "last_crawled": "2026-11-09T22:35:50+00:00",
+  "seeds": [
+   "https://marioncountyky.gov/",
+   "https://marioncoclerkky.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7,
+   "404": 6,
+   "200": 1
+  },
+  "links_seen": 55
+ },
+ "21157": {
+  "last_crawled": "2026-11-09T22:35:51+00:00",
+  "seeds": [
+   "https://marshallcountyky.gov/",
+   "https://marshallcoclerkky.gov/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7,
+   "403": 7,
+   "robots_blocked": 2
+  },
+  "links_seen": 266
+ },
+ "21111": {
+  "last_crawled": "2026-11-09T22:36:05+00:00",
+  "seeds": [
+   "https://jeffersoncountyky.org/",
+   "https://jeffersonsheriffky.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 55,
+   "404": 6,
+   "robots_blocked": 2
+  },
+  "links_seen": 3288
+ },
+ "21133": {
+  "last_crawled": "2026-11-09T22:36:08+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "21153": {
+  "last_crawled": "2026-11-09T22:36:10+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "21139": {
+  "last_crawled": "2026-11-09T22:36:21+00:00",
+  "seeds": [
+   "https://livingstoncountyky.com/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 3,
+   "404": 4
+  },
+  "links_seen": 114
+ },
+ "21169": {
+  "last_crawled": "2026-11-09T22:36:28+00:00",
+  "seeds": [
+   "https://metcalfecountyky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7
+  },
+  "links_seen": 5
+ },
+ "21161": {
+  "last_crawled": "2026-11-09T22:36:34+00:00",
+  "seeds": [
+   "https://masoncounty.org/",
+   "https://masonkysheriff.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 25,
+   "200": 2,
+   "429": 6
+  },
+  "links_seen": 19
+ },
+ "21159": {
+  "last_crawled": "2026-11-09T22:36:35+00:00",
+  "seeds": [
+   "https://www.martincountyky.com/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 11,
+   "404": 2
+  },
+  "links_seen": 73
+ },
+ "21165": {
+  "last_crawled": "2026-11-09T22:36:40+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "21163": {
+  "last_crawled": "2026-11-09T22:36:43+00:00",
+  "seeds": [
+   "https://www.meadecounty.org/"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 6,
+   "404": 2,
+   "robots_blocked": 2
+  },
+  "links_seen": 393
+ },
+ "21167": {
+  "last_crawled": "2026-11-09T22:36:52+00:00",
+  "seeds": [
+   "https://mercercountyky.com/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "403": 2,
+   "200": 4,
+   "404": 4
+  },
+  "links_seen": 26
+ },
+ "21137": {
+  "last_crawled": "2026-11-09T22:36:53+00:00",
+  "seeds": [
+   "http://www.lincolncountync.gov/",
+   "https://lincolncoclerkky.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 19,
+   "200": 56,
+   "403": 6,
+   "robots_blocked": 2
+  },
+  "links_seen": 1045
+ },
+ "21175": {
+  "last_crawled": "2026-11-09T22:37:13+00:00",
+  "seeds": [
+   "https://morgancoclerkky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28,
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "21173": {
+  "last_crawled": "2026-11-09T22:37:16+00:00",
+  "seeds": [
+   "https://montgomerycounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 5,
+   "404": 4
+  },
+  "links_seen": 8
+ },
+ "21177": {
+  "last_crawled": "2026-11-09T22:37:16+00:00",
+  "seeds": [
+   "https://www.muhlenbergcounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 3,
+   "404": 2,
+   "robots_blocked": 2
+  },
+  "links_seen": 50
+ },
+ "21183": {
+  "last_crawled": "2026-11-09T22:37:29+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "21191": {
+  "last_crawled": "2026-11-09T22:37:38+00:00",
+  "seeds": [
+   "https://pendletoncountyky.gov/",
+   "https://sheriffpendletoncountyky.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14
+  },
+  "links_seen": 0
+ },
+ "21193": {
+  "last_crawled": "2026-11-09T22:37:44+00:00",
+  "seeds": [
+   "https://perrycountyky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "21185": {
+  "last_crawled": "2026-11-09T22:37:50+00:00",
+  "seeds": [
+   "https://oldhamcountyky.gov/"
+  ],
+  "pages": 34,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 31,
+   "404": 4
+  },
+  "links_seen": 1919
+ },
+ "21171": {
+  "last_crawled": "2026-11-09T22:37:50+00:00",
+  "seeds": [
+   "https://www.monroecounty.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 10,
+   "200": 56,
+   "404": 5,
+   "403": 2
+  },
+  "links_seen": 12558
+ },
+ "21179": {
+  "last_crawled": "2026-11-09T22:37:54+00:00",
+  "seeds": [
+   "https://nelsoncountyky.gov/"
+  ],
+  "pages": 37,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "200": 37,
+   "404": 5
+  },
+  "links_seen": 1336
+ },
+ "21189": {
+  "last_crawled": "2026-11-09T22:37:57+00:00",
+  "seeds": [
+   "https://owsleycountykentucky.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "200": 6
+  },
+  "links_seen": 4
+ },
+ "21187": {
+  "last_crawled": "2026-11-09T22:37:59+00:00",
+  "seeds": [
+   "https://www.manchesters-hotels.com/owencountyorg/"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 8,
+   "404": 3
+  },
+  "links_seen": 772
+ },
+ "21135": {
+  "last_crawled": "2026-11-09T22:38:06+00:00",
+  "seeds": [
+   "https://lewiscountyky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "21207": {
+  "last_crawled": "2026-11-09T22:38:21+00:00",
+  "seeds": [
+   "https://russellcountyky.gov/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 10,
+   "404": 4
+  },
+  "links_seen": 198
+ },
+ "21181": {
+  "last_crawled": "2026-11-09T22:38:24+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "21201": {
+  "last_crawled": "2026-11-09T22:38:27+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 24,
+   "200": 4
+  },
+  "links_seen": 0
+ },
+ "21197": {
+  "last_crawled": "2026-11-09T22:38:29+00:00",
+  "seeds": [
+   "https://powellcountyky.com/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 4,
+   "404": 4
+  },
+  "links_seen": 7
+ },
+ "21205": {
+  "last_crawled": "2026-11-09T22:38:31+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "21195": {
+  "last_crawled": "2026-11-09T22:38:35+00:00",
+  "seeds": [
+   "https://www.pikeky.gov/",
+   "https://pikecoclerkky.gov/"
+  ],
+  "pages": 49,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 42,
+   "404": 12
+  },
+  "links_seen": 2266
+ },
+ "21217": {
+  "last_crawled": "2026-11-09T22:38:40+00:00",
+  "seeds": [
+   "https://taylorcountyky.gov/"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6,
+   "404": 4
+  },
+  "links_seen": 360
+ },
+ "21203": {
+  "last_crawled": "2026-11-09T22:38:45+00:00",
+  "seeds": [
+   "https://rockcastlecountyky.com/",
+   "https://rockcastlecountysheriff.gov/"
+  ],
+  "pages": 14,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 27,
+   "200": 12
+  },
+  "links_seen": 693
+ },
+ "21209": {
+  "last_crawled": "2026-11-09T22:38:54+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "404": 2
+  },
+  "links_seen": 0
+ },
+ "21225": {
+  "last_crawled": "2026-11-09T22:39:00+00:00",
+  "seeds": [
+   "https://unioncountyky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "21211": {
+  "last_crawled": "2026-11-09T22:39:12+00:00",
+  "seeds": [
+   "https://www.shelbycounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 19,
+   "200": 1,
+   "robots_blocked": 7
+  },
+  "links_seen": 0
+ },
+ "21221": {
+  "last_crawled": "2026-11-09T22:39:13+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "21219": {
+  "last_crawled": "2026-11-09T22:39:14+00:00",
+  "seeds": [
+   "https://toddcountyky.com/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 5,
+   "404": 2
+  },
+  "links_seen": 142
+ },
+ "21213": {
+  "last_crawled": "2026-11-09T22:39:16+00:00",
+  "seeds": [
+   "https://simpsoncountyky.gov/"
+  ],
+  "pages": 23,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 21,
+   "404": 4
+  },
+  "links_seen": 355
+ },
+ "21199": {
+  "last_crawled": "2026-11-09T22:39:17+00:00",
+  "seeds": [
+   "https://pulaskicounty.org/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 57,
+   "404": 4,
+   "403": 1
+  },
+  "links_seen": 517
+ },
+ "21229": {
+  "last_crawled": "2026-11-09T22:39:19+00:00",
+  "seeds": [
+   "https://washingtoncountyky.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 1
+  },
+  "links_seen": 16
+ },
+ "21239": {
+  "last_crawled": "2026-11-09T22:39:25+00:00",
+  "seeds": [
+   "https://woodfordcountyky.gov/"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7,
+   "robots_blocked": 2
+  },
+  "links_seen": 333
+ },
+ "22001": {
+  "last_crawled": "2026-11-09T22:39:30+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22003": {
+  "last_crawled": "2026-11-09T22:39:34+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "21215": {
+  "last_crawled": "2026-11-09T22:39:36+00:00",
+  "seeds": [
+   "https://spencercountyky.gov/"
+  ],
+  "pages": 33,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 25,
+   "404": 11
+  },
+  "links_seen": 1620
+ },
+ "22005": {
+  "last_crawled": "2026-11-09T22:39:40+00:00",
+  "seeds": [
+   "https://ascensionparishla.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 4,
+   "404": 2
+  },
+  "links_seen": 211
+ },
+ "22009": {
+  "last_crawled": "2026-11-09T22:39:43+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22007": {
+  "last_crawled": "2026-11-09T22:39:44+00:00",
+  "seeds": [
+   "https://assumptionparish.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 5,
+   "404": 2
+  },
+  "links_seen": 554
+ },
+ "22011": {
+  "last_crawled": "2026-11-09T22:39:46+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22013": {
+  "last_crawled": "2026-11-09T22:39:48+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "21235": {
+  "last_crawled": "2026-11-09T22:39:49+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22017": {
+  "last_crawled": "2026-11-09T22:39:51+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "21231": {
+  "last_crawled": "2026-11-09T22:39:52+00:00",
+  "seeds": [
+   "https://waynecountyky.com/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "403": 2,
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 0
+ },
+ "22015": {
+  "last_crawled": "2026-11-09T22:39:53+00:00",
+  "seeds": [
+   "https://bossierparishla.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 2,
+   "200": 5
+  },
+  "links_seen": 718
+ },
+ "22023": {
+  "last_crawled": "2026-11-09T22:39:56+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "21233": {
+  "last_crawled": "2026-11-09T22:39:56+00:00",
+  "seeds": [
+   "https://webstercountykentucky.org/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 6,
+   "200": 2,
+   "403": 11
+  },
+  "links_seen": 69
+ },
+ "22025": {
+  "last_crawled": "2026-11-09T22:39:56+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "21223": {
+  "last_crawled": "2026-11-09T22:39:58+00:00",
+  "seeds": [
+   "https://trimblecountyky.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 9,
+   "200": 53
+  },
+  "links_seen": 370
+ },
+ "22029": {
+  "last_crawled": "2026-11-09T22:40:00+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "21237": {
+  "last_crawled": "2026-11-09T22:40:01+00:00",
+  "seeds": [
+   "https://www.wolfecountyky.com/",
+   "https://wolfecoclerkky.gov/"
+  ],
+  "pages": 11,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 6,
+   "404": 10
+  },
+  "links_seen": 118
+ },
+ "22033": {
+  "last_crawled": "2026-11-09T22:40:01+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22035": {
+  "last_crawled": "2026-11-09T22:40:03+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22039": {
+  "last_crawled": "2026-11-09T22:40:05+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22027": {
+  "last_crawled": "2026-11-09T22:40:07+00:00",
+  "seeds": [
+   "https://www.claiborneparish.org/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 4,
+   "404": 6
+  },
+  "links_seen": 311
+ },
+ "22043": {
+  "last_crawled": "2026-11-09T22:40:07+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22041": {
+  "last_crawled": "2026-11-09T22:40:08+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "22045": {
+  "last_crawled": "2026-11-09T22:40:12+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22049": {
+  "last_crawled": "2026-11-09T22:40:13+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22047": {
+  "last_crawled": "2026-11-09T22:40:13+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22055": {
+  "last_crawled": "2026-11-09T22:40:15+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22053": {
+  "last_crawled": "2026-11-09T22:40:15+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22057": {
+  "last_crawled": "2026-11-09T22:40:17+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22059": {
+  "last_crawled": "2026-11-09T22:40:17+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22037": {
+  "last_crawled": "2026-11-09T22:40:19+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22063": {
+  "last_crawled": "2026-11-09T22:40:20+00:00",
+  "seeds": [
+   "https://livingstonparishla.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 1,
+   "robots_blocked": 5
+  },
+  "links_seen": 0
+ },
+ "22031": {
+  "last_crawled": "2026-11-09T22:40:22+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22021": {
+  "last_crawled": "2026-11-09T22:40:22+00:00",
+  "seeds": [
+   "https://expireddomains.com/domain/caldwellparishla.com?utm_source=redi"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 4,
+   "404": 4
+  },
+  "links_seen": 10
+ },
+ "22067": {
+  "last_crawled": "2026-11-09T22:40:22+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22069": {
+  "last_crawled": "2026-11-09T22:40:24+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22073": {
+  "last_crawled": "2026-11-09T22:40:24+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22071": {
+  "last_crawled": "2026-11-09T22:40:24+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 24,
+   "200": 4
+  },
+  "links_seen": 0
+ },
+ "22079": {
+  "last_crawled": "2026-11-09T22:40:26+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22077": {
+  "last_crawled": "2026-11-09T22:40:27+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22081": {
+  "last_crawled": "2026-11-09T22:40:29+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22083": {
+  "last_crawled": "2026-11-09T22:40:29+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "22075": {
+  "last_crawled": "2026-11-09T22:40:30+00:00",
+  "seeds": [
+   "https://plaqueminesparish.gov/"
+  ],
+  "pages": 6,
+  "candidates": 2,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 1737
+ },
+ "22065": {
+  "last_crawled": "2026-11-09T22:40:31+00:00",
+  "seeds": [
+   "https://www.madisonparish.org/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 3,
+   "403": 10
+  },
+  "links_seen": 94
+ },
+ "22087": {
+  "last_crawled": "2026-11-09T22:40:31+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "21227": {
+  "last_crawled": "2026-11-09T22:40:32+00:00",
+  "seeds": [
+   "https://warrencountyky.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 66
+  },
+  "links_seen": 6656
+ },
+ "22061": {
+  "last_crawled": "2026-11-09T22:40:33+00:00",
+  "seeds": [
+   "https://lincolnparish.gov/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 9,
+   "404": 2,
+   "403": 3
+  },
+  "links_seen": 587
+ },
+ "22097": {
+  "last_crawled": "2026-11-09T22:40:35+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22093": {
+  "last_crawled": "2026-11-09T22:40:38+00:00",
+  "seeds": [
+   "https://stjamesparishla.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "22091": {
+  "last_crawled": "2026-11-09T22:40:39+00:00",
+  "seeds": [
+   "https://www.sthelenaparish.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 2,
+   "404": 5,
+   "400": 1
+  },
+  "links_seen": 35
+ },
+ "22099": {
+  "last_crawled": "2026-11-09T22:40:39+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "404": 2
+  },
+  "links_seen": 0
+ },
+ "22105": {
+  "last_crawled": "2026-11-09T22:40:41+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22103": {
+  "last_crawled": "2026-11-09T22:40:41+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22089": {
+  "last_crawled": "2026-11-09T22:40:43+00:00",
+  "seeds": [
+   "https://stcharlesparish.gov/",
+   "https://stcharlesparish-la.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 22
+  },
+  "links_seen": 0
+ },
+ "22109": {
+  "last_crawled": "2026-11-09T22:40:44+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22101": {
+  "last_crawled": "2026-11-09T22:40:44+00:00",
+  "seeds": [
+   "https://stmaryparishla.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "22095": {
+  "last_crawled": "2026-11-09T22:40:45+00:00",
+  "seeds": [
+   "https://sjbparish.gov/",
+   "https://stjohn-la.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 22
+  },
+  "links_seen": 0
+ },
+ "22107": {
+  "last_crawled": "2026-11-09T22:40:45+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "22019": {
+  "last_crawled": "2026-11-09T22:40:48+00:00",
+  "seeds": [
+   "https://calcasieuclerk.gov/",
+   "https://calcasieusheriff.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 34,
+   "200": 53,
+   "404": 5
+  },
+  "links_seen": 2325
+ },
+ "22117": {
+  "last_crawled": "2026-11-09T22:40:53+00:00",
+  "seeds": [
+   "https://christchurchdc.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 2,
+   "429": 6
+  },
+  "links_seen": 77
+ },
+ "22121": {
+  "last_crawled": "2026-11-09T22:40:54+00:00",
+  "seeds": [
+   "https://westbatonrougeparish.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 201
+ },
+ "22123": {
+  "last_crawled": "2026-11-09T22:40:55+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22119": {
+  "last_crawled": "2026-11-09T22:40:56+00:00",
+  "seeds": [
+   "https://www.websterparishla.org/index.html"
+  ],
+  "pages": 5,
+  "candidates": 3,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 6,
+   "403": 1
+  },
+  "links_seen": 49
+ },
+ "22125": {
+  "last_crawled": "2026-11-09T22:40:56+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22127": {
+  "last_crawled": "2026-11-09T22:40:58+00:00",
+  "seeds": [
+   "https://winnsheriff.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28,
+   "robots_blocked": 7
+  },
+  "links_seen": 0
+ },
+ "22111": {
+  "last_crawled": "2026-11-09T22:41:04+00:00",
+  "seeds": [
+   "https://uppj.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 13,
+   "404": 4
+  },
+  "links_seen": 27
+ },
+ "23003": {
+  "last_crawled": "2026-11-09T22:41:04+00:00",
+  "seeds": [
+   "https://aroostook.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 9,
+   "403": 1,
+   "409": 1
+  },
+  "links_seen": 0
+ },
+ "23009": {
+  "last_crawled": "2026-11-09T22:41:13+00:00",
+  "seeds": [
+   "https://hancockcountymaine.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "22113": {
+  "last_crawled": "2026-11-09T22:41:13+00:00",
+  "seeds": [
+   "https://vermilionsheriff.gov/"
+  ],
+  "pages": 26,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28,
+   "404": 6,
+   "200": 22
+  },
+  "links_seen": 543
+ },
+ "22085": {
+  "last_crawled": "2026-11-09T22:41:13+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "22115": {
+  "last_crawled": "2026-11-09T22:41:13+00:00",
+  "seeds": [
+   "https://vernonparish.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 19,
+   "404": 4
+  },
+  "links_seen": 112
+ },
+ "22051": {
+  "last_crawled": "2026-11-09T22:41:15+00:00",
+  "seeds": [
+   "https://jeffersonparish.org/",
+   "https://jeffparishclerk.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 56,
+   "404": 4,
+   "429": 9
+  },
+  "links_seen": 4355
+ },
+ "23007": {
+  "last_crawled": "2026-11-09T22:41:16+00:00",
+  "seeds": [
+   "https://www.franklincountymaine.gov/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 11,
+   "404": 4
+  },
+  "links_seen": 310
+ },
+ "23019": {
+  "last_crawled": "2026-11-09T22:41:16+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "23021": {
+  "last_crawled": "2026-11-09T22:41:18+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "23017": {
+  "last_crawled": "2026-11-09T22:41:20+00:00",
+  "seeds": [
+   "https://oxfordcounty.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8
+  },
+  "links_seen": 2
+ },
+ "23011": {
+  "last_crawled": "2026-11-09T22:41:21+00:00",
+  "seeds": [
+   "https://kennebeccountyme.com/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 18
+ },
+ "23025": {
+  "last_crawled": "2026-11-09T22:41:26+00:00",
+  "seeds": [
+   "https://somersetcountyme.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "23027": {
+  "last_crawled": "2026-11-09T22:41:28+00:00",
+  "seeds": [
+   "https://www.waldocountyme.gov"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8,
+   "robots_blocked": 2
+  },
+  "links_seen": 316
+ },
+ "23029": {
+  "last_crawled": "2026-11-09T22:41:33+00:00",
+  "seeds": [
+   "https://washingtoncountymaine.gov/",
+   "https://sheriffwashingtoncountymaine.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "409": 2
+  },
+  "links_seen": 0
+ },
+ "23023": {
+  "last_crawled": "2026-11-09T22:41:50+00:00",
+  "seeds": [
+   "https://sagadahoccountyme.gov/"
+  ],
+  "pages": 31,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7,
+   "404": 27
+  },
+  "links_seen": 1070
+ },
+ "23001": {
+  "last_crawled": "2026-11-09T22:42:52+00:00",
+  "seeds": [
+   "https://androscoggincountymaine.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 60,
+   "robots_blocked": 2
+  },
+  "links_seen": 202
+ },
+ "23005": {
+  "last_crawled": "2026-11-09T22:43:15+00:00",
+  "seeds": [
+   "https://www.cumberlandcountyme.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "200": 40,
+   "404": 22
+  },
+  "links_seen": 2232
+ },
+ "23015": {
+  "last_crawled": "2026-11-09T22:44:00+00:00",
+  "seeds": [
+   "https://www.lincolncountymaine.me/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 61,
+   "404": 4
+  },
+  "links_seen": 1023
+ },
+ "23013": {
+  "last_crawled": "2026-11-09T22:44:07+00:00",
+  "seeds": [
+   "https://knoxcountymaine.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 56,
+   "404": 6,
+   "401": 1
+  },
+  "links_seen": 7467
  }
 }
