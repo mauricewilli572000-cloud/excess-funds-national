@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-10T04:18:13+00:00",
- "total_leads": 7447,
- "total_surplus": 36747089.17,
- "new_this_run": 0,
+ "generated_at": "2026-11-10T09:11:15+00:00",
+ "total_leads": 7483,
+ "total_surplus": 37095874.28,
+ "new_this_run": 36,
  "states": {
   "AK": {
    "leads": 22,
@@ -46,6 +46,16 @@
     }
    }
   },
+  "MD": {
+   "leads": 36,
+   "total": 348785.11,
+   "counties": {
+    "Worcester County": {
+     "leads": 36,
+     "total": 348785.11
+    }
+   }
+  },
   "OH": {
    "leads": 7003,
    "total": 31927866.95,
@@ -66,15 +76,15 @@
   }
  },
  "sources": {
-  "total": 95,
-  "usable": 11,
-  "candidates": 75,
-  "portals": 3,
+  "total": 105,
+  "usable": 12,
+  "candidates": 82,
+  "portals": 5,
   "errors_this_run": 0
  },
  "discovery": {
   "counties_total": 3152,
-  "counties_crawled": 1232,
-  "counties_with_usable_source": 9
+  "counties_crawled": 1380,
+  "counties_with_usable_source": 10
  }
 }
