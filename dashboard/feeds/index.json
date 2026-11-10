@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-10T18:13:38+00:00",
- "total_leads": 7483,
- "total_surplus": 37095874.28,
- "new_this_run": 36,
+ "generated_at": "2026-11-10T21:17:27+00:00",
+ "total_leads": 7486,
+ "total_surplus": 37136078.19,
+ "new_this_run": 39,
  "states": {
   "AK": {
    "leads": 22,
@@ -56,6 +56,16 @@
     }
    }
   },
+  "MN": {
+   "leads": 3,
+   "total": 40203.91,
+   "counties": {
+    "Waseca County": {
+     "leads": 3,
+     "total": 40203.91
+    }
+   }
+  },
   "OH": {
    "leads": 7003,
    "total": 31927866.95,
@@ -76,15 +86,15 @@
   }
  },
  "sources": {
-  "total": 105,
-  "usable": 12,
-  "candidates": 82,
+  "total": 111,
+  "usable": 13,
+  "candidates": 87,
   "portals": 5,
   "errors_this_run": 0
  },
  "discovery": {
   "counties_total": 3152,
-  "counties_crawled": 1380,
-  "counties_with_usable_source": 10
+  "counties_crawled": 1528,
+  "counties_with_usable_source": 11
  }
 }
