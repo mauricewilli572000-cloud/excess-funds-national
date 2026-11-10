@@ -20351,5 +20351,2208 @@
    "conn_error": 11
   },
   "links_seen": 0
+ },
+ "27061": {
+  "last_crawled": "2026-11-10T19:52:50+00:00",
+  "seeds": [
+   "https://itascacountymn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 4,
+   "robots_blocked": 2
+  },
+  "links_seen": 193
+ },
+ "27059": {
+  "last_crawled": "2026-11-10T19:52:51+00:00",
+  "seeds": [
+   "https://www.isanticountymn.gov"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 155
+ },
+ "27057": {
+  "last_crawled": "2026-11-10T19:53:04+00:00",
+  "seeds": [
+   "https://www.hubbardcounty.gov/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 10,
+   "404": 4,
+   "403": 1
+  },
+  "links_seen": 1737
+ },
+ "27065": {
+  "last_crawled": "2026-11-10T19:53:05+00:00",
+  "seeds": [
+   "https://kanabeccountymn.gov/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8,
+   "404": 6,
+   "403": 2
+  },
+  "links_seen": 620
+ },
+ "27069": {
+  "last_crawled": "2026-11-10T19:53:06+00:00",
+  "seeds": [
+   "https://kittsonmn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "27063": {
+  "last_crawled": "2026-11-10T19:53:07+00:00",
+  "seeds": [
+   "https://jacksoncountymn.gov/"
+  ],
+  "pages": 18,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 11,
+   "404": 4,
+   "403": 4
+  },
+  "links_seen": 3182
+ },
+ "27071": {
+  "last_crawled": "2026-11-10T19:53:09+00:00",
+  "seeds": [
+   "https://koochiching.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 129
+ },
+ "27067": {
+  "last_crawled": "2026-11-10T19:53:09+00:00",
+  "seeds": [
+   "https://www.kcmn.us/"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "404": 6
+  },
+  "links_seen": 709
+ },
+ "27073": {
+  "last_crawled": "2026-11-10T19:53:09+00:00",
+  "seeds": [
+   "https://lqpcomn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 126
+ },
+ "27075": {
+  "last_crawled": "2026-11-10T19:53:10+00:00",
+  "seeds": [
+   "https://lakecountymn.gov/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6,
+   "robots_blocked": 2
+  },
+  "links_seen": 243
+ },
+ "27083": {
+  "last_crawled": "2026-11-10T19:53:18+00:00",
+  "seeds": [
+   "https://lyoncountymn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 5,
+   "404": 6
+  },
+  "links_seen": 0
+ },
+ "27079": {
+  "last_crawled": "2026-11-10T19:53:20+00:00",
+  "seeds": [
+   "https://lesueurcounty.gov/"
+  ],
+  "pages": 11,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 10,
+   "robots_blocked": 2,
+   "403": 1
+  },
+  "links_seen": 243
+ },
+ "27081": {
+  "last_crawled": "2026-11-10T19:53:21+00:00",
+  "seeds": [
+   "https://lincolncountymn.gov/"
+  ],
+  "pages": 23,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 13,
+   "robots_blocked": 12,
+   "403": 1
+  },
+  "links_seen": 1568
+ },
+ "27093": {
+  "last_crawled": "2026-11-10T19:53:26+00:00",
+  "seeds": [
+   "https://meekercountymn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 171
+ },
+ "27055": {
+  "last_crawled": "2026-11-10T19:53:31+00:00",
+  "seeds": [
+   "https://hocomn.gov/"
+  ],
+  "pages": 42,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 37,
+   "403": 7
+  },
+  "links_seen": 1514
+ },
+ "27097": {
+  "last_crawled": "2026-11-10T19:53:36+00:00",
+  "seeds": [
+   "https://morrisoncountymn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 191
+ },
+ "27087": {
+  "last_crawled": "2026-11-10T19:53:42+00:00",
+  "seeds": [
+   "https://www.mahnomencounty.gov/"
+  ],
+  "pages": 31,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6,
+   "404": 22,
+   "403": 6
+  },
+  "links_seen": 774
+ },
+ "27089": {
+  "last_crawled": "2026-11-10T19:53:46+00:00",
+  "seeds": [
+   "https://www.marshallcountymn.gov/"
+  ],
+  "pages": 45,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 28,
+   "robots_blocked": 16,
+   "403": 4
+  },
+  "links_seen": 1515
+ },
+ "27099": {
+  "last_crawled": "2026-11-10T19:53:46+00:00",
+  "seeds": [
+   "https://mowercountymn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 152
+ },
+ "27103": {
+  "last_crawled": "2026-11-10T19:53:48+00:00",
+  "seeds": [
+   "https://nicolletcountymn.gov/"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8,
+   "robots_blocked": 2
+  },
+  "links_seen": 239
+ },
+ "27109": {
+  "last_crawled": "2026-11-10T19:53:53+00:00",
+  "seeds": [
+   "https://www.olmstedcounty.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7
+  },
+  "links_seen": 475
+ },
+ "27105": {
+  "last_crawled": "2026-11-10T19:53:54+00:00",
+  "seeds": [
+   "https://noblescountymn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "27091": {
+  "last_crawled": "2026-11-10T19:54:00+00:00",
+  "seeds": [
+   "https://martincountymn.gov/"
+  ],
+  "pages": 41,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7,
+   "404": 32,
+   "403": 5
+  },
+  "links_seen": 1170
+ },
+ "27095": {
+  "last_crawled": "2026-11-10T19:54:00+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "27085": {
+  "last_crawled": "2026-11-10T19:54:02+00:00",
+  "seeds": [
+   "https://www.mcleodcountymn.gov/"
+  ],
+  "pages": 51,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8,
+   "404": 44,
+   "403": 2
+  },
+  "links_seen": 1915
+ },
+ "27119": {
+  "last_crawled": "2026-11-10T19:54:15+00:00",
+  "seeds": [
+   "https://polkcountymn.gov/"
+  ],
+  "pages": 12,
+  "candidates": 2,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 10,
+   "robots_blocked": 2,
+   "403": 1
+  },
+  "links_seen": 534
+ },
+ "27117": {
+  "last_crawled": "2026-11-10T19:54:15+00:00",
+  "seeds": [
+   "https://pipestonecounty.gov/"
+  ],
+  "pages": 14,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 10,
+   "404": 6,
+   "403": 1
+  },
+  "links_seen": 1796
+ },
+ "27077": {
+  "last_crawled": "2026-11-10T19:54:16+00:00",
+  "seeds": [
+   "https://lotwcounty.gov/"
+  ],
+  "pages": 15,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 23,
+   "404": 4,
+   "403": 6
+  },
+  "links_seen": 4658
+ },
+ "27113": {
+  "last_crawled": "2026-11-10T19:54:17+00:00",
+  "seeds": [
+   "https://www.penningtonmn.gov/"
+  ],
+  "pages": 15,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 1,
+   "200": 6,
+   "404": 6,
+   "403": 6
+  },
+  "links_seen": 577
+ },
+ "27123": {
+  "last_crawled": "2026-11-10T19:54:19+00:00",
+  "seeds": [
+   "https://www.ramseycountymn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 3,
+   "404": 2,
+   "robots_blocked": 2
+  },
+  "links_seen": 62
+ },
+ "27115": {
+  "last_crawled": "2026-11-10T19:54:23+00:00",
+  "seeds": [
+   "https://pinecountymn.gov/"
+  ],
+  "pages": 20,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 16,
+   "200": 4,
+   "403": 2
+  },
+  "links_seen": 1006
+ },
+ "27121": {
+  "last_crawled": "2026-11-10T19:54:24+00:00",
+  "seeds": [
+   "https://popecountymn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "27125": {
+  "last_crawled": "2026-11-10T19:54:30+00:00",
+  "seeds": [
+   "https://redlakecounty.gov/"
+  ],
+  "pages": 14,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8,
+   "404": 6,
+   "403": 3
+  },
+  "links_seen": 1507
+ },
+ "27101": {
+  "last_crawled": "2026-11-10T19:54:33+00:00",
+  "seeds": [
+   "https://murraycountymn.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 37,
+   "404": 19,
+   "403": 6,
+   "conn_error": 1
+  },
+  "links_seen": 2123
+ },
+ "27131": {
+  "last_crawled": "2026-11-10T19:54:36+00:00",
+  "seeds": [
+   "https://www.ricecountymn.gov/"
+  ],
+  "pages": 16,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8,
+   "robots_blocked": 2,
+   "403": 7,
+   "404": 1
+  },
+  "links_seen": 372
+ },
+ "27127": {
+  "last_crawled": "2026-11-10T19:54:38+00:00",
+  "seeds": [
+   "https://redwoodcounty-mn.gov/"
+  ],
+  "pages": 12,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 13,
+   "404": 4,
+   "403": 1
+  },
+  "links_seen": 912
+ },
+ "27141": {
+  "last_crawled": "2026-11-10T19:54:44+00:00",
+  "seeds": [
+   "https://www.co.sherburne.mn.us"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6,
+   "robots_blocked": 2
+  },
+  "links_seen": 209
+ },
+ "27139": {
+  "last_crawled": "2026-11-10T19:54:45+00:00",
+  "seeds": [
+   "https://www.scottcountymn.gov/"
+  ],
+  "pages": 11,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 10,
+   "robots_blocked": 2,
+   "403": 1
+  },
+  "links_seen": 275
+ },
+ "27111": {
+  "last_crawled": "2026-11-10T19:54:47+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 23,
+   "403": 5
+  },
+  "links_seen": 0
+ },
+ "27143": {
+  "last_crawled": "2026-11-10T19:54:50+00:00",
+  "seeds": [
+   "https://sibleycounty.gov/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7,
+   "robots_blocked": 2
+  },
+  "links_seen": 197
+ },
+ "27145": {
+  "last_crawled": "2026-11-10T19:54:51+00:00",
+  "seeds": [
+   "https://www.stearnscountymn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 3,
+   "404": 4
+  },
+  "links_seen": 26
+ },
+ "27133": {
+  "last_crawled": "2026-11-10T19:54:52+00:00",
+  "seeds": [
+   "https://rockmn.gov/"
+  ],
+  "pages": 27,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7,
+   "404": 22,
+   "403": 1
+  },
+  "links_seen": 831
+ },
+ "27137": {
+  "last_crawled": "2026-11-10T19:54:55+00:00",
+  "seeds": [
+   "https://www.stlouiscountymn.gov/"
+  ],
+  "pages": 19,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 15,
+   "404": 6,
+   "403": 1
+  },
+  "links_seen": 4443
+ },
+ "27149": {
+  "last_crawled": "2026-11-10T19:54:57+00:00",
+  "seeds": [
+   "https://stevenscountymn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "27157": {
+  "last_crawled": "2026-11-10T19:54:57+00:00",
+  "seeds": [
+   "https://wabashacounty.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 1,
+   "robots_blocked": 7
+  },
+  "links_seen": 0
+ },
+ "27159": {
+  "last_crawled": "2026-11-10T19:55:00+00:00",
+  "seeds": [
+   "https://wadenacounty.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 4,
+   "robots_blocked": 2
+  },
+  "links_seen": 177
+ },
+ "27107": {
+  "last_crawled": "2026-11-10T19:55:01+00:00",
+  "seeds": [
+   "https://www.normanmn.gov/"
+  ],
+  "pages": 32,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 15,
+   "200": 14,
+   "robots_blocked": 16,
+   "403": 5
+  },
+  "links_seen": 1356
+ },
+ "27153": {
+  "last_crawled": "2026-11-10T19:55:04+00:00",
+  "seeds": [
+   "https://toddcountymn.gov/"
+  ],
+  "pages": 17,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8,
+   "404": 6,
+   "403": 1,
+   "robots_blocked": 5
+  },
+  "links_seen": 1330
+ },
+ "27163": {
+  "last_crawled": "2026-11-10T19:55:05+00:00",
+  "seeds": [
+   "https://washingtoncountymn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 140
+ },
+ "27165": {
+  "last_crawled": "2026-11-10T19:55:09+00:00",
+  "seeds": [
+   "https://watonwancountymn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 158
+ },
+ "27155": {
+  "last_crawled": "2026-11-10T19:55:12+00:00",
+  "seeds": [
+   "https://traversecountymn.gov/"
+  ],
+  "pages": 12,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 14,
+   "404": 4
+  },
+  "links_seen": 849
+ },
+ "27129": {
+  "last_crawled": "2026-11-10T19:55:12+00:00",
+  "seeds": [
+   "https://www.renvillecountymn.gov/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "200": 19,
+   "403": 1
+  },
+  "links_seen": 414
+ },
+ "27151": {
+  "last_crawled": "2026-11-10T19:55:13+00:00",
+  "seeds": [
+   "https://swiftcounty.gov/"
+  ],
+  "pages": 17,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 14,
+   "404": 4,
+   "403": 1
+  },
+  "links_seen": 1006
+ },
+ "27167": {
+  "last_crawled": "2026-11-10T19:55:24+00:00",
+  "seeds": [
+   "https://wilkincounty.gov/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7,
+   "404": 4
+  },
+  "links_seen": 2129
+ },
+ "27135": {
+  "last_crawled": "2026-11-10T19:55:26+00:00",
+  "seeds": [
+   "https://www.roseaucountymn.gov/"
+  ],
+  "pages": 42,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 39,
+   "403": 6
+  },
+  "links_seen": 1733
+ },
+ "27169": {
+  "last_crawled": "2026-11-10T19:55:26+00:00",
+  "seeds": [
+   "https://winonacounty.gov/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 9,
+   "robots_blocked": 2
+  },
+  "links_seen": 533
+ },
+ "27161": {
+  "last_crawled": "2026-11-10T19:55:29+00:00",
+  "seeds": [
+   "https://www.wasecacounty.gov/"
+  ],
+  "pages": 6,
+  "candidates": 1,
+  "verified": 1,
+  "searched": false,
+  "http": {
+   "conn_error": 1,
+   "200": 6,
+   "robots_blocked": 2
+  },
+  "links_seen": 204
+ },
+ "28003": {
+  "last_crawled": "2026-11-10T19:55:30+00:00",
+  "seeds": [
+   "https://alcorncountyms.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "28005": {
+  "last_crawled": "2026-11-10T19:55:32+00:00",
+  "seeds": [
+   "https://amitecountyms.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "28009": {
+  "last_crawled": "2026-11-10T19:55:35+00:00",
+  "seeds": [
+   "https://bentoncountyms.gov/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "404": 4
+  },
+  "links_seen": 60
+ },
+ "27173": {
+  "last_crawled": "2026-11-10T19:55:45+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "27147": {
+  "last_crawled": "2026-11-10T19:55:52+00:00",
+  "seeds": [
+   "https://steelecountymn.gov/"
+  ],
+  "pages": 56,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 9,
+   "404": 48,
+   "403": 2
+  },
+  "links_seen": 2898
+ },
+ "28017": {
+  "last_crawled": "2026-11-10T19:55:57+00:00",
+  "seeds": [
+   "https://chickasawcountyms.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8,
+   "404": 4
+  },
+  "links_seen": 149
+ },
+ "28007": {
+  "last_crawled": "2026-11-10T19:55:59+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "28021": {
+  "last_crawled": "2026-11-10T19:56:03+00:00",
+  "seeds": [
+   "https://claibornecountyms.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "503": 7
+  },
+  "links_seen": 0
+ },
+ "28023": {
+  "last_crawled": "2026-11-10T19:56:13+00:00",
+  "seeds": [
+   "https://clarkecountyms.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 11,
+   "404": 4
+  },
+  "links_seen": 155
+ },
+ "28011": {
+  "last_crawled": "2026-11-10T19:56:14+00:00",
+  "seeds": [
+   "https://co.bolivar.ms.us/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 7,
+   "404": 6
+  },
+  "links_seen": 151
+ },
+ "28015": {
+  "last_crawled": "2026-11-10T19:56:15+00:00",
+  "seeds": [
+   "https://carrollcountyms.org/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 9
+  },
+  "links_seen": 378
+ },
+ "27171": {
+  "last_crawled": "2026-11-10T19:56:19+00:00",
+  "seeds": [
+   "https://wrightcountymn.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 60,
+   "robots_blocked": 2
+  },
+  "links_seen": 4010
+ },
+ "28029": {
+  "last_crawled": "2026-11-10T19:56:21+00:00",
+  "seeds": [
+   "https://copiahcountyms.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "503": 7
+  },
+  "links_seen": 0
+ },
+ "28019": {
+  "last_crawled": "2026-11-10T19:56:26+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "28031": {
+  "last_crawled": "2026-11-10T19:56:33+00:00",
+  "seeds": [
+   "https://covingtoncountyms.gov/"
+  ],
+  "pages": 11,
+  "candidates": 1,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 4,
+   "200": 9
+  },
+  "links_seen": 710
+ },
+ "28037": {
+  "last_crawled": "2026-11-10T19:56:43+00:00",
+  "seeds": [
+   "https://franklincountyms.gov/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7,
+   "404": 4
+  },
+  "links_seen": 133
+ },
+ "28041": {
+  "last_crawled": "2026-11-10T19:57:06+00:00",
+  "seeds": [
+   "https://greenecountyms.gov/"
+  ],
+  "pages": 14,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 12,
+   "404": 4
+  },
+  "links_seen": 769
+ },
+ "28025": {
+  "last_crawled": "2026-11-10T19:57:06+00:00",
+  "seeds": [
+   "https://www.claycountyms.com/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "403": 9,
+   "200": 8
+  },
+  "links_seen": 434
+ },
+ "28033": {
+  "last_crawled": "2026-11-10T19:57:13+00:00",
+  "seeds": [
+   "https://desotocountyms.gov/"
+  ],
+  "pages": 42,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 42,
+   "robots_blocked": 2
+  },
+  "links_seen": 1487
+ },
+ "28035": {
+  "last_crawled": "2026-11-10T19:57:15+00:00",
+  "seeds": [
+   "https://www.co.forrest.ms.us/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 15,
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 1
+ },
+ "28045": {
+  "last_crawled": "2026-11-10T19:57:55+00:00",
+  "seeds": [
+   "https://hancockcountyms.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 3,
+   "404": 4
+  },
+  "links_seen": 128
+ },
+ "28043": {
+  "last_crawled": "2026-11-10T19:58:01+00:00",
+  "seeds": [
+   "https://grenadacountyms.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 9,
+   "404": 4
+  },
+  "links_seen": 8
+ },
+ "28049": {
+  "last_crawled": "2026-11-10T19:58:09+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "503": 2
+  },
+  "links_seen": 0
+ },
+ "28047": {
+  "last_crawled": "2026-11-10T19:58:30+00:00",
+  "seeds": [
+   "https://harrisoncountyms.gov/",
+   "https://harrisoncountymschanceryclerk.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 10,
+   "404": 6,
+   "200": 47,
+   "robots_blocked": 1
+  },
+  "links_seen": 3230
+ },
+ "28057": {
+  "last_crawled": "2026-11-10T19:58:38+00:00",
+  "seeds": [
+   "https://itawamba.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 11
+  },
+  "links_seen": 0
+ },
+ "28053": {
+  "last_crawled": "2026-11-10T19:58:43+00:00",
+  "seeds": [
+   "https://humphreyscountyms.com/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 32
+ },
+ "28059": {
+  "last_crawled": "2026-11-10T19:58:48+00:00",
+  "seeds": [
+   "https://jacksoncountyms.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "28001": {
+  "last_crawled": "2026-11-10T19:58:53+00:00",
+  "seeds": [
+   "https://adamscountyms.gov/",
+   "https://adamscosheriffms.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14
+  },
+  "links_seen": 0
+ },
+ "28051": {
+  "last_crawled": "2026-11-10T19:58:55+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "28063": {
+  "last_crawled": "2026-11-10T19:58:55+00:00",
+  "seeds": [
+   "https://jeffersoncountyms.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "28069": {
+  "last_crawled": "2026-11-10T19:59:10+00:00",
+  "seeds": [
+   "https://kempercountyms.gov/"
+  ],
+  "pages": 11,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 11,
+   "404": 4
+  },
+  "links_seen": 536
+ },
+ "28013": {
+  "last_crawled": "2026-11-10T19:59:11+00:00",
+  "seeds": [
+   "https://calhouncounty.org/"
+  ],
+  "pages": 34,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 21,
+   "200": 33,
+   "404": 1
+  },
+  "links_seen": 583
+ },
+ "28065": {
+  "last_crawled": "2026-11-10T19:59:26+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "403": 2
+  },
+  "links_seen": 0
+ },
+ "28061": {
+  "last_crawled": "2026-11-10T19:59:28+00:00",
+  "seeds": [
+   "https://co.jasper.ms.us/"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 9,
+   "404": 4
+  },
+  "links_seen": 165
+ },
+ "28067": {
+  "last_crawled": "2026-11-10T19:59:37+00:00",
+  "seeds": [
+   "https://jonescounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 4,
+   "404": 4
+  },
+  "links_seen": 59
+ },
+ "28073": {
+  "last_crawled": "2026-11-10T19:59:44+00:00",
+  "seeds": [
+   "https://lamarcountyms.gov/"
+  ],
+  "pages": 16,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 12
+  },
+  "links_seen": 686
+ },
+ "28081": {
+  "last_crawled": "2026-11-10T19:59:50+00:00",
+  "seeds": [
+   "https://leecountyms.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "28071": {
+  "last_crawled": "2026-11-10T19:59:50+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "28039": {
+  "last_crawled": "2026-11-10T19:59:53+00:00",
+  "seeds": [
+   "https://georgecountyms.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "28087": {
+  "last_crawled": "2026-11-10T20:00:01+00:00",
+  "seeds": [
+   "https://lowndescountyms.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8
+  },
+  "links_seen": 5
+ },
+ "28075": {
+  "last_crawled": "2026-11-10T20:00:28+00:00",
+  "seeds": [
+   "https://www.lauderdalecounty.org/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 16,
+   "404": 4
+  },
+  "links_seen": 343
+ },
+ "28077": {
+  "last_crawled": "2026-11-10T20:00:29+00:00",
+  "seeds": [
+   "https://lawrencecounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 2,
+   "429": 6
+  },
+  "links_seen": 47
+ },
+ "28083": {
+  "last_crawled": "2026-11-10T20:00:31+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "403": 2
+  },
+  "links_seen": 0
+ },
+ "28093": {
+  "last_crawled": "2026-11-10T20:00:40+00:00",
+  "seeds": [
+   "https://marshallcoms.gov/",
+   "https://marshallsheriffms.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 12,
+   "200": 2
+  },
+  "links_seen": 2
+ },
+ "28027": {
+  "last_crawled": "2026-11-10T20:01:10+00:00",
+  "seeds": [
+   "https://coahomacountyms.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "28079": {
+  "last_crawled": "2026-11-10T20:01:11+00:00",
+  "seeds": [
+   "https://leakecountyms.org/"
+  ],
+  "pages": 22,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 35
+  },
+  "links_seen": 1795
+ },
+ "28089": {
+  "last_crawled": "2026-11-10T20:01:14+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 24,
+   "403": 2,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "28097": {
+  "last_crawled": "2026-11-10T20:01:23+00:00",
+  "seeds": [
+   "https://montgomerycounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 5,
+   "404": 4
+  },
+  "links_seen": 8
+ },
+ "28091": {
+  "last_crawled": "2026-11-10T20:01:30+00:00",
+  "seeds": [
+   "https://circuitclerkmarioncountyms.gov/"
+  ],
+  "pages": 20,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 19,
+   "404": 4
+  },
+  "links_seen": 7038
+ },
+ "28055": {
+  "last_crawled": "2026-11-10T20:01:30+00:00",
+  "seeds": [
+   "https://issaquenacountyms.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "28085": {
+  "last_crawled": "2026-11-10T20:01:53+00:00",
+  "seeds": [
+   "http://www.lincolncountync.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 19,
+   "200": 60,
+   "robots_blocked": 2
+  },
+  "links_seen": 1045
+ },
+ "28099": {
+  "last_crawled": "2026-11-10T20:01:54+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "28095": {
+  "last_crawled": "2026-11-10T20:01:56+00:00",
+  "seeds": [
+   "https://www.monroecounty.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 10,
+   "200": 56,
+   "404": 5,
+   "403": 2
+  },
+  "links_seen": 12569
+ },
+ "28105": {
+  "last_crawled": "2026-11-10T20:01:58+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "28115": {
+  "last_crawled": "2026-11-10T20:02:02+00:00",
+  "seeds": [
+   "https://pontotoccountyms.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "28103": {
+  "last_crawled": "2026-11-10T20:02:03+00:00",
+  "seeds": [
+   "https://www.noxubeecounty.org/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 4,
+   "404": 6
+  },
+  "links_seen": 696
+ },
+ "28107": {
+  "last_crawled": "2026-11-10T20:02:04+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "28109": {
+  "last_crawled": "2026-11-10T20:02:05+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "400": 2
+  },
+  "links_seen": 0
+ },
+ "28119": {
+  "last_crawled": "2026-11-10T20:02:10+00:00",
+  "seeds": [
+   "https://quitmancountyms.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "28125": {
+  "last_crawled": "2026-11-10T20:02:12+00:00",
+  "seeds": [
+   "https://sharkeycountyms.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "503": 7
+  },
+  "links_seen": 0
+ },
+ "28123": {
+  "last_crawled": "2026-11-10T20:02:17+00:00",
+  "seeds": [
+   "https://scottcountyms.gov/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 12,
+   "404": 2
+  },
+  "links_seen": 531
+ },
+ "28131": {
+  "last_crawled": "2026-11-10T20:02:24+00:00",
+  "seeds": [
+   "https://stonecountyms.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "503": 7
+  },
+  "links_seen": 0
+ },
+ "28129": {
+  "last_crawled": "2026-11-10T20:02:33+00:00",
+  "seeds": [
+   "https://smithcountyms.gov/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 22
+  },
+  "links_seen": 629
+ },
+ "28111": {
+  "last_crawled": "2026-11-10T20:02:42+00:00",
+  "seeds": [
+   "https://perrycountyms.gov/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "200": 13,
+   "404": 4
+  },
+  "links_seen": 360
+ },
+ "28121": {
+  "last_crawled": "2026-11-10T20:02:48+00:00",
+  "seeds": [
+   "https://www.rankincountyms.org/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 6,
+   "404": 4
+  },
+  "links_seen": 40
+ },
+ "28113": {
+  "last_crawled": "2026-11-10T20:02:52+00:00",
+  "seeds": [
+   "https://pikecountyms.gov/"
+  ],
+  "pages": 60,
+  "candidates": 1,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 60,
+   "robots_blocked": 1,
+   "404": 1
+  },
+  "links_seen": 918
+ },
+ "28117": {
+  "last_crawled": "2026-11-10T20:03:05+00:00",
+  "seeds": [
+   "https://prentisscounty.org/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 12,
+   "404": 4
+  },
+  "links_seen": 358
+ },
+ "28135": {
+  "last_crawled": "2026-11-10T20:03:11+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "28101": {
+  "last_crawled": "2026-11-10T20:03:28+00:00",
+  "seeds": [
+   "https://newtoncountysheriffms.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 35
+  },
+  "links_seen": 0
+ },
+ "28127": {
+  "last_crawled": "2026-11-10T20:03:42+00:00",
+  "seeds": [
+   "https://simpsoncountyky.gov/"
+  ],
+  "pages": 23,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 24,
+   "404": 4
+  },
+  "links_seen": 355
+ },
+ "28139": {
+  "last_crawled": "2026-11-10T20:03:44+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 27,
+   "403": 1
+  },
+  "links_seen": 0
+ },
+ "28137": {
+  "last_crawled": "2026-11-10T20:03:48+00:00",
+  "seeds": [
+   "https://tatecountyms.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 66,
+   "404": 4,
+   "robots_blocked": 1
+  },
+  "links_seen": 1233
+ },
+ "28143": {
+  "last_crawled": "2026-11-10T20:03:52+00:00",
+  "seeds": [
+   "https://www.tunicacountymississippi.com/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 4,
+   "404": 4
+  },
+  "links_seen": 16
+ },
+ "28153": {
+  "last_crawled": "2026-11-10T20:03:54+00:00",
+  "seeds": [
+   "https://waynecountyms.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "28141": {
+  "last_crawled": "2026-11-10T20:03:56+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 25,
+   "503": 3
+  },
+  "links_seen": 0
+ },
+ "28133": {
+  "last_crawled": "2026-11-10T20:03:59+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "28147": {
+  "last_crawled": "2026-11-10T20:04:04+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "28149": {
+  "last_crawled": "2026-11-10T20:04:06+00:00",
+  "seeds": [
+   "https://warrencountyms.gov/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 25
+  },
+  "links_seen": 672
+ },
+ "28163": {
+  "last_crawled": "2026-11-10T20:04:10+00:00",
+  "seeds": [
+   "https://yazoocountyms.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "29003": {
+  "last_crawled": "2026-11-10T20:04:22+00:00",
+  "seeds": [
+   "https://andrewcounty.org/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 9,
+   "404": 4
+  },
+  "links_seen": 411
+ },
+ "29001": {
+  "last_crawled": "2026-11-10T20:04:23+00:00",
+  "seeds": [
+   "https://adaircountymissouri.com/"
+  ],
+  "pages": 14,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 16,
+   "403": 1
+  },
+  "links_seen": 2129
+ },
+ "28145": {
+  "last_crawled": "2026-11-10T20:04:26+00:00",
+  "seeds": [
+   "https://unioncounty.org/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 7,
+   "404": 4
+  },
+  "links_seen": 109
+ },
+ "28155": {
+  "last_crawled": "2026-11-10T20:04:30+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "29007": {
+  "last_crawled": "2026-11-10T20:04:31+00:00",
+  "seeds": [
+   "https://audraincounty.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 9,
+   "404": 2
+  },
+  "links_seen": 0
+ },
+ "29009": {
+  "last_crawled": "2026-11-10T20:04:32+00:00",
+  "seeds": [
+   "https://barrycountymo.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 3,
+   "404": 4
+  },
+  "links_seen": 27
+ },
+ "28157": {
+  "last_crawled": "2026-11-10T20:04:33+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "29011": {
+  "last_crawled": "2026-11-10T20:04:43+00:00",
+  "seeds": [
+   "https://countyofbarton.gov/"
+  ],
+  "pages": 11,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 10,
+   "404": 4,
+   "403": 1
+  },
+  "links_seen": 637
+ },
+ "28161": {
+  "last_crawled": "2026-11-10T20:04:45+00:00",
+  "seeds": [
+   "https://yalobushacountysheriff.gov/",
+   "https://yalobushasheriffms.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 42
+  },
+  "links_seen": 0
+ },
+ "28159": {
+  "last_crawled": "2026-11-10T20:04:45+00:00",
+  "seeds": [
+   "https://www.winstoncountyms.org/"
+  ],
+  "pages": 18,
+  "candidates": 2,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 12,
+   "404": 2,
+   "robots_blocked": 6
+  },
+  "links_seen": 740
+ },
+ "28151": {
+  "last_crawled": "2026-11-10T20:04:51+00:00",
+  "seeds": [
+   "https://www.washingtoncounty.us/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 3,
+   "401": 1,
+   "robots_blocked": 7
+  },
+  "links_seen": 0
+ },
+ "29005": {
+  "last_crawled": "2026-11-10T20:05:04+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
  }
 }
