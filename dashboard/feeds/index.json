@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T18:02:17+00:00",
- "total_leads": 7498,
- "total_surplus": 37222511.27,
- "new_this_run": 12,
+ "generated_at": "2026-11-11T21:05:39+00:00",
+ "total_leads": 7636,
+ "total_surplus": 38213131.17,
+ "new_this_run": 150,
  "states": {
   "AK": {
    "leads": 22,
@@ -76,6 +76,20 @@
     }
    }
   },
+  "NV": {
+   "leads": 138,
+   "total": 990619.9,
+   "counties": {
+    "Eureka County": {
+     "leads": 12,
+     "total": 99413.41
+    },
+    "Nye County": {
+     "leads": 126,
+     "total": 891206.49
+    }
+   }
+  },
   "OH": {
    "leads": 7003,
    "total": 31927866.95,
@@ -96,15 +110,15 @@
   }
  },
  "sources": {
-  "total": 122,
-  "usable": 14,
-  "candidates": 95,
+  "total": 141,
+  "usable": 17,
+  "candidates": 111,
   "portals": 7,
   "errors_this_run": 0
  },
  "discovery": {
   "counties_total": 3152,
-  "counties_crawled": 1677,
-  "counties_with_usable_source": 12
+  "counties_crawled": 1798,
+  "counties_with_usable_source": 14
  }
 }
