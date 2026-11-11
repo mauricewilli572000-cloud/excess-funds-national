@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T02:13:54+00:00",
- "total_leads": 7486,
- "total_surplus": 37136078.19,
- "new_this_run": 0,
+ "generated_at": "2026-11-11T08:31:17+00:00",
+ "total_leads": 7498,
+ "total_surplus": 37222511.27,
+ "new_this_run": 12,
  "states": {
   "AK": {
    "leads": 22,
@@ -66,6 +66,16 @@
     }
    }
   },
+  "MO": {
+   "leads": 12,
+   "total": 86433.08,
+   "counties": {
+    "Platte County": {
+     "leads": 12,
+     "total": 86433.08
+    }
+   }
+  },
   "OH": {
    "leads": 7003,
    "total": 31927866.95,
@@ -86,15 +96,15 @@
   }
  },
  "sources": {
-  "total": 111,
-  "usable": 13,
-  "candidates": 87,
-  "portals": 5,
+  "total": 122,
+  "usable": 14,
+  "candidates": 95,
+  "portals": 7,
   "errors_this_run": 0
  },
  "discovery": {
   "counties_total": 3152,
-  "counties_crawled": 1528,
-  "counties_with_usable_source": 11
+  "counties_crawled": 1677,
+  "counties_with_usable_source": 12
  }
 }
