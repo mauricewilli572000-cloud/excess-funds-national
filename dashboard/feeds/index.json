@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T08:04:47+00:00",
+ "generated_at": "2026-11-13T18:01:47+00:00",
  "total_leads": 8047,
  "total_surplus": 45423088.07,
  "new_this_run": 411,
@@ -118,7 +118,7 @@
   "usable": 18,
   "candidates": 133,
   "portals": 11,
-  "errors_this_run": 3
+  "errors_this_run": 0
  },
  "discovery": {
   "counties_total": 3152,
