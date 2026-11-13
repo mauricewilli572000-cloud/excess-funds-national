@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T18:01:47+00:00",
- "total_leads": 8047,
- "total_surplus": 45423088.07,
- "new_this_run": 411,
+ "generated_at": "2026-11-13T20:40:02+00:00",
+ "total_leads": 8081,
+ "total_surplus": 46307991.93,
+ "new_this_run": 445,
  "states": {
   "AK": {
    "leads": 22,
@@ -111,18 +111,36 @@
      "total": 7209956.9
     }
    }
+  },
+  "PA": {
+   "leads": 34,
+   "total": 884903.86,
+   "counties": {
+    "Elk County": {
+     "leads": 24,
+     "total": 160833.54
+    },
+    "Erie County": {
+     "leads": 5,
+     "total": 687285.72
+    },
+    "Potter County": {
+     "leads": 5,
+     "total": 36784.6
+    }
+   }
   }
  },
  "sources": {
-  "total": 168,
-  "usable": 18,
-  "candidates": 133,
+  "total": 186,
+  "usable": 21,
+  "candidates": 148,
   "portals": 11,
   "errors_this_run": 0
  },
  "discovery": {
   "counties_total": 3152,
-  "counties_crawled": 2185,
-  "counties_with_usable_source": 15
+  "counties_crawled": 2315,
+  "counties_with_usable_source": 18
  }
 }
