@@ -60241,5 +60241,15 @@
 "owner_now": "CITY OF CLEVELAND LAND REUTILIZATION PROGRAM",
 "owner_now_mailing": "601 LAKESIDE AVE CLEVELAND OH 44114",
 "still_owner": false
+},
+"CV81029658": {
+"status": "not_found",
+"grid_rows": 0,
+"looked_up": "2026-11-13T08:03:05+00:00"
+},
+"CV81034182": {
+"status": "not_found",
+"grid_rows": 0,
+"looked_up": "2026-11-13T08:03:11+00:00"
 }
 }
