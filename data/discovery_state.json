@@ -30505,5 +30505,1976 @@
    "403": 1
   },
   "links_seen": 8726
+ },
+ "38089": {
+  "last_crawled": "2026-11-13T06:59:01+00:00",
+  "seeds": [
+   "https://starkcountynd.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "38097": {
+  "last_crawled": "2026-11-13T06:59:08+00:00",
+  "seeds": [
+   "https://traillcountynd.gov/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7,
+   "robots_blocked": 2
+  },
+  "links_seen": 216
+ },
+ "38101": {
+  "last_crawled": "2026-11-13T06:59:16+00:00",
+  "seeds": [
+   "https://wardnd.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "38093": {
+  "last_crawled": "2026-11-13T06:59:16+00:00",
+  "seeds": [
+   "https://www.stutsmancounty.gov/"
+  ],
+  "pages": 12,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 11,
+   "404": 4,
+   "robots_blocked": 1
+  },
+  "links_seen": 683
+ },
+ "38105": {
+  "last_crawled": "2026-11-13T06:59:18+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "38099": {
+  "last_crawled": "2026-11-13T06:59:21+00:00",
+  "seeds": [
+   "https://walshcountynd.com/"
+  ],
+  "pages": 15,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 12,
+   "404": 6
+  },
+  "links_seen": 1678
+ },
+ "39083": {
+  "last_crawled": "2026-11-13T06:59:22+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 21,
+   "520": 3,
+   "403": 4
+  },
+  "links_seen": 0
+ },
+ "39081": {
+  "last_crawled": "2026-11-13T06:59:25+00:00",
+  "seeds": [
+   "https://jeffersoncounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 2,
+   "404": 2,
+   "403": 4
+  },
+  "links_seen": 90
+ },
+ "39087": {
+  "last_crawled": "2026-11-13T06:59:31+00:00",
+  "seeds": [
+   "https://lawrencecc.org/index.html"
+  ],
+  "pages": 5,
+  "candidates": 2,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 6,
+   "200": 5,
+   "404": 2
+  },
+  "links_seen": 62
+ },
+ "38095": {
+  "last_crawled": "2026-11-13T06:59:32+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "39089": {
+  "last_crawled": "2026-11-13T06:59:41+00:00",
+  "seeds": [
+   "https://lickingcounty.gov/"
+  ],
+  "pages": 9,
+  "candidates": 4,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 11
+  },
+  "links_seen": 124
+ },
+ "38091": {
+  "last_crawled": "2026-11-13T06:59:53+00:00",
+  "seeds": [
+   "https://steelecountynd.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 56,
+   "404": 4,
+   "403": 1
+  },
+  "links_seen": 1666
+ },
+ "39097": {
+  "last_crawled": "2026-11-13T07:00:09+00:00",
+  "seeds": [
+   "https://www.madisoncountyohio.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 6,
+   "200": 13,
+   "404": 4
+  },
+  "links_seen": 147
+ },
+ "39103": {
+  "last_crawled": "2026-11-13T07:00:16+00:00",
+  "seeds": [
+   "https://medinacounty.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "39091": {
+  "last_crawled": "2026-11-13T07:00:20+00:00",
+  "seeds": [
+   "https://logancountyohio.gov/"
+  ],
+  "pages": 55,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 43,
+   "404": 3,
+   "robots_blocked": 8,
+   "403": 2
+  },
+  "links_seen": 23627
+ },
+ "39093": {
+  "last_crawled": "2026-11-13T07:00:33+00:00",
+  "seeds": [
+   "https://loraincountyohio.gov/",
+   "https://loraincommonpleascourt.gov/",
+   "https://loraincountyauditor.gov/",
+   "https://loraincountytreasurer.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 39,
+   "robots_blocked": 12,
+   "404": 5,
+   "403": 10,
+   "conn_error": 1
+  },
+  "links_seen": 2157
+ },
+ "39105": {
+  "last_crawled": "2026-11-13T07:00:34+00:00",
+  "seeds": [
+   "https://www.meigscounty.org/"
+  ],
+  "pages": 16,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 13,
+   "404": 6
+  },
+  "links_seen": 1777
+ },
+ "39085": {
+  "last_crawled": "2026-11-13T07:00:35+00:00",
+  "seeds": [
+   "https://www.lakecountyohio.gov/"
+  ],
+  "pages": 48,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 46,
+   "404": 6,
+   "410": 1,
+   "403": 1
+  },
+  "links_seen": 2125
+ },
+ "38103": {
+  "last_crawled": "2026-11-13T07:00:36+00:00",
+  "seeds": [
+   "https://wellscounty.org/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 60,
+   "404": 1,
+   "403": 4,
+   "robots_blocked": 1
+  },
+  "links_seen": 2345
+ },
+ "39101": {
+  "last_crawled": "2026-11-13T07:00:39+00:00",
+  "seeds": [
+   "https://marioncountyohio.gov/"
+  ],
+  "pages": 43,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 33,
+   "404": 6,
+   "robots_blocked": 5,
+   "403": 2
+  },
+  "links_seen": 4550
+ },
+ "39107": {
+  "last_crawled": "2026-11-13T07:00:56+00:00",
+  "seeds": [
+   "https://mercercountyoh.gov/",
+   "https://mercercountysheriffohio.gov/"
+  ],
+  "pages": 32,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 1,
+   "200": 26,
+   "403": 11
+  },
+  "links_seen": 652
+ },
+ "39095": {
+  "last_crawled": "2026-11-13T07:00:57+00:00",
+  "seeds": [
+   "https://lucascountyoh.gov/",
+   "https://lucascountyohioauditor.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 60,
+   "robots_blocked": 2,
+   "404": 2
+  },
+  "links_seen": 2818
+ },
+ "39119": {
+  "last_crawled": "2026-11-13T07:01:05+00:00",
+  "seeds": [
+   "https://muskingumcountyoh.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 11
+  },
+  "links_seen": 1182
+ },
+ "39123": {
+  "last_crawled": "2026-11-13T07:01:12+00:00",
+  "seeds": [
+   "https://co.ottawa.oh.us/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 115
+ },
+ "39121": {
+  "last_crawled": "2026-11-13T07:01:15+00:00",
+  "seeds": [
+   "https://noblecountyohio.gov/"
+  ],
+  "pages": 15,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 14,
+   "404": 4
+  },
+  "links_seen": 673
+ },
+ "39115": {
+  "last_crawled": "2026-11-13T07:01:18+00:00",
+  "seeds": [
+   "https://morgancountyohio.gov/",
+   "https://morgancocourtsoh.gov/"
+  ],
+  "pages": 44,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 40,
+   "404": 6,
+   "robots_blocked": 1
+  },
+  "links_seen": 1827
+ },
+ "39129": {
+  "last_crawled": "2026-11-13T07:01:30+00:00",
+  "seeds": [
+   "https://pickawaycountyohio.gov/",
+   "https://pickawaysheriff.gov/"
+  ],
+  "pages": 17,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8,
+   "robots_blocked": 8,
+   "404": 4,
+   "403": 1
+  },
+  "links_seen": 80
+ },
+ "39111": {
+  "last_crawled": "2026-11-13T07:01:33+00:00",
+  "seeds": [
+   "https://www.monroecounty.gov/",
+   "https://monroecoauditoroh.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 10,
+   "200": 52,
+   "404": 5,
+   "403": 8
+  },
+  "links_seen": 12569
+ },
+ "39117": {
+  "last_crawled": "2026-11-13T07:01:34+00:00",
+  "seeds": [
+   "https://morrowcountyohio.gov/"
+  ],
+  "pages": 58,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 48,
+   "200": 6,
+   "403": 3,
+   "robots_blocked": 3
+  },
+  "links_seen": 1311
+ },
+ "39131": {
+  "last_crawled": "2026-11-13T07:01:38+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "39127": {
+  "last_crawled": "2026-11-13T07:01:47+00:00",
+  "seeds": [
+   "https://perrycountyohio.gov/"
+  ],
+  "pages": 17,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 16,
+   "404": 4,
+   "403": 2
+  },
+  "links_seen": 1303
+ },
+ "39137": {
+  "last_crawled": "2026-11-13T07:01:51+00:00",
+  "seeds": [
+   "https://putnamcountyohio.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "39133": {
+  "last_crawled": "2026-11-13T07:01:54+00:00",
+  "seeds": [
+   "https://portagecounty-oh.gov/",
+   "https://portagetreasureroh.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "403": 10
+  },
+  "links_seen": 0
+ },
+ "39139": {
+  "last_crawled": "2026-11-13T07:01:54+00:00",
+  "seeds": [
+   "https://richlandcountyoh.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 2,
+   "404": 4
+  },
+  "links_seen": 18
+ },
+ "39135": {
+  "last_crawled": "2026-11-13T07:01:58+00:00",
+  "seeds": [
+   "https://preblecountyohio.gov/",
+   "https://preblecountyclerk.gov/",
+   "https://preblecountycourt.gov/"
+  ],
+  "pages": 15,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7,
+   "conn_error": 14
+  },
+  "links_seen": 0
+ },
+ "39125": {
+  "last_crawled": "2026-11-13T07:02:01+00:00",
+  "seeds": [
+   "https://www.pauldingcountyoh.com/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 4,
+   "404": 1,
+   "403": 5
+  },
+  "links_seen": 77
+ },
+ "39141": {
+  "last_crawled": "2026-11-13T07:02:01+00:00",
+  "seeds": [
+   "https://rosscountyohio.gov/",
+   "https://rosscountyohiocourts.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "conn_error": 7,
+   "200": 1
+  },
+  "links_seen": 37
+ },
+ "39145": {
+  "last_crawled": "2026-11-13T07:02:02+00:00",
+  "seeds": [
+   "https://sciotocounty.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "39109": {
+  "last_crawled": "2026-11-13T07:02:05+00:00",
+  "seeds": [
+   "https://miamicountyohio.gov/",
+   "https://miamicountyohioauditor.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 64,
+   "conn_error": 7,
+   "404": 5,
+   "403": 2,
+   "robots_blocked": 1
+  },
+  "links_seen": 18715
+ },
+ "39153": {
+  "last_crawled": "2026-11-13T07:02:13+00:00",
+  "seeds": [
+   "https://co.summitoh.net/portal/County-of-Summit-Ohio.html"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 5,
+   "404": 4
+  },
+  "links_seen": 404
+ },
+ "39143": {
+  "last_crawled": "2026-11-13T07:02:13+00:00",
+  "seeds": [
+   "https://sanduskycountyoh.gov/"
+  ],
+  "pages": 20,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 13,
+   "404": 6,
+   "403": 3,
+   "conn_error": 1
+  },
+  "links_seen": 757
+ },
+ "39149": {
+  "last_crawled": "2026-11-13T07:02:19+00:00",
+  "seeds": [
+   "https://co.shelby.oh.us/"
+  ],
+  "pages": 17,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 17,
+   "robots_blocked": 2
+  },
+  "links_seen": 501
+ },
+ "39113": {
+  "last_crawled": "2026-11-13T07:02:27+00:00",
+  "seeds": [
+   "https://montgomerycountyoh.gov/",
+   "https://montgomerycountyclerkoh.gov/",
+   "https://montgomerycountycourtsoh.gov/"
+  ],
+  "pages": 60,
+  "candidates": 2,
+  "verified": 1,
+  "searched": false,
+  "http": {
+   "conn_error": 11,
+   "404": 12,
+   "200": 47
+  },
+  "links_seen": 4094
+ },
+ "39159": {
+  "last_crawled": "2026-11-13T07:02:27+00:00",
+  "seeds": [
+   "https://www.unioncountyohio.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 3,
+   "404": 4
+  },
+  "links_seen": 11
+ },
+ "39163": {
+  "last_crawled": "2026-11-13T07:02:33+00:00",
+  "seeds": [
+   "https://vintoncountyohio.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "39161": {
+  "last_crawled": "2026-11-13T07:02:44+00:00",
+  "seeds": [
+   "https://www.vanwertcountyohio.gov/"
+  ],
+  "pages": 26,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 20,
+   "404": 6,
+   "403": 3
+  },
+  "links_seen": 3151
+ },
+ "39167": {
+  "last_crawled": "2026-11-13T07:02:45+00:00",
+  "seeds": [
+   "https://auditorwashingtoncountyohio.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 24,
+   "200": 2,
+   "401": 2,
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "39171": {
+  "last_crawled": "2026-11-13T07:02:49+00:00",
+  "seeds": [
+   "https://williamscountyoh.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 4,
+   "robots_blocked": 2
+  },
+  "links_seen": 128
+ },
+ "39155": {
+  "last_crawled": "2026-11-13T07:02:49+00:00",
+  "seeds": [
+   "https://www.co.trumbull.oh.us/"
+  ],
+  "pages": 49,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 15,
+   "200": 46,
+   "404": 6
+  },
+  "links_seen": 1682
+ },
+ "39173": {
+  "last_crawled": "2026-11-13T07:02:56+00:00",
+  "seeds": [
+   "https://woodcountyohio.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6
+  },
+  "links_seen": 189
+ },
+ "39175": {
+  "last_crawled": "2026-11-13T07:02:57+00:00",
+  "seeds": [
+   "https://co.wyandot.oh.us/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 7,
+   "robots_blocked": 2
+  },
+  "links_seen": 175
+ },
+ "40003": {
+  "last_crawled": "2026-11-13T07:02:59+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "40001": {
+  "last_crawled": "2026-11-13T07:02:59+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "39147": {
+  "last_crawled": "2026-11-13T07:03:01+00:00",
+  "seeds": [
+   "https://senecacountyohio.gov/",
+   "https://senecacountyauditoroh.gov/",
+   "https://senecaohcourts.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 13,
+   "404": 6,
+   "200": 49,
+   "robots_blocked": 2
+  },
+  "links_seen": 2749
+ },
+ "39151": {
+  "last_crawled": "2026-11-13T07:03:04+00:00",
+  "seeds": [
+   "https://starkcountyohio.gov/"
+  ],
+  "pages": 60,
+  "candidates": 2,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 18,
+   "502": 37,
+   "robots_blocked": 1
+  },
+  "links_seen": 3460
+ },
+ "40009": {
+  "last_crawled": "2026-11-13T07:03:08+00:00",
+  "seeds": [
+   "https://beckhamcountyok.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "39157": {
+  "last_crawled": "2026-11-13T07:03:08+00:00",
+  "seeds": [
+   "https://co.tuscarawas.oh.us/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 50,
+   "404": 6,
+   "403": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 6776
+ },
+ "40005": {
+  "last_crawled": "2026-11-13T07:03:10+00:00",
+  "seeds": [
+   "https://atokacountyok.gov/",
+   "https://atokacountysheriff.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18
+  },
+  "links_seen": 0
+ },
+ "40013": {
+  "last_crawled": "2026-11-13T07:03:10+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "40019": {
+  "last_crawled": "2026-11-13T07:03:13+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "40021": {
+  "last_crawled": "2026-11-13T07:03:15+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "39099": {
+  "last_crawled": "2026-11-13T07:03:15+00:00",
+  "seeds": [
+   "https://mahoningcountyoh.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "40015": {
+  "last_crawled": "2026-11-13T07:03:16+00:00",
+  "seeds": [
+   "https://caddocountyok.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "40007": {
+  "last_crawled": "2026-11-13T07:03:18+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "40025": {
+  "last_crawled": "2026-11-13T07:03:18+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "39169": {
+  "last_crawled": "2026-11-13T07:03:19+00:00",
+  "seeds": [
+   "https://www.waynecountyoh.gov/",
+   "https://wayneclerkofcourtsoh.gov/",
+   "https://waynemunicipalcourtoh.gov/",
+   "https://wayneohiocpcourt.gov/"
+  ],
+  "pages": 21,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 29,
+   "200": 6,
+   "404": 4,
+   "403": 1
+  },
+  "links_seen": 171
+ },
+ "40023": {
+  "last_crawled": "2026-11-13T07:03:19+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "39165": {
+  "last_crawled": "2026-11-13T07:03:19+00:00",
+  "seeds": [
+   "https://warrencountyohio.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 56,
+   "404": 6,
+   "403": 1
+  },
+  "links_seen": 3715
+ },
+ "40029": {
+  "last_crawled": "2026-11-13T07:03:20+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "40035": {
+  "last_crawled": "2026-11-13T07:03:21+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "40011": {
+  "last_crawled": "2026-11-13T07:03:24+00:00",
+  "seeds": [
+   "https://www.blainecountyid.gov",
+   "https://blainecosheriff-ok.gov/"
+  ],
+  "pages": 19,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 25,
+   "200": 13,
+   "robots_blocked": 2,
+   "404": 1
+  },
+  "links_seen": 518
+ },
+ "40033": {
+  "last_crawled": "2026-11-13T07:03:27+00:00",
+  "seeds": [
+   "https://cottoncountyok.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "40043": {
+  "last_crawled": "2026-11-13T07:03:27+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 25,
+   "520": 2,
+   "530": 1
+  },
+  "links_seen": 0
+ },
+ "40041": {
+  "last_crawled": "2026-11-13T07:03:29+00:00",
+  "seeds": [
+   "https://delawarecoclerkok.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "40031": {
+  "last_crawled": "2026-11-13T07:03:29+00:00",
+  "seeds": [
+   "https://comanchecountyok.gov/",
+   "https://okcomanchesheriff.gov/"
+  ],
+  "pages": 16,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 12,
+   "robots_blocked": 2,
+   "404": 4
+  },
+  "links_seen": 362
+ },
+ "40045": {
+  "last_crawled": "2026-11-13T07:03:29+00:00",
+  "seeds": [
+   "https://elliscounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 1,
+   "robots_blocked": 7
+  },
+  "links_seen": 0
+ },
+ "40047": {
+  "last_crawled": "2026-11-13T07:03:33+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "40027": {
+  "last_crawled": "2026-11-13T07:03:33+00:00",
+  "seeds": [
+   "https://clevelandcountyok.gov/"
+  ],
+  "pages": 21,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 20,
+   "robots_blocked": 2
+  },
+  "links_seen": 834
+ },
+ "40051": {
+  "last_crawled": "2026-11-13T07:03:34+00:00",
+  "seeds": [
+   "https://www.gradycountyok.com/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 103
+ },
+ "40055": {
+  "last_crawled": "2026-11-13T07:03:35+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "40039": {
+  "last_crawled": "2026-11-13T07:03:35+00:00",
+  "seeds": [
+   "https://oktaxrolls.com/county/Custer"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 9
+  },
+  "links_seen": 167
+ },
+ "40059": {
+  "last_crawled": "2026-11-13T07:03:37+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "40061": {
+  "last_crawled": "2026-11-13T07:03:37+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 1,
+   "403": 1
+  },
+  "links_seen": 0
+ },
+ "40053": {
+  "last_crawled": "2026-11-13T07:03:38+00:00",
+  "seeds": [
+   "https://grantcountyok.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "40057": {
+  "last_crawled": "2026-11-13T07:03:41+00:00",
+  "seeds": [
+   "https://harmoncountyok.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "40049": {
+  "last_crawled": "2026-11-13T07:03:41+00:00",
+  "seeds": [
+   "https://garvincountyok.gov/",
+   "https://garvincountysheriff.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 13,
+   "403": 9
+  },
+  "links_seen": 0
+ },
+ "40065": {
+  "last_crawled": "2026-11-13T07:03:45+00:00",
+  "seeds": [
+   "https://jacksoncountyok.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "40069": {
+  "last_crawled": "2026-11-13T07:03:46+00:00",
+  "seeds": [
+   "https://johnstoncountyok.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "40067": {
+  "last_crawled": "2026-11-13T07:03:49+00:00",
+  "seeds": [
+   "https://jeffersoncountyok.gov/",
+   "https://jeffersonsheriff-ok.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18
+  },
+  "links_seen": 0
+ },
+ "40077": {
+  "last_crawled": "2026-11-13T07:03:49+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "40073": {
+  "last_crawled": "2026-11-13T07:03:50+00:00",
+  "seeds": [
+   "https://kingfishersheriff.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28,
+   "404": 1,
+   "200": 6
+  },
+  "links_seen": 0
+ },
+ "40063": {
+  "last_crawled": "2026-11-13T07:03:51+00:00",
+  "seeds": [
+   "https://hughescounty.org/",
+   "https://hughescosheriffok.gov/"
+  ],
+  "pages": 15,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 25,
+   "200": 7,
+   "404": 6
+  },
+  "links_seen": 256
+ },
+ "40017": {
+  "last_crawled": "2026-11-13T07:03:52+00:00",
+  "seeds": [
+   "https://canadiancounty.org/"
+  ],
+  "pages": 11,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 11,
+   "robots_blocked": 2
+  },
+  "links_seen": 538
+ },
+ "40075": {
+  "last_crawled": "2026-11-13T07:03:53+00:00",
+  "seeds": [
+   "https://kiowacounty-colorado.com/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 65
+ },
+ "40079": {
+  "last_crawled": "2026-11-13T07:03:54+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 24,
+   "200": 2,
+   "403": 2
+  },
+  "links_seen": 0
+ },
+ "40085": {
+  "last_crawled": "2026-11-13T07:03:59+00:00",
+  "seeds": [
+   "https://lovecountyok.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "40083": {
+  "last_crawled": "2026-11-13T07:04:00+00:00",
+  "seeds": [
+   "https://logancountyok.com/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 7,
+   "robots_blocked": 2
+  },
+  "links_seen": 214
+ },
+ "40089": {
+  "last_crawled": "2026-11-13T07:04:01+00:00",
+  "seeds": [
+   "https://mccurtaincountyok.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "40087": {
+  "last_crawled": "2026-11-13T07:04:02+00:00",
+  "seeds": [
+   "https://oktaxrolls.com/county/McClain"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 9
+  },
+  "links_seen": 166
+ },
+ "40093": {
+  "last_crawled": "2026-11-13T07:04:02+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "520": 2
+  },
+  "links_seen": 0
+ },
+ "40091": {
+  "last_crawled": "2026-11-13T07:04:02+00:00",
+  "seeds": [
+   "https://mcintoshcountyok.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "40097": {
+  "last_crawled": "2026-11-13T07:04:07+00:00",
+  "seeds": [
+   "https://mayescountyok.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "40101": {
+  "last_crawled": "2026-11-13T07:04:09+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "40099": {
+  "last_crawled": "2026-11-13T07:04:10+00:00",
+  "seeds": [
+   "https://murraycountyok.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "40105": {
+  "last_crawled": "2026-11-13T07:04:10+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "40107": {
+  "last_crawled": "2026-11-13T07:04:12+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "40037": {
+  "last_crawled": "2026-11-13T07:04:18+00:00",
+  "seeds": [
+   "https://oktaxrolls.com/county/Creek",
+   "https://creekcountysheriff.gov/"
+  ],
+  "pages": 51,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 47,
+   "404": 8,
+   "robots_blocked": 1
+  },
+  "links_seen": 1907
+ },
+ "40081": {
+  "last_crawled": "2026-11-13T07:04:18+00:00",
+  "seeds": [
+   "https://lincolncountyok.gov/",
+   "https://lincolncountysheriffok.gov/"
+  ],
+  "pages": 20,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 18,
+   "404": 8
+  },
+  "links_seen": 686
+ },
+ "40103": {
+  "last_crawled": "2026-11-13T07:04:19+00:00",
+  "seeds": [
+   "https://www.noblecountyok.com/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 7,
+   "404": 6
+  },
+  "links_seen": 262
+ },
+ "40111": {
+  "last_crawled": "2026-11-13T07:04:26+00:00",
+  "seeds": [
+   "https://okmulgeecounty.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 5,
+   "200": 1,
+   "404": 5
+  },
+  "links_seen": 0
+ },
+ "40119": {
+  "last_crawled": "2026-11-13T07:04:29+00:00",
+  "seeds": [
+   "https://paynecountyok.gov/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "200": 8
+  },
+  "links_seen": 7
+ },
+ "40115": {
+  "last_crawled": "2026-11-13T07:04:30+00:00",
+  "seeds": [
+   "https://ottawaok.gov/"
+  ],
+  "pages": 11,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 9,
+   "404": 4,
+   "robots_blocked": 1
+  },
+  "links_seen": 463
+ },
+ "40117": {
+  "last_crawled": "2026-11-13T07:04:33+00:00",
+  "seeds": [
+   "https://pawneecountyok.org/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 6,
+   "404": 6
+  },
+  "links_seen": 137
+ },
+ "40121": {
+  "last_crawled": "2026-11-13T07:04:34+00:00",
+  "seeds": [
+   "https://pittsburgcountyok.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "40113": {
+  "last_crawled": "2026-11-13T07:04:35+00:00",
+  "seeds": [
+   "https://osagecountyok.gov/"
+  ],
+  "pages": 16,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 16,
+   "404": 5
+  },
+  "links_seen": 619
+ },
+ "40129": {
+  "last_crawled": "2026-11-13T07:04:36+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "40123": {
+  "last_crawled": "2026-11-13T07:04:40+00:00",
+  "seeds": [
+   "https://pontotoccountyok.gov/",
+   "https://pontotocsheriff-ok.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18
+  },
+  "links_seen": 0
+ },
+ "40125": {
+  "last_crawled": "2026-11-13T07:04:41+00:00",
+  "seeds": [
+   "https://www.pottawatomiecountyok.gov"
+  ],
+  "pages": 9,
+  "candidates": 2,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "200": 8,
+   "robots_blocked": 2,
+   "404": 1
+  },
+  "links_seen": 232
+ },
+ "40071": {
+  "last_crawled": "2026-11-13T07:04:43+00:00",
+  "seeds": [
+   "https://oktaxrolls.com/county/Kay"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 61,
+   "robots_blocked": 2
+  },
+  "links_seen": 3285
+ },
+ "40133": {
+  "last_crawled": "2026-11-13T07:04:46+00:00",
+  "seeds": [
+   "https://seminolecountyok.com/"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "404": 6
+  },
+  "links_seen": 95
+ },
+ "40127": {
+  "last_crawled": "2026-11-13T07:04:46+00:00",
+  "seeds": [
+   "https://pushmatahacountyok.gov/",
+   "https://pushcountytreasurer.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18
+  },
+  "links_seen": 0
+ },
+ "40095": {
+  "last_crawled": "2026-11-13T07:04:47+00:00",
+  "seeds": [
+   "https://marshall.okcounties.org/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 9,
+   "404": 4
+  },
+  "links_seen": 477
+ },
+ "40139": {
+  "last_crawled": "2026-11-13T07:04:52+00:00",
+  "seeds": [
+   "https://texascountyok.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "40145": {
+  "last_crawled": "2026-11-13T07:04:52+00:00",
+  "seeds": [
+   "https://www.wagonercounty.ok.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 110
+ },
+ "40109": {
+  "last_crawled": "2026-11-13T07:04:56+00:00",
+  "seeds": [
+   "https://oklahomacountyok.org/"
+  ],
+  "pages": 15,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 14,
+   "404": 4
+  },
+  "links_seen": 993
+ },
+ "40141": {
+  "last_crawled": "2026-11-13T07:04:58+00:00",
+  "seeds": [
+   "https://tillmancountyok.gov/",
+   "https://tillmansheriff.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18
+  },
+  "links_seen": 0
+ },
+ "40135": {
+  "last_crawled": "2026-11-13T07:05:10+00:00",
+  "seeds": [
+   "https://sequoyahcounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 8,
+   "404": 4
+  },
+  "links_seen": 19
+ },
+ "40143": {
+  "last_crawled": "2026-11-13T07:05:16+00:00",
+  "seeds": [
+   "https://tulsacounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 0
+ },
+ "40137": {
+  "last_crawled": "2026-11-13T07:05:34+00:00",
+  "seeds": [
+   "https://stephenscountyok.gov/",
+   "https://stephenssheriff-ok.gov/"
+  ],
+  "pages": 50,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11,
+   "404": 6,
+   "200": 41
+  },
+  "links_seen": 2473
+ },
+ "40131": {
+  "last_crawled": "2026-11-13T07:05:46+00:00",
+  "seeds": [
+   "https://rogerscounty.org/",
+   "https://rogerscountysheriff.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 61,
+   "404": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 4146
  }
 }
