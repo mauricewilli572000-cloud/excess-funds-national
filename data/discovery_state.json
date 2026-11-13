@@ -32476,5 +32476,1963 @@
    "robots_blocked": 2
   },
   "links_seen": 4146
+ },
+ "40149": {
+  "last_crawled": "2026-11-13T19:54:32+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "40151": {
+  "last_crawled": "2026-11-13T19:54:35+00:00",
+  "seeds": [
+   "https://woodscountyok.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 0
+ },
+ "40147": {
+  "last_crawled": "2026-11-13T19:54:36+00:00",
+  "seeds": [
+   "https://washingtoncountyok.gov/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6,
+   "406": 1,
+   "404": 5
+  },
+  "links_seen": 522
+ },
+ "41007": {
+  "last_crawled": "2026-11-13T19:54:40+00:00",
+  "seeds": [
+   "https://clatsopcounty.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 4,
+   "robots_blocked": 2
+  },
+  "links_seen": 135
+ },
+ "40153": {
+  "last_crawled": "2026-11-13T19:54:40+00:00",
+  "seeds": [
+   "https://woodwardcounty.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "41011": {
+  "last_crawled": "2026-11-13T19:54:47+00:00",
+  "seeds": [
+   "https://cooscountyor.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "41013": {
+  "last_crawled": "2026-11-13T19:54:50+00:00",
+  "seeds": [
+   "https://crookcountyor.gov/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6,
+   "robots_blocked": 2
+  },
+  "links_seen": 202
+ },
+ "41001": {
+  "last_crawled": "2026-11-13T19:54:52+00:00",
+  "seeds": [
+   "https://bakercosheriffor.gov/",
+   "https://bakercountyor.gov/",
+   "https://bakercountysheriffor.gov/"
+  ],
+  "pages": 15,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 29
+  },
+  "links_seen": 0
+ },
+ "41019": {
+  "last_crawled": "2026-11-13T19:54:54+00:00",
+  "seeds": [
+   "https://douglascountyor.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 13,
+   "403": 3,
+   "200": 1,
+   "robots_blocked": 7
+  },
+  "links_seen": 0
+ },
+ "41017": {
+  "last_crawled": "2026-11-13T19:54:54+00:00",
+  "seeds": [
+   "https://www.deschutescounty.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 148
+ },
+ "41023": {
+  "last_crawled": "2026-11-13T19:55:00+00:00",
+  "seeds": [
+   "https://grantcounty-or.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "41025": {
+  "last_crawled": "2026-11-13T19:55:01+00:00",
+  "seeds": [
+   "https://harneycountyor.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "307": 6,
+   "502": 2
+  },
+  "links_seen": 0
+ },
+ "41015": {
+  "last_crawled": "2026-11-13T19:55:02+00:00",
+  "seeds": [
+   "https://www.currycountyor.gov/"
+  ],
+  "pages": 14,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 11,
+   "404": 6
+  },
+  "links_seen": 1621
+ },
+ "41009": {
+  "last_crawled": "2026-11-13T19:55:04+00:00",
+  "seeds": [
+   "https://www.columbiacountyor.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 3,
+   "404": 4
+  },
+  "links_seen": 17
+ },
+ "41021": {
+  "last_crawled": "2026-11-13T19:55:06+00:00",
+  "seeds": [
+   "https://gilliamcountyor.gov/"
+  ],
+  "pages": 32,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 18,
+   "robots_blocked": 16
+  },
+  "links_seen": 2598
+ },
+ "41031": {
+  "last_crawled": "2026-11-13T19:55:08+00:00",
+  "seeds": [
+   "https://jeffersoncountyor.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "41027": {
+  "last_crawled": "2026-11-13T19:55:09+00:00",
+  "seeds": [
+   "https://www.hoodrivercounty.gov/"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6,
+   "404": 4
+  },
+  "links_seen": 1546
+ },
+ "41037": {
+  "last_crawled": "2026-11-13T19:55:10+00:00",
+  "seeds": [
+   "https://lakecountyor.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 1,
+   "robots_blocked": 7
+  },
+  "links_seen": 0
+ },
+ "41035": {
+  "last_crawled": "2026-11-13T19:55:11+00:00",
+  "seeds": [
+   "https://klamathcountyor.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 156
+ },
+ "41041": {
+  "last_crawled": "2026-11-13T19:55:16+00:00",
+  "seeds": [
+   "https://www.co.lincoln.or.us"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 2,
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 144
+ },
+ "41045": {
+  "last_crawled": "2026-11-13T19:55:18+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "41043": {
+  "last_crawled": "2026-11-13T19:55:19+00:00",
+  "seeds": [
+   "https://linncountyor.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 11
+  },
+  "links_seen": 0
+ },
+ "41029": {
+  "last_crawled": "2026-11-13T19:55:22+00:00",
+  "seeds": [
+   "https://jacksoncountyor.gov/"
+  ],
+  "pages": 21,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 18,
+   "404": 4
+  },
+  "links_seen": 2554
+ },
+ "41047": {
+  "last_crawled": "2026-11-13T19:55:26+00:00",
+  "seeds": [
+   "https://marioncountyor.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "41055": {
+  "last_crawled": "2026-11-13T19:55:31+00:00",
+  "seeds": [
+   "https://shermancountyor.gov/"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7,
+   "robots_blocked": 2
+  },
+  "links_seen": 214
+ },
+ "41057": {
+  "last_crawled": "2026-11-13T19:55:35+00:00",
+  "seeds": [
+   "https://tillamookcounty.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 94
+ },
+ "41051": {
+  "last_crawled": "2026-11-13T19:55:40+00:00",
+  "seeds": [
+   "https://multco.us/",
+   "https://multcosheriff.gov/"
+  ],
+  "pages": 23,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 27
+  },
+  "links_seen": 1593
+ },
+ "41005": {
+  "last_crawled": "2026-11-13T19:55:45+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "41053": {
+  "last_crawled": "2026-11-13T19:55:51+00:00",
+  "seeds": [
+   "https://www.polkcountyor.gov/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 1,
+   "200": 6,
+   "robots_blocked": 2
+  },
+  "links_seen": 145
+ },
+ "41059": {
+  "last_crawled": "2026-11-13T19:55:53+00:00",
+  "seeds": [
+   "https://umatillacounty.gov/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7,
+   "404": 5
+  },
+  "links_seen": 329
+ },
+ "41049": {
+  "last_crawled": "2026-11-13T19:55:59+00:00",
+  "seeds": [
+   "https://morrowcountyor.gov/"
+  ],
+  "pages": 30,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 24,
+   "404": 2,
+   "403": 5
+  },
+  "links_seen": 1709
+ },
+ "41003": {
+  "last_crawled": "2026-11-13T19:56:00+00:00",
+  "seeds": [
+   "https://bentoncountyor.gov/"
+  ],
+  "pages": 60,
+  "candidates": 4,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 63
+  },
+  "links_seen": 1223
+ },
+ "41069": {
+  "last_crawled": "2026-11-13T19:56:07+00:00",
+  "seeds": [
+   "https://wheelercountyor.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "41071": {
+  "last_crawled": "2026-11-13T19:56:12+00:00",
+  "seeds": [
+   "https://yamhillcounty.gov/"
+  ],
+  "pages": 15,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 17
+  },
+  "links_seen": 862
+ },
+ "41067": {
+  "last_crawled": "2026-11-13T19:56:20+00:00",
+  "seeds": [
+   "https://www.washingtoncountyor.gov/"
+  ],
+  "pages": 23,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 9,
+   "403": 16
+  },
+  "links_seen": 1382
+ },
+ "41063": {
+  "last_crawled": "2026-11-13T19:56:27+00:00",
+  "seeds": [
+   "https://wallowacounty.gov/"
+  ],
+  "pages": 18,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 20
+  },
+  "links_seen": 2195
+ },
+ "42003": {
+  "last_crawled": "2026-11-13T19:56:38+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 23,
+   "403": 3,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "41033": {
+  "last_crawled": "2026-11-13T19:57:17+00:00",
+  "seeds": [
+   "https://www.josephinecounty.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 57,
+   "404": 6
+  },
+  "links_seen": 13912
+ },
+ "42001": {
+  "last_crawled": "2026-11-13T19:57:33+00:00",
+  "seeds": [
+   "https://adamscountypa.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 58,
+   "404": 4
+  },
+  "links_seen": 3407
+ },
+ "42007": {
+  "last_crawled": "2026-11-13T19:57:40+00:00",
+  "seeds": [
+   "https://beavercountypa.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 56,
+   "404": 4,
+   "robots_blocked": 1
+  },
+  "links_seen": 3198
+ },
+ "42005": {
+  "last_crawled": "2026-11-13T19:57:47+00:00",
+  "seeds": [
+   "https://co.armstrong.pa.us/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 57,
+   "404": 6
+  },
+  "links_seen": 4668
+ },
+ "42013": {
+  "last_crawled": "2026-11-13T19:57:54+00:00",
+  "seeds": [
+   "https://www.blaircountypa.gov/"
+  ],
+  "pages": 21,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 1,
+   "200": 22,
+   "404": 1
+  },
+  "links_seen": 1619
+ },
+ "42009": {
+  "last_crawled": "2026-11-13T19:57:57+00:00",
+  "seeds": [
+   "https://bedfordcountypa.org/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 26,
+   "404": 37
+  },
+  "links_seen": 3971
+ },
+ "42017": {
+  "last_crawled": "2026-11-13T19:58:01+00:00",
+  "seeds": [
+   "https://buckscounty.gov/"
+  ],
+  "pages": 15,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 15,
+   "robots_blocked": 2
+  },
+  "links_seen": 238
+ },
+ "41061": {
+  "last_crawled": "2026-11-13T19:58:17+00:00",
+  "seeds": [
+   "https://unioncountyor.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 57,
+   "404": 4,
+   "conn_error": 2
+  },
+  "links_seen": 1456
+ },
+ "42019": {
+  "last_crawled": "2026-11-13T19:58:18+00:00",
+  "seeds": [
+   "https://butlercountypa.gov/"
+  ],
+  "pages": 25,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 24,
+   "robots_blocked": 2
+  },
+  "links_seen": 318
+ },
+ "42015": {
+  "last_crawled": "2026-11-13T19:58:19+00:00",
+  "seeds": [
+   "https://www.bradfordcountypa.gov"
+  ],
+  "pages": 27,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 27,
+   "robots_blocked": 2
+  },
+  "links_seen": 197
+ },
+ "41039": {
+  "last_crawled": "2026-11-13T19:58:26+00:00",
+  "seeds": [
+   "https://www.lanecountyor.gov/"
+  ],
+  "pages": 60,
+  "candidates": 1,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 62
+  },
+  "links_seen": 3498
+ },
+ "41065": {
+  "last_crawled": "2026-11-13T19:58:27+00:00",
+  "seeds": [
+   "https://www.wascocountyor.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 57,
+   "404": 6
+  },
+  "links_seen": 13972
+ },
+ "42027": {
+  "last_crawled": "2026-11-13T19:58:32+00:00",
+  "seeds": [
+   "https://centrecountypa.gov/"
+  ],
+  "pages": 16,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 16,
+   "robots_blocked": 2
+  },
+  "links_seen": 465
+ },
+ "42031": {
+  "last_crawled": "2026-11-13T19:58:34+00:00",
+  "seeds": [
+   "https://clarionpolicepa.gov/",
+   "http://www.clarioncounty.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 1,
+   "robots_blocked": 7
+  },
+  "links_seen": 0
+ },
+ "42033": {
+  "last_crawled": "2026-11-13T19:58:36+00:00",
+  "seeds": [
+   "https://clearfieldpa.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "42011": {
+  "last_crawled": "2026-11-13T19:58:37+00:00",
+  "seeds": [
+   "https://berkspa.gov/"
+  ],
+  "pages": 60,
+  "candidates": 2,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 58,
+   "404": 4
+  },
+  "links_seen": 4211
+ },
+ "42035": {
+  "last_crawled": "2026-11-13T19:58:40+00:00",
+  "seeds": [
+   "https://clintoncountypa.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 11
+  },
+  "links_seen": 0
+ },
+ "42021": {
+  "last_crawled": "2026-11-13T19:58:41+00:00",
+  "seeds": [
+   "https://www.cambriacountypa.gov/"
+  ],
+  "pages": 29,
+  "candidates": 1,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 38,
+   "404": 4,
+   "robots_blocked": 1
+  },
+  "links_seen": 3176
+ },
+ "42037": {
+  "last_crawled": "2026-11-13T19:59:02+00:00",
+  "seeds": [
+   "https://ww17.columbiacounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 8
+  },
+  "links_seen": 5
+ },
+ "42041": {
+  "last_crawled": "2026-11-13T19:59:04+00:00",
+  "seeds": [
+   "https://cumberlandcountypa.gov/"
+  ],
+  "pages": 30,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 29,
+   "robots_blocked": 2,
+   "conn_error": 1
+  },
+  "links_seen": 564
+ },
+ "42023": {
+  "last_crawled": "2026-11-13T19:59:07+00:00",
+  "seeds": [
+   "https://www.cameroncountypa.com/"
+  ],
+  "pages": 27,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 20,
+   "robots_blocked": 12
+  },
+  "links_seen": 1780
+ },
+ "42025": {
+  "last_crawled": "2026-11-13T19:59:09+00:00",
+  "seeds": [
+   "https://www.carboncountypa.gov/"
+  ],
+  "pages": 52,
+  "candidates": 1,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 49,
+   "404": 6
+  },
+  "links_seen": 3007
+ },
+ "42039": {
+  "last_crawled": "2026-11-13T19:59:12+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "42053": {
+  "last_crawled": "2026-11-13T19:59:18+00:00",
+  "seeds": [
+   "https://forestcountypa.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 9,
+   "403": 2
+  },
+  "links_seen": 0
+ },
+ "42045": {
+  "last_crawled": "2026-11-13T19:59:26+00:00",
+  "seeds": [
+   "https://www.delawarecounty.org/"
+  ],
+  "pages": 11,
+  "candidates": 2,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 5,
+   "404": 2,
+   "robots_blocked": 6
+  },
+  "links_seen": 127
+ },
+ "42043": {
+  "last_crawled": "2026-11-13T19:59:30+00:00",
+  "seeds": [
+   "https://www.dauphincounty.gov/"
+  ],
+  "pages": 49,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 1,
+   "200": 50,
+   "404": 2
+  },
+  "links_seen": 9169
+ },
+ "42051": {
+  "last_crawled": "2026-11-13T19:59:33+00:00",
+  "seeds": [
+   "https://fayettecountypa.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 138
+ },
+ "42029": {
+  "last_crawled": "2026-11-13T19:59:46+00:00",
+  "seeds": [
+   "https://chestercountysc.gov/"
+  ],
+  "pages": 23,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 31
+  },
+  "links_seen": 7283
+ },
+ "42061": {
+  "last_crawled": "2026-11-13T19:59:50+00:00",
+  "seeds": [
+   "https://huntingdoncountypa.gov/"
+  ],
+  "pages": 19,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 15,
+   "404": 4,
+   "conn_error": 1
+  },
+  "links_seen": 1489
+ },
+ "42067": {
+  "last_crawled": "2026-11-13T19:59:56+00:00",
+  "seeds": [
+   "https://juniatacountypa.gov/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8,
+   "robots_blocked": 2
+  },
+  "links_seen": 301
+ },
+ "42057": {
+  "last_crawled": "2026-11-13T19:59:56+00:00",
+  "seeds": [
+   "https://co.fulton.pa.us/"
+  ],
+  "pages": 12,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 8,
+   "404": 7
+  },
+  "links_seen": 467
+ },
+ "42069": {
+  "last_crawled": "2026-11-13T20:00:03+00:00",
+  "seeds": [
+   "https://www.lackcopa.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 1,
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 1
+ },
+ "42059": {
+  "last_crawled": "2026-11-13T20:00:06+00:00",
+  "seeds": [
+   "https://greenecountypa.gov/"
+  ],
+  "pages": 37,
+  "candidates": 1,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 38,
+   "404": 1
+  },
+  "links_seen": 5413
+ },
+ "42049": {
+  "last_crawled": "2026-11-13T20:00:11+00:00",
+  "seeds": [
+   "https://www.eriecountycouncilpa.gov/",
+   "https://eriecountypa.gov/"
+  ],
+  "pages": 60,
+  "candidates": 1,
+  "verified": 1,
+  "searched": false,
+  "http": {
+   "200": 64,
+   "robots_blocked": 2,
+   "404": 6
+  },
+  "links_seen": 7642
+ },
+ "42065": {
+  "last_crawled": "2026-11-13T20:00:28+00:00",
+  "seeds": [
+   "https://jeffersonboroughycpa.gov/",
+   "https://www.jeffersoncountypa.gov/"
+  ],
+  "pages": 31,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11,
+   "200": 29,
+   "404": 4
+  },
+  "links_seen": 4494
+ },
+ "42055": {
+  "last_crawled": "2026-11-13T20:00:42+00:00",
+  "seeds": [
+   "https://www.franklincountypa.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "200": 69
+  },
+  "links_seen": 3099
+ },
+ "42079": {
+  "last_crawled": "2026-11-13T20:00:56+00:00",
+  "seeds": [
+   "https://luzernecounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 8
+  },
+  "links_seen": 5
+ },
+ "42077": {
+  "last_crawled": "2026-11-13T20:01:00+00:00",
+  "seeds": [
+   "https://lehighcountypa.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 10,
+   "403": 1
+  },
+  "links_seen": 0
+ },
+ "42071": {
+  "last_crawled": "2026-11-13T20:01:22+00:00",
+  "seeds": [
+   "https://lancastercountypa.gov/",
+   "https://lancastercountypacourt.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 55,
+   "robots_blocked": 3
+  },
+  "links_seen": 406
+ },
+ "42087": {
+  "last_crawled": "2026-11-13T20:01:29+00:00",
+  "seeds": [
+   "https://mifflincountypa.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 2,
+   "404": 3,
+   "conn_error": 2
+  },
+  "links_seen": 0
+ },
+ "42081": {
+  "last_crawled": "2026-11-13T20:01:30+00:00",
+  "seeds": [
+   "https://lycomingcountypa.gov/"
+  ],
+  "pages": 42,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 39,
+   "404": 4,
+   "conn_error": 1
+  },
+  "links_seen": 4017
+ },
+ "42047": {
+  "last_crawled": "2026-11-13T20:01:41+00:00",
+  "seeds": [
+   "https://countyofelkpa.gov/"
+  ],
+  "pages": 60,
+  "candidates": 1,
+  "verified": 1,
+  "searched": false,
+  "http": {
+   "200": 66,
+   "404": 4,
+   "robots_blocked": 1
+  },
+  "links_seen": 6275
+ },
+ "42091": {
+  "last_crawled": "2026-11-13T20:01:50+00:00",
+  "seeds": [
+   "https://montgomerycountypa.gov/"
+  ],
+  "pages": 20,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 17,
+   "404": 2,
+   "robots_blocked": 2
+  },
+  "links_seen": 330
+ },
+ "42093": {
+  "last_crawled": "2026-11-13T20:02:01+00:00",
+  "seeds": [
+   "https://montourcounty.gov/"
+  ],
+  "pages": 19,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 16,
+   "404": 5
+  },
+  "links_seen": 1551
+ },
+ "42063": {
+  "last_crawled": "2026-11-13T20:02:02+00:00",
+  "seeds": [
+   "https://www.indianacountypa.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 60,
+   "404": 4
+  },
+  "links_seen": 2661
+ },
+ "42099": {
+  "last_crawled": "2026-11-13T20:02:24+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "42083": {
+  "last_crawled": "2026-11-13T20:02:51+00:00",
+  "seeds": [
+   "https://mckeancountypa.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 33,
+   "200": 29
+  },
+  "links_seen": 2393
+ },
+ "42101": {
+  "last_crawled": "2026-11-13T20:02:55+00:00",
+  "seeds": [
+   "https://philadelphiacountypa.org/"
+  ],
+  "pages": 15,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 4,
+   "404": 4,
+   "500": 10
+  },
+  "links_seen": 87
+ },
+ "42073": {
+  "last_crawled": "2026-11-13T20:03:03+00:00",
+  "seeds": [
+   "https://lawrencecountypa.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 57,
+   "404": 4
+  },
+  "links_seen": 2847
+ },
+ "42107": {
+  "last_crawled": "2026-11-13T20:03:03+00:00",
+  "seeds": [
+   "https://schuylkillcountypa.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 1,
+   "robots_blocked": 7
+  },
+  "links_seen": 0
+ },
+ "42103": {
+  "last_crawled": "2026-11-13T20:03:13+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "42075": {
+  "last_crawled": "2026-11-13T20:03:20+00:00",
+  "seeds": [
+   "https://lebanoncountypa.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 58,
+   "404": 4
+  },
+  "links_seen": 1863
+ },
+ "42111": {
+  "last_crawled": "2026-11-13T20:03:21+00:00",
+  "seeds": [
+   "https://somersetcountypa.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "42085": {
+  "last_crawled": "2026-11-13T20:03:30+00:00",
+  "seeds": [
+   "https://www.mercercountypa.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 3,
+   "200": 57,
+   "403": 4
+  },
+  "links_seen": 4523
+ },
+ "42089": {
+  "last_crawled": "2026-11-13T20:03:48+00:00",
+  "seeds": [
+   "https://monroecountypa.gov/"
+  ],
+  "pages": 60,
+  "candidates": 1,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 57,
+   "404": 4,
+   "robots_blocked": 1
+  },
+  "links_seen": 2813
+ },
+ "42117": {
+  "last_crawled": "2026-11-13T20:03:52+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "42105": {
+  "last_crawled": "2026-11-13T20:04:18+00:00",
+  "seeds": [
+   "https://pottercountypa.gov/"
+  ],
+  "pages": 60,
+  "candidates": 1,
+  "verified": 1,
+  "searched": false,
+  "http": {
+   "200": 57,
+   "404": 6
+  },
+  "links_seen": 2457
+ },
+ "42123": {
+  "last_crawled": "2026-11-13T20:04:23+00:00",
+  "seeds": [
+   "https://warrencountypa.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 134
+ },
+ "42095": {
+  "last_crawled": "2026-11-13T20:05:00+00:00",
+  "seeds": [
+   "https://norcopa.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 57,
+   "404": 4,
+   "500": 2
+  },
+  "links_seen": 1286
+ },
+ "42127": {
+  "last_crawled": "2026-11-13T20:05:18+00:00",
+  "seeds": [
+   "https://waynecountypa.gov/"
+  ],
+  "pages": 19,
+  "candidates": 2,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 18,
+   "robots_blocked": 2
+  },
+  "links_seen": 380
+ },
+ "42097": {
+  "last_crawled": "2026-11-13T20:05:44+00:00",
+  "seeds": [
+   "https://northumberlandcountypa.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 53,
+   "429": 10
+  },
+  "links_seen": 2001
+ },
+ "42125": {
+  "last_crawled": "2026-11-13T20:06:34+00:00",
+  "seeds": [
+   "https://www.washcopa.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 58,
+   "500": 3,
+   "502": 1,
+   "robots_blocked": 1
+  },
+  "links_seen": 3790
+ },
+ "42115": {
+  "last_crawled": "2026-11-13T20:06:49+00:00",
+  "seeds": [
+   "https://susqco.com"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 57,
+   "404": 5
+  },
+  "links_seen": 1933
+ },
+ "42121": {
+  "last_crawled": "2026-11-13T20:06:53+00:00",
+  "seeds": [
+   "https://www.venangocountypa.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 56,
+   "404": 6,
+   "robots_blocked": 1
+  },
+  "links_seen": 11136
+ },
+ "44003": {
+  "last_crawled": "2026-11-13T20:06:57+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "200": 2
+  },
+  "links_seen": 0
+ },
+ "42133": {
+  "last_crawled": "2026-11-13T20:06:57+00:00",
+  "seeds": [
+   "https://yorkcountypa.gov/"
+  ],
+  "pages": 22,
+  "candidates": 2,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 21,
+   "robots_blocked": 2,
+   "404": 1
+  },
+  "links_seen": 297
+ },
+ "44005": {
+  "last_crawled": "2026-11-13T20:06:59+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "44007": {
+  "last_crawled": "2026-11-13T20:07:00+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 27,
+   "200": 1
+  },
+  "links_seen": 0
+ },
+ "44001": {
+  "last_crawled": "2026-11-13T20:07:00+00:00",
+  "seeds": [
+   "https://www.bristolcountyri.com/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 4,
+   "404": 6
+  },
+  "links_seen": 1
+ },
+ "44009": {
+  "last_crawled": "2026-11-13T20:07:03+00:00",
+  "seeds": [
+   "https://www.washingtoncounty.us/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 3,
+   "401": 1,
+   "robots_blocked": 7
+  },
+  "links_seen": 0
+ },
+ "45003": {
+  "last_crawled": "2026-11-13T20:07:06+00:00",
+  "seeds": [
+   "https://aikencountysc.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8,
+   "robots_blocked": 2,
+   "404": 1
+  },
+  "links_seen": 370
+ },
+ "45001": {
+  "last_crawled": "2026-11-13T20:07:08+00:00",
+  "seeds": [
+   "https://abbevillecountysc.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 9,
+   "404": 2
+  },
+  "links_seen": 0
+ },
+ "45005": {
+  "last_crawled": "2026-11-13T20:07:11+00:00",
+  "seeds": [
+   "https://allendalecounty.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "45007": {
+  "last_crawled": "2026-11-13T20:07:12+00:00",
+  "seeds": [
+   "https://andersoncountysc.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "45011": {
+  "last_crawled": "2026-11-13T20:07:17+00:00",
+  "seeds": [
+   "https://barnwellcountysc.gov/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7,
+   "robots_blocked": 2
+  },
+  "links_seen": 190
+ },
+ "42113": {
+  "last_crawled": "2026-11-13T20:07:18+00:00",
+  "seeds": [
+   "https://sullivancountypa.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 57,
+   "404": 2,
+   "robots_blocked": 2
+  },
+  "links_seen": 3115
+ },
+ "45015": {
+  "last_crawled": "2026-11-13T20:07:23+00:00",
+  "seeds": [
+   "https://berkeleycountysc.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "45009": {
+  "last_crawled": "2026-11-13T20:07:40+00:00",
+  "seeds": [
+   "https://bambergcountysc.gov/"
+  ],
+  "pages": 26,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 27
+  },
+  "links_seen": 7607
+ },
+ "42109": {
+  "last_crawled": "2026-11-13T20:07:42+00:00",
+  "seeds": [
+   "https://www.snydercounty.org/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 59,
+   "404": 4,
+   "robots_blocked": 1
+  },
+  "links_seen": 1511
+ },
+ "45019": {
+  "last_crawled": "2026-11-13T20:07:56+00:00",
+  "seeds": [
+   "https://charlestoncounty.gov/"
+  ],
+  "pages": 25,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 25,
+   "403": 2
+  },
+  "links_seen": 625
+ },
+ "42131": {
+  "last_crawled": "2026-11-13T20:07:57+00:00",
+  "seeds": [
+   "https://wyomingcountypa.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 70,
+   "404": 4,
+   "conn_error": 1
+  },
+  "links_seen": 12167
+ },
+ "45021": {
+  "last_crawled": "2026-11-13T20:07:58+00:00",
+  "seeds": [
+   "https://cherokeecountysc.gov/"
+  ],
+  "pages": 15,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 18
+  },
+  "links_seen": 5813
+ },
+ "42119": {
+  "last_crawled": "2026-11-13T20:08:19+00:00",
+  "seeds": [
+   "https://unioncountypa.org/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 63,
+   "404": 4
+  },
+  "links_seen": 2589
+ },
+ "45031": {
+  "last_crawled": "2026-11-13T20:08:21+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "45025": {
+  "last_crawled": "2026-11-13T20:08:22+00:00",
+  "seeds": [
+   "https://www.chesterfieldcountysc.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 3,
+   "404": 4
+  },
+  "links_seen": 69
+ },
+ "45027": {
+  "last_crawled": "2026-11-13T20:08:22+00:00",
+  "seeds": [
+   "https://clarendoncountysc.gov/",
+   "https://clarendoncountysheriff.gov/"
+  ],
+  "pages": 23,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 19,
+   "conn_error": 7
+  },
+  "links_seen": 1334
+ },
+ "45023": {
+  "last_crawled": "2026-11-13T20:08:23+00:00",
+  "seeds": [
+   "https://chestercountysc.gov/"
+  ],
+  "pages": 23,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 31
+  },
+  "links_seen": 7283
+ },
+ "42129": {
+  "last_crawled": "2026-11-13T20:08:26+00:00",
+  "seeds": [
+   "https://www.westmorelandcountypa.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 60,
+   "robots_blocked": 2
+  },
+  "links_seen": 1126
+ },
+ "45035": {
+  "last_crawled": "2026-11-13T20:08:29+00:00",
+  "seeds": [
+   "https://dorchestercountysc.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "45013": {
+  "last_crawled": "2026-11-13T20:08:30+00:00",
+  "seeds": [
+   "https://beaufortcountysc.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "200": 58,
+   "403": 4
+  },
+  "links_seen": 2188
+ },
+ "45029": {
+  "last_crawled": "2026-11-13T20:08:35+00:00",
+  "seeds": [
+   "https://colletoncounty.org/"
+  ],
+  "pages": 25,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 26,
+   "403": 1
+  },
+  "links_seen": 4960
+ },
+ "45033": {
+  "last_crawled": "2026-11-13T20:09:22+00:00",
+  "seeds": [
+   "https://dilloncountysc.org/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 56,
+   "404": 7
+  },
+  "links_seen": 1630
+ },
+ "45017": {
+  "last_crawled": "2026-11-13T20:09:38+00:00",
+  "seeds": [
+   "https://calhouncounty.org/"
+  ],
+  "pages": 34,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 21,
+   "200": 33,
+   "404": 1
+  },
+  "links_seen": 583
  }
 }
