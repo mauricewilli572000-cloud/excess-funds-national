@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T02:54:10+00:00",
- "total_leads": 7636,
- "total_surplus": 38213131.17,
- "new_this_run": 0,
+ "generated_at": "2026-11-13T08:04:47+00:00",
+ "total_leads": 8047,
+ "total_surplus": 45423088.07,
+ "new_this_run": 411,
  "states": {
   "AK": {
    "leads": 22,
@@ -91,8 +91,8 @@
    }
   },
   "OH": {
-   "leads": 7003,
-   "total": 31927866.95,
+   "leads": 7414,
+   "total": 39137823.85,
    "counties": {
     "Cuyahoga County": {
      "leads": 6683,
@@ -105,20 +105,24 @@
     "Franklin County": {
      "leads": 279,
      "total": 7887536.27
+    },
+    "Montgomery County": {
+     "leads": 411,
+     "total": 7209956.9
     }
    }
   }
  },
  "sources": {
-  "total": 158,
-  "usable": 17,
-  "candidates": 126,
-  "portals": 9,
-  "errors_this_run": 0
+  "total": 168,
+  "usable": 18,
+  "candidates": 133,
+  "portals": 11,
+  "errors_this_run": 3
  },
  "discovery": {
   "counties_total": 3152,
-  "counties_crawled": 2055,
-  "counties_with_usable_source": 14
+  "counties_crawled": 2185,
+  "counties_with_usable_source": 15
  }
 }
