@@ -36350,5 +36350,2023 @@
    "200": 64
   },
   "links_seen": 5770
+ },
+ "47077": {
+  "last_crawled": "2026-11-14T18:20:54+00:00",
+  "seeds": [
+   "https://hendersoncountytn.gov/"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7,
+   "404": 2
+  },
+  "links_seen": 113
+ },
+ "47079": {
+  "last_crawled": "2026-11-14T18:20:56+00:00",
+  "seeds": [
+   "https://henrycountytn.gov/",
+   "https://henrycotnsheriff.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6,
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "47081": {
+  "last_crawled": "2026-11-14T18:20:57+00:00",
+  "seeds": [
+   "https://hickmancountytn.gov/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7
+  },
+  "links_seen": 226
+ },
+ "47071": {
+  "last_crawled": "2026-11-14T18:21:05+00:00",
+  "seeds": [
+   "https://optimusmedia.com/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 19,
+   "200": 8,
+   "404": 4
+  },
+  "links_seen": 77
+ },
+ "47083": {
+  "last_crawled": "2026-11-14T18:21:05+00:00",
+  "seeds": [
+   "https://houstoncountytn.gov/"
+  ],
+  "pages": 11,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 9,
+   "404": 4
+  },
+  "links_seen": 221
+ },
+ "47087": {
+  "last_crawled": "2026-11-14T18:21:05+00:00",
+  "seeds": [
+   "https://jacksoncountytn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 1
+  },
+  "links_seen": 18
+ },
+ "47093": {
+  "last_crawled": "2026-11-14T18:21:12+00:00",
+  "seeds": [
+   "https://knoxcountytn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "47085": {
+  "last_crawled": "2026-11-14T18:21:12+00:00",
+  "seeds": [
+   "https://humphreyscountytn.gov/",
+   "https://humphreystnsheriff.gov/"
+  ],
+  "pages": 17,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 15
+  },
+  "links_seen": 734
+ },
+ "47091": {
+  "last_crawled": "2026-11-14T18:21:15+00:00",
+  "seeds": [
+   "https://johnsoncountytn.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 10,
+   "404": 2
+  },
+  "links_seen": 384
+ },
+ "47097": {
+  "last_crawled": "2026-11-14T18:21:19+00:00",
+  "seeds": [
+   "https://lauderdalecountytn.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 3,
+   "404": 4
+  },
+  "links_seen": 41
+ },
+ "47095": {
+  "last_crawled": "2026-11-14T18:21:20+00:00",
+  "seeds": [
+   "https://lakecountytn.gov/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 4,
+   "200": 11
+  },
+  "links_seen": 898
+ },
+ "47101": {
+  "last_crawled": "2026-11-14T18:21:22+00:00",
+  "seeds": [
+   "https://lewiscountytn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 1
+  },
+  "links_seen": 0
+ },
+ "47075": {
+  "last_crawled": "2026-11-14T18:21:26+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "47103": {
+  "last_crawled": "2026-11-14T18:21:28+00:00",
+  "seeds": [
+   "https://lincolncountytn.gov/"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "200": 4,
+   "404": 6
+  },
+  "links_seen": 312
+ },
+ "47099": {
+  "last_crawled": "2026-11-14T18:21:31+00:00",
+  "seeds": [
+   "https://lawrencecountytn.gov/",
+   "https://lawrencetnsheriff.gov/"
+  ],
+  "pages": 16,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 11,
+   "conn_error": 7,
+   "404": 4
+  },
+  "links_seen": 664
+ },
+ "47107": {
+  "last_crawled": "2026-11-14T18:21:34+00:00",
+  "seeds": [
+   "https://mcminncountytn.gov/"
+  ],
+  "pages": 11,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 7
+  },
+  "links_seen": 439
+ },
+ "47073": {
+  "last_crawled": "2026-11-14T18:21:37+00:00",
+  "seeds": [
+   "https://hawkinscountytn.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 56
+  },
+  "links_seen": 4601
+ },
+ "47109": {
+  "last_crawled": "2026-11-14T18:21:38+00:00",
+  "seeds": [
+   "https://www.mcnairycountytn.org/"
+  ],
+  "pages": 14,
+  "candidates": 2,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 8,
+   "404": 2,
+   "robots_blocked": 6
+  },
+  "links_seen": 481
+ },
+ "47115": {
+  "last_crawled": "2026-11-14T18:21:40+00:00",
+  "seeds": [
+   "https://marioncountytn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "47111": {
+  "last_crawled": "2026-11-14T18:21:43+00:00",
+  "seeds": [
+   "https://maconcountytn.gov/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 9
+  },
+  "links_seen": 1850
+ },
+ "47119": {
+  "last_crawled": "2026-11-14T18:21:44+00:00",
+  "seeds": [
+   "https://maurycounty-tn.gov/"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6,
+   "robots_blocked": 2,
+   "404": 1
+  },
+  "links_seen": 173
+ },
+ "47127": {
+  "last_crawled": "2026-11-14T18:21:52+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "47121": {
+  "last_crawled": "2026-11-14T18:21:55+00:00",
+  "seeds": [
+   "https://www.meigscountytn.org/"
+  ],
+  "pages": 16,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 13,
+   "404": 6
+  },
+  "links_seen": 1777
+ },
+ "47125": {
+  "last_crawled": "2026-11-14T18:21:57+00:00",
+  "seeds": [
+   "https://montgomerycounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 7,
+   "404": 4
+  },
+  "links_seen": 8
+ },
+ "47129": {
+  "last_crawled": "2026-11-14T18:21:58+00:00",
+  "seeds": [
+   "https://morgancountytn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "47113": {
+  "last_crawled": "2026-11-14T18:22:08+00:00",
+  "seeds": [
+   "https://madisoncountytn.gov/"
+  ],
+  "pages": 30,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 28,
+   "robots_blocked": 2,
+   "404": 1
+  },
+  "links_seen": 1854
+ },
+ "47137": {
+  "last_crawled": "2026-11-14T18:22:11+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "47133": {
+  "last_crawled": "2026-11-14T18:22:14+00:00",
+  "seeds": [
+   "https://overtoncountytn.gov/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 2
+  },
+  "links_seen": 82
+ },
+ "47139": {
+  "last_crawled": "2026-11-14T18:22:17+00:00",
+  "seeds": [
+   "https://polkcountytn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "520": 7
+  },
+  "links_seen": 0
+ },
+ "47131": {
+  "last_crawled": "2026-11-14T18:22:18+00:00",
+  "seeds": [
+   "https://obioncountytn.gov/"
+  ],
+  "pages": 16,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 12
+  },
+  "links_seen": 500
+ },
+ "47117": {
+  "last_crawled": "2026-11-14T18:22:19+00:00",
+  "seeds": [
+   "https://marshallcountytn.gov/"
+  ],
+  "pages": 11,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 8,
+   "404": 4
+  },
+  "links_seen": 628
+ },
+ "47143": {
+  "last_crawled": "2026-11-14T18:22:38+00:00",
+  "seeds": [
+   "https://rheacountytn.gov/"
+  ],
+  "pages": 10,
+  "candidates": 4,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 17
+  },
+  "links_seen": 952
+ },
+ "47105": {
+  "last_crawled": "2026-11-14T18:22:40+00:00",
+  "seeds": [
+   "https://loudoncounty-tn.gov/",
+   "https://loudonsheriff.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 25,
+   "200": 66,
+   "404": 8
+  },
+  "links_seen": 2050
+ },
+ "47123": {
+  "last_crawled": "2026-11-14T18:22:41+00:00",
+  "seeds": [
+   "https://www.monroecounty.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 10,
+   "200": 56,
+   "404": 5,
+   "403": 2
+  },
+  "links_seen": 12571
+ },
+ "47151": {
+  "last_crawled": "2026-11-14T18:22:43+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 26,
+   "404": 2
+  },
+  "links_seen": 0
+ },
+ "47089": {
+  "last_crawled": "2026-11-14T18:22:43+00:00",
+  "seeds": [
+   "https://jeffersoncountytn.gov/"
+  ],
+  "pages": 60,
+  "candidates": 1,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 9,
+   "200": 55,
+   "404": 4,
+   "403": 9
+  },
+  "links_seen": 1608
+ },
+ "47145": {
+  "last_crawled": "2026-11-14T18:22:44+00:00",
+  "seeds": [
+   "https://roanecountytn.gov/",
+   "https://roanesherifftn.gov/"
+  ],
+  "pages": 16,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 11,
+   "conn_error": 8,
+   "404": 4
+  },
+  "links_seen": 1586
+ },
+ "47159": {
+  "last_crawled": "2026-11-14T18:22:50+00:00",
+  "seeds": [
+   "https://smithcountytn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "47161": {
+  "last_crawled": "2026-11-14T18:22:53+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "47153": {
+  "last_crawled": "2026-11-14T18:22:53+00:00",
+  "seeds": [
+   "https://sequatchiecountytn.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 7,
+   "403": 2,
+   "404": 4
+  },
+  "links_seen": 291
+ },
+ "47165": {
+  "last_crawled": "2026-11-14T18:23:01+00:00",
+  "seeds": [
+   "https://sumnercountytn.gov/",
+   "https://sumnersherifftn.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7,
+   "200": 1,
+   "robots_blocked": 5
+  },
+  "links_seen": 0
+ },
+ "47141": {
+  "last_crawled": "2026-11-14T18:23:06+00:00",
+  "seeds": [
+   "https://putnamcountytn.gov/",
+   "https://putnamcountytnsheriff.gov/",
+   "https://putnamtncourtclerk.gov/"
+  ],
+  "pages": 55,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 51,
+   "404": 10,
+   "conn_error": 1
+  },
+  "links_seen": 947
+ },
+ "47155": {
+  "last_crawled": "2026-11-14T18:23:12+00:00",
+  "seeds": [
+   "https://seviercountytn.gov/"
+  ],
+  "pages": 29,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 26,
+   "404": 6
+  },
+  "links_seen": 4386
+ },
+ "47149": {
+  "last_crawled": "2026-11-14T18:23:13+00:00",
+  "seeds": [
+   "https://rutherfordcountytn.gov/"
+  ],
+  "pages": 37,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 34,
+   "404": 4
+  },
+  "links_seen": 17629
+ },
+ "47173": {
+  "last_crawled": "2026-11-14T18:23:19+00:00",
+  "seeds": [
+   "https://unioncountytn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 7
+  },
+  "links_seen": 0
+ },
+ "47147": {
+  "last_crawled": "2026-11-14T18:23:20+00:00",
+  "seeds": [
+   "https://robertsoncountytn.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 48,
+   "200": 13,
+   "403": 1
+  },
+  "links_seen": 3184
+ },
+ "47175": {
+  "last_crawled": "2026-11-14T18:23:27+00:00",
+  "seeds": [
+   "https://vanburencountytn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 29
+ },
+ "47163": {
+  "last_crawled": "2026-11-14T18:23:27+00:00",
+  "seeds": [
+   "https://sullivancountytn.gov/"
+  ],
+  "pages": 15,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 19,
+   "404": 4,
+   "conn_error": 2
+  },
+  "links_seen": 445
+ },
+ "47167": {
+  "last_crawled": "2026-11-14T18:23:31+00:00",
+  "seeds": [
+   "https://tiptoncountytn.com/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "200": 3,
+   "404": 6
+  },
+  "links_seen": 143
+ },
+ "47179": {
+  "last_crawled": "2026-11-14T18:23:33+00:00",
+  "seeds": [
+   "https://www.washingtoncountytn.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 16,
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 142
+ },
+ "47157": {
+  "last_crawled": "2026-11-14T18:23:33+00:00",
+  "seeds": [
+   "https://shelbycountytn.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 55,
+   "robots_blocked": 2,
+   "conn_error": 1,
+   "503": 2,
+   "403": 1
+  },
+  "links_seen": 3892
+ },
+ "47181": {
+  "last_crawled": "2026-11-14T18:23:36+00:00",
+  "seeds": [
+   "https://waynecountytn.gov/"
+  ],
+  "pages": 8,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 8,
+   "200": 2
+  },
+  "links_seen": 99
+ },
+ "47187": {
+  "last_crawled": "2026-11-14T18:23:38+00:00",
+  "seeds": [
+   "https://williamsoncounty-tn.gov/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 288
+ },
+ "47185": {
+  "last_crawled": "2026-11-14T18:23:39+00:00",
+  "seeds": [
+   "https://whitecountytn.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 9,
+   "robots_blocked": 2
+  },
+  "links_seen": 282
+ },
+ "47189": {
+  "last_crawled": "2026-11-14T18:23:40+00:00",
+  "seeds": [
+   "https://wilsoncountytn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 4,
+   "robots_blocked": 2
+  },
+  "links_seen": 200
+ },
+ "47177": {
+  "last_crawled": "2026-11-14T18:23:40+00:00",
+  "seeds": [
+   "https://www.warrencountytn.gov/",
+   "https://warrencountysherifftn.gov/"
+  ],
+  "pages": 20,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 19,
+   "404": 6
+  },
+  "links_seen": 1809
+ },
+ "48007": {
+  "last_crawled": "2026-11-14T18:24:09+00:00",
+  "seeds": [
+   "https://www.aransascountytx.gov/main/"
+  ],
+  "pages": 21,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "200": 14,
+   "404": 4,
+   "403": 5
+  },
+  "links_seen": 1507
+ },
+ "47169": {
+  "last_crawled": "2026-11-14T18:25:06+00:00",
+  "seeds": [
+   "https://trousdalecountytn.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "200": 52,
+   "404": 11
+  },
+  "links_seen": 596
+ },
+ "48009": {
+  "last_crawled": "2026-11-14T18:25:12+00:00",
+  "seeds": [
+   "https://www.co.archer.tx.us/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 15,
+   "200": 56,
+   "404": 6,
+   "robots_blocked": 1
+  },
+  "links_seen": 980
+ },
+ "47183": {
+  "last_crawled": "2026-11-14T18:25:14+00:00",
+  "seeds": [
+   "https://weakleycountytn.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 52,
+   "404": 3,
+   "robots_blocked": 6
+  },
+  "links_seen": 6017
+ },
+ "47135": {
+  "last_crawled": "2026-11-14T18:25:18+00:00",
+  "seeds": [
+   "https://perrycountytn.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "48015": {
+  "last_crawled": "2026-11-14T18:25:24+00:00",
+  "seeds": [
+   "https://austincounty.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 8
+  },
+  "links_seen": 5
+ },
+ "48005": {
+  "last_crawled": "2026-11-14T18:25:25+00:00",
+  "seeds": [
+   "https://angelinacounty.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 64,
+   "404": 4
+  },
+  "links_seen": 4475
+ },
+ "47171": {
+  "last_crawled": "2026-11-14T18:25:26+00:00",
+  "seeds": [
+   "https://unicoicountytn.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 55,
+   "403": 1
+  },
+  "links_seen": 360
+ },
+ "48003": {
+  "last_crawled": "2026-11-14T18:25:33+00:00",
+  "seeds": [
+   "https://co.andrews.tx.us/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 60,
+   "robots_blocked": 2
+  },
+  "links_seen": 1532
+ },
+ "48017": {
+  "last_crawled": "2026-11-14T18:25:36+00:00",
+  "seeds": [
+   "https://www.co.bailey.tx.us/"
+  ],
+  "pages": 14,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 15,
+   "200": 10,
+   "404": 7
+  },
+  "links_seen": 737
+ },
+ "48025": {
+  "last_crawled": "2026-11-14T18:25:39+00:00",
+  "seeds": [
+   "https://beecounty.gov/"
+  ],
+  "pages": 6,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 6,
+   "robots_blocked": 2
+  },
+  "links_seen": 160
+ },
+ "48019": {
+  "last_crawled": "2026-11-14T18:25:40+00:00",
+  "seeds": [
+   "https://www.banderacounty.gov"
+  ],
+  "pages": 14,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 11,
+   "404": 6
+  },
+  "links_seen": 1248
+ },
+ "48023": {
+  "last_crawled": "2026-11-14T18:25:43+00:00",
+  "seeds": [
+   "https://www.co.baylor.tx.us/"
+  ],
+  "pages": 9,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 15,
+   "200": 6,
+   "404": 6
+  },
+  "links_seen": 220
+ },
+ "48001": {
+  "last_crawled": "2026-11-14T18:25:43+00:00",
+  "seeds": [
+   "https://www.andersoncountytx.gov"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 57,
+   "404": 6
+  },
+  "links_seen": 12822
+ },
+ "48029": {
+  "last_crawled": "2026-11-14T18:25:47+00:00",
+  "seeds": [
+   "https://www.bexar.org/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 1,
+   "429": 7
+  },
+  "links_seen": 0
+ },
+ "48037": {
+  "last_crawled": "2026-11-14T18:25:54+00:00",
+  "seeds": [
+   "https://www.bowiecounty.org"
+  ],
+  "pages": 7,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 7,
+   "robots_blocked": 2
+  },
+  "links_seen": 176
+ },
+ "48027": {
+  "last_crawled": "2026-11-14T18:26:00+00:00",
+  "seeds": [
+   "https://bellcountytx.com/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "403": 2,
+   "200": 1,
+   "robots_blocked": 7
+  },
+  "links_seen": 0
+ },
+ "48035": {
+  "last_crawled": "2026-11-14T18:26:03+00:00",
+  "seeds": [
+   "https://bosquecounty.gov/"
+  ],
+  "pages": 15,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 14,
+   "robots_blocked": 2,
+   "404": 1
+  },
+  "links_seen": 356
+ },
+ "48039": {
+  "last_crawled": "2026-11-14T18:26:06+00:00",
+  "seeds": [
+   "https://brazoriacountyclerktx.gov/",
+   "https://brazoriacounty.gov/"
+  ],
+  "pages": 10,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "403": 13,
+   "conn_error": 9
+  },
+  "links_seen": 0
+ },
+ "48041": {
+  "last_crawled": "2026-11-14T18:26:07+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 20,
+   "403": 6,
+   "401": 2
+  },
+  "links_seen": 0
+ },
+ "48013": {
+  "last_crawled": "2026-11-14T18:26:14+00:00",
+  "seeds": [
+   "https://co.atascosa.tx.us/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 60,
+   "404": 5
+  },
+  "links_seen": 1529
+ },
+ "48033": {
+  "last_crawled": "2026-11-14T18:26:47+00:00",
+  "seeds": [
+   "https://www.co.borden.tx.us"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 56,
+   "404": 7
+  },
+  "links_seen": 13881
+ },
+ "48011": {
+  "last_crawled": "2026-11-14T18:27:57+00:00",
+  "seeds": [
+   "https://www.co.armstrong.tx.us/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 15,
+   "200": 56,
+   "404": 6,
+   "robots_blocked": 1
+  },
+  "links_seen": 1201
+ },
+ "48053": {
+  "last_crawled": "2026-11-14T18:28:02+00:00",
+  "seeds": [
+   "https://www.burnetcountytexas.org"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 6,
+   "200": 5,
+   "robots_blocked": 2
+  },
+  "links_seen": 104
+ },
+ "48021": {
+  "last_crawled": "2026-11-14T18:28:19+00:00",
+  "seeds": [
+   "https://www.bastropcounty.gov/",
+   "https://bastropcountyhistorical.org/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 57,
+   "conn_error": 2,
+   "404": 10,
+   "robots_blocked": 1
+  },
+  "links_seen": 1419
+ },
+ "48057": {
+  "last_crawled": "2026-11-14T18:28:25+00:00",
+  "seeds": [
+   "https://calhouncotx.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "48055": {
+  "last_crawled": "2026-11-14T18:28:52+00:00",
+  "seeds": [
+   "https://caldwellcounty.texas.gov/"
+  ],
+  "pages": 43,
+  "candidates": 7,
+  "verified": 1,
+  "searched": false,
+  "http": {
+   "200": 45
+  },
+  "links_seen": 6195
+ },
+ "48043": {
+  "last_crawled": "2026-11-14T18:29:29+00:00",
+  "seeds": [
+   "https://www.brewstercounty.gov"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 57,
+   "404": 6
+  },
+  "links_seen": 1335
+ },
+ "48031": {
+  "last_crawled": "2026-11-14T18:30:07+00:00",
+  "seeds": [
+   "https://www.blancocountytexas.gov"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 56,
+   "404": 7
+  },
+  "links_seen": 1134
+ },
+ "48049": {
+  "last_crawled": "2026-11-14T18:31:21+00:00",
+  "seeds": [
+   "https://www.browncountytx.gov"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "200": 56,
+   "404": 7
+  },
+  "links_seen": 2810
+ },
+ "48045": {
+  "last_crawled": "2026-11-14T18:32:02+00:00",
+  "seeds": [
+   "https://www.co.briscoe.tx.us/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 15,
+   "200": 57,
+   "404": 6
+  },
+  "links_seen": 743
+ },
+ "48069": {
+  "last_crawled": "2026-11-14T18:32:19+00:00",
+  "seeds": [
+   "https://www.co.castro.tx.us/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 15,
+   "200": 10,
+   "404": 6
+  },
+  "links_seen": 542
+ },
+ "48067": {
+  "last_crawled": "2026-11-14T18:32:22+00:00",
+  "seeds": [
+   "https://www.co.cass.tx.us/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 15,
+   "200": 56,
+   "404": 7
+  },
+  "links_seen": 12838
+ },
+ "48059": {
+  "last_crawled": "2026-11-14T18:32:23+00:00",
+  "seeds": [
+   "https://www.callahancounty.org/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 19,
+   "200": 56,
+   "404": 6,
+   "robots_blocked": 1
+  },
+  "links_seen": 740
+ },
+ "48075": {
+  "last_crawled": "2026-11-14T18:32:27+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "48077": {
+  "last_crawled": "2026-11-14T18:32:30+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "48071": {
+  "last_crawled": "2026-11-14T18:32:31+00:00",
+  "seeds": [
+   "https://chamberscountytx.gov/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 13,
+   "robots_blocked": 2
+  },
+  "links_seen": 446
+ },
+ "48047": {
+  "last_crawled": "2026-11-14T18:32:46+00:00",
+  "seeds": [
+   "https://www.co.brooks.tx.us/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 15,
+   "200": 57,
+   "404": 6
+  },
+  "links_seen": 977
+ },
+ "48073": {
+  "last_crawled": "2026-11-14T18:32:52+00:00",
+  "seeds": [
+   "http://co.cherokee.tx.us/ips/cms/index.html"
+  ],
+  "pages": 16,
+  "candidates": 1,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 12,
+   "200": 21
+  },
+  "links_seen": 934
+ },
+ "48083": {
+  "last_crawled": "2026-11-14T18:33:17+00:00",
+  "seeds": [
+   "https://www.colemancounty.gov"
+  ],
+  "pages": 22,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 18,
+   "404": 6,
+   "robots_blocked": 1
+  },
+  "links_seen": 1990
+ },
+ "48051": {
+  "last_crawled": "2026-11-14T18:33:19+00:00",
+  "seeds": [
+   "https://www.burlesoncountytx.gov"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 8,
+   "200": 56,
+   "404": 7
+  },
+  "links_seen": 2517
+ },
+ "48061": {
+  "last_crawled": "2026-11-14T18:33:32+00:00",
+  "seeds": [
+   "https://www.cameroncountytx.gov/"
+  ],
+  "pages": 60,
+  "candidates": 1,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 61,
+   "404": 7
+  },
+  "links_seen": 6668
+ },
+ "48091": {
+  "last_crawled": "2026-11-14T18:33:52+00:00",
+  "seeds": [
+   "https://www.comalcounty.gov"
+  ],
+  "pages": 20,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 20,
+   "robots_blocked": 2
+  },
+  "links_seen": 925
+ },
+ "48063": {
+  "last_crawled": "2026-11-14T18:34:30+00:00",
+  "seeds": [
+   "https://www.co.camp.tx.us/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 15,
+   "200": 57,
+   "404": 6
+  },
+  "links_seen": 965
+ },
+ "48093": {
+  "last_crawled": "2026-11-14T18:34:49+00:00",
+  "seeds": [
+   "https://comanchecountytx.gov/"
+  ],
+  "pages": 53,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 51,
+   "robots_blocked": 2,
+   "404": 1
+  },
+  "links_seen": 292
+ },
+ "48065": {
+  "last_crawled": "2026-11-14T18:34:59+00:00",
+  "seeds": [
+   "https://www.co.carson.tx.us/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 15,
+   "200": 56,
+   "404": 6,
+   "robots_blocked": 1
+  },
+  "links_seen": 832
+ },
+ "48085": {
+  "last_crawled": "2026-11-14T18:36:13+00:00",
+  "seeds": [
+   "https://collincountytexas.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "48097": {
+  "last_crawled": "2026-11-14T18:36:15+00:00",
+  "seeds": [
+   "https://www.co.cooke.tx.us/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 15,
+   "200": 55,
+   "404": 8
+  },
+  "links_seen": 2189
+ },
+ "48099": {
+  "last_crawled": "2026-11-14T18:36:25+00:00",
+  "seeds": [
+   "https://coryellcountytx.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 55,
+   "429": 8
+  },
+  "links_seen": 3696
+ },
+ "48089": {
+  "last_crawled": "2026-11-14T18:36:27+00:00",
+  "seeds": [
+   "https://coloradocountytx.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 8,
+   "200": 54
+  },
+  "links_seen": 2570
+ },
+ "48087": {
+  "last_crawled": "2026-11-14T18:36:37+00:00",
+  "seeds": [
+   "https://www.co.collingsworth.tx.us/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 15,
+   "200": 57,
+   "404": 6
+  },
+  "links_seen": 641
+ },
+ "48105": {
+  "last_crawled": "2026-11-14T18:36:41+00:00",
+  "seeds": [
+   "https://www.co.crockett.tx.us/"
+  ],
+  "pages": 13,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 15,
+   "200": 10,
+   "404": 6
+  },
+  "links_seen": 724
+ },
+ "48111": {
+  "last_crawled": "2026-11-14T18:36:49+00:00",
+  "seeds": [
+   "https://co.dallam.tx.us/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 2,
+   "404": 6
+  },
+  "links_seen": 22
+ },
+ "48109": {
+  "last_crawled": "2026-11-14T18:36:54+00:00",
+  "seeds": [
+   "https://www.co.culberson.tx.us"
+  ],
+  "pages": 14,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 11,
+   "404": 6
+  },
+  "links_seen": 727
+ },
+ "48113": {
+  "last_crawled": "2026-11-14T18:36:57+00:00",
+  "seeds": [
+   "https://dallascountytx.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 11
+  },
+  "links_seen": 0
+ },
+ "48117": {
+  "last_crawled": "2026-11-14T18:37:00+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 28
+  },
+  "links_seen": 0
+ },
+ "48081": {
+  "last_crawled": "2026-11-14T18:37:03+00:00",
+  "seeds": [
+   "https://www.co.coke.tx.us"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 57,
+   "404": 6
+  },
+  "links_seen": 1179
+ },
+ "48119": {
+  "last_crawled": "2026-11-14T18:37:04+00:00",
+  "seeds": [],
+  "pages": 0,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 23,
+   "200": 4,
+   "403": 1
+  },
+  "links_seen": 0
+ },
+ "48115": {
+  "last_crawled": "2026-11-14T18:37:15+00:00",
+  "seeds": [
+   "https://www.co.dawson.tx.us/"
+  ],
+  "pages": 17,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 15,
+   "200": 13,
+   "404": 6,
+   "403": 1
+  },
+  "links_seen": 1178
+ },
+ "48125": {
+  "last_crawled": "2026-11-14T18:37:30+00:00",
+  "seeds": [
+   "https://www.co.dickens.tx.us/"
+  ],
+  "pages": 12,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 15,
+   "200": 9,
+   "404": 6
+  },
+  "links_seen": 702
+ },
+ "48079": {
+  "last_crawled": "2026-11-14T18:37:34+00:00",
+  "seeds": [
+   "https://www.co.cochran.tx.us/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 15,
+   "200": 56,
+   "404": 7
+  },
+  "links_seen": 951
+ },
+ "48121": {
+  "last_crawled": "2026-11-14T18:38:03+00:00",
+  "seeds": [
+   "https://www.dentoncounty.gov"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 10,
+   "200": 60,
+   "robots_blocked": 2
+  },
+  "links_seen": 3077
+ },
+ "48127": {
+  "last_crawled": "2026-11-14T18:38:05+00:00",
+  "seeds": [
+   "https://dimmitcounty.org/"
+  ],
+  "pages": 30,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 18,
+   "200": 7,
+   "404": 26
+  },
+  "links_seen": 840
+ },
+ "48133": {
+  "last_crawled": "2026-11-14T18:38:11+00:00",
+  "seeds": [
+   "https://eastlandcountytexas.gov/"
+  ],
+  "pages": 5,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 7
+  },
+  "links_seen": 0
+ },
+ "48123": {
+  "last_crawled": "2026-11-14T18:38:11+00:00",
+  "seeds": [
+   "https://www.co.dewitt.tx.us"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 57,
+   "404": 6
+  },
+  "links_seen": 1717
+ },
+ "48135": {
+  "last_crawled": "2026-11-14T18:38:26+00:00",
+  "seeds": [
+   "https://www.ectorcountytx.gov/"
+  ],
+  "pages": 16,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 1,
+   "200": 15,
+   "robots_blocked": 2,
+   "404": 1
+  },
+  "links_seen": 521
+ },
+ "48139": {
+  "last_crawled": "2026-11-14T18:38:44+00:00",
+  "seeds": [
+   "https://elliscountytx.gov/"
+  ],
+  "pages": 20,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 19,
+   "robots_blocked": 2
+  },
+  "links_seen": 3231
+ },
+ "48095": {
+  "last_crawled": "2026-11-14T18:38:46+00:00",
+  "seeds": [
+   "https://www.co.concho.tx.us/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 15,
+   "200": 57,
+   "404": 6
+  },
+  "links_seen": 730
+ },
+ "48131": {
+  "last_crawled": "2026-11-14T18:39:04+00:00",
+  "seeds": [
+   "https://www.co.duval.tx.us"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 57,
+   "404": 6
+  },
+  "links_seen": 1451
+ },
+ "48137": {
+  "last_crawled": "2026-11-14T18:39:11+00:00",
+  "seeds": [
+   "https://www.co.edwards.tx.us"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 57,
+   "404": 6
+  },
+  "links_seen": 1069
+ },
+ "48101": {
+  "last_crawled": "2026-11-14T18:39:37+00:00",
+  "seeds": [
+   "https://cottlecountytx.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "404": 6,
+   "200": 56
+  },
+  "links_seen": 812
+ },
+ "48103": {
+  "last_crawled": "2026-11-14T18:39:41+00:00",
+  "seeds": [
+   "https://www.co.crane.tx.us"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 56,
+   "404": 7
+  },
+  "links_seen": 923
+ },
+ "48141": {
+  "last_crawled": "2026-11-14T18:39:48+00:00",
+  "seeds": [
+   "https://epcountytx.gov/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "200": 60,
+   "robots_blocked": 2
+  },
+  "links_seen": 357
+ },
+ "48129": {
+  "last_crawled": "2026-11-14T18:39:50+00:00",
+  "seeds": [
+   "https://www.co.donley.tx.us"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 14,
+   "200": 57,
+   "404": 6
+  },
+  "links_seen": 1071
+ },
+ "48107": {
+  "last_crawled": "2026-11-14T18:40:05+00:00",
+  "seeds": [
+   "https://www.co.crosby.tx.us/"
+  ],
+  "pages": 60,
+  "candidates": 0,
+  "verified": 0,
+  "searched": false,
+  "http": {
+   "conn_error": 15,
+   "200": 57,
+   "404": 6
+  },
+  "links_seen": 673
  }
 }
