@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T18:12:11+00:00",
- "total_leads": 8529,
- "total_surplus": 49045314.9,
- "new_this_run": 448,
+ "generated_at": "2026-11-14T18:54:35+00:00",
+ "total_leads": 8539,
+ "total_surplus": 49899831.48,
+ "new_this_run": 458,
  "states": {
   "AK": {
    "leads": 22,
@@ -139,24 +139,34 @@
      "total": 2737322.97
     }
    }
+  },
+  "TX": {
+   "leads": 10,
+   "total": 854516.58,
+   "counties": {
+    "Caldwell County": {
+     "leads": 10,
+     "total": 854516.58
+    }
+   }
   }
  },
  "claimants": {
-  "leads": 2995,
-  "claimants": 3126,
+  "leads": 3002,
+  "claimants": 3141,
   "heirs": 459,
   "with_fiduciary": 3
  },
  "sources": {
-  "total": 193,
-  "usable": 24,
-  "candidates": 152,
+  "total": 209,
+  "usable": 25,
+  "candidates": 167,
   "portals": 11,
   "errors_this_run": 0
  },
  "discovery": {
   "counties_total": 3152,
-  "counties_crawled": 2445,
-  "counties_with_usable_source": 19
+  "counties_crawled": 2576,
+  "counties_with_usable_source": 20
  }
 }

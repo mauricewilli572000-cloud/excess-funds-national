@@ -1,7 +1,16 @@
 First Name,Middle Name,Last Name,Suffix,Role,Deceased Owner,Last Known Address,Last Known City,Last Known State,Last Known Zip,Address Note,Other Address,Probate Fiduciary,Fiduciary Address,Current Owner (do not contact),County,State,Case Number,Surplus Amount,Sale Date,Score,Lead ID
 John,R,Foster,,Heir of deceased owner,John Foster,"2104 Hampton Rd Erie, PA 16502",,PA,,Former residence - sold at sheriff sale; search by NAME + this address,,,,,Erie County,PA,12236-2024,355494.87,2024-05-28,92,42049-122362024
+-,- Penalty,Payments,,Former owner,,,,TX,,,,,,,Caldwell County,TX,,325001.00,,63,48055-00110000130
+Interest,,Payments,,Co-owner,,,,TX,,,,,,,Caldwell County,TX,,325001.00,,63,48055-00110000130
+Payments,,Penalty,,Co-owner,,,,TX,,,,,,,Caldwell County,TX,,325001.00,,63,48055-00110000130
+Interest,,Defined,,Co-owner,,,,TX,,,,,,,Caldwell County,TX,,325001.00,,63,48055-00110000130
+Payments,,Penalty,,Co-owner,,,,TX,,,,,,,Caldwell County,TX,,325001.00,,63,48055-00110000130
+Interest,,Payments,,Co-owner,,,,TX,,,,,,,Caldwell County,TX,,325001.00,,63,48055-00110000130
+Payments,,Penalty,,Co-owner,,,,TX,,,,,,,Caldwell County,TX,,325001.00,,63,48055-00110000130
+Interest,,Payments,,Co-owner,,,,TX,,,,,,,Caldwell County,TX,,325001.00,,63,48055-00110000130
 Julie,A,Heston,,Former owner,,,,CA,,,,,,,Sacramento County,CA,,245602.22,,68,06067-20602510120000
 Sarah,,Galko,,Former owner,,1915 HAMPTON RUN,BROADVIEW HEIGHTS,OH,44147-0000,Former residence - sold at sheriff sale; search by NAME + this address,,,,"Monahan, Randy J & Natalie R Co-Trustees",Cuyahoga County,OH,CV21948544,213759.30,2023-02-23,83,39035-CV21948544
+Of,That Involve The Employment Of,Mechanics,,Former owner,,,,TX,,,,,,,Caldwell County,TX,,200000.00,,63,48055-7a696a0602
 William,T,Novak,,Former owner,,14903 CLIFTON BOULEVARD,LAKEWOOD,OH,44107,Former residence - sold at sheriff sale; search by NAME + this address,,,,,Cuyahoga County,OH,CV21951173,188929.49,2022-01-11,83,39035-CV21951173
 James,J,Laux,Jr,Former owner,,6341 WALLINGS ROAD,BROADVIEW HEIGHTS,OH,44147,Former residence - sold at sheriff sale; search by NAME + this address,,,,"Dobronos, Michael",Cuyahoga County,OH,CV24992582,178149.39,2026-06-09,83,39035-CV24992582
 Linda,M,Harris,,Former owner,,,,OH,,,,,,,Franklin County,OH,24CV004648,177318.72,2026-07-30,58,39049-24CV004648
@@ -627,6 +636,8 @@ Terri,,Billingsley,,Former owner,,3633 WASHINGTON BOULEVARD,CLEVELAND HEIGHTS,OH
 James,,Johnson,,Former owner,,,,OH,,,,,,,Cuyahoga County,OH,CV98369951,14016.09,2001-04-20,62,39035-CV98369951
 Timothy,,E,,Heir of deceased owner,Timothy E,,,OH,,,,,,,Montgomery County,OH,2022 CV 00991,13992.29,,54,39113-2022CV00991
 James,,Alge,,Former owner,,,,OH,,,,,,,Franklin County,OH,25CV007102,13899.28,2026-05-20,52,39049-25CV007102
+Payments,,Penalty,,Former owner,,,,TX,,,,,,,Caldwell County,TX,,13891.58,,50,48055-00110000120
+Payments,,Penalty,,Co-owner,,,,TX,,,,,,,Caldwell County,TX,,13891.58,,50,48055-00110000120
 Donald,C,Cooperider,,Former owner,,"13428 KING RD NE, THORNVILLE, OH 43076",,OH,,Former residence - sold at sheriff sale; search by NAME + this address,unknown,,,,Fairfield County,OH,2023 CV 666,13890.47,2024-08-23,77,39045-2023CV666
 Alice,,Keller,,Former owner,,"BEAVER DR, THORNVILLE, OH 43076",,OH,,Former residence - sold at sheriff sale; search by NAME + this address,UNKNOWN,,,,Fairfield County,OH,2025 CV 5,13859.59,2025-07-11,77,39045-2025CV5
 Charlene,,Vankirk,,Heir of deceased owner,Charlene Vankirk,9914 CUDELL AVENUE,CLEVELAND,OH,44102,Former residence - sold at sheriff sale; search by NAME + this address,,,,"Rabbani, M A G",Cuyahoga County,OH,CV21954031,13846.11,2022-06-14,74,39035-CV21954031
@@ -1183,6 +1194,7 @@ Terra,Land,Dev,,Former owner,,,,MO,,,,,,,Platte County,MO,,5306.06,2024-08-26,60
 Patricia,,Balmonte,,Former owner,,9124 CONNECTICUT AVE,CLEVELAND,OH,44105,Former residence - sold at sheriff sale; search by NAME + this address,,,,"Gregory, Jaslyn",Cuyahoga County,OH,CV23974525,5298.05,2023-08-01,63,39035-CV23974525
 Fillyaw,Rose,Patricia,,Former owner,,,,SC,,,,,,,Orangeburg County,SC,202100588,5290.93,,43,45075-202100588
 Patricia,B,Filly,,Co-owner,,,,SC,,,,,,,Orangeburg County,SC,202100588,5290.93,,43,45075-202100588
+",",- Other Taxes,Revenues Taxes Property Taxes,,Former owner,,,,TX,,,,,,,Caldwell County,TX,,5289.00,,43,48055-239bd63233
 Jimmy,,Coburn,,Former owner,,3417 EAST 69 STREET,CLEVELAND,OH,44127,Former residence - sold at sheriff sale; search by NAME + this address,,,,Tameka Williams,Cuyahoga County,OH,CV23975794,5273.33,2023-10-03,63,39035-CV23975794
 Hartwell,Neomonia Amber,Rd,,Former owner,,,,SC,,,,,,,Orangeburg County,SC,202100837,5262.01,,43,45075-202100837
 Frank,,Clover,,Former owner,,,,OH,,,,,,,Franklin County,OH,25CV003089,5258.61,2026-08-20,38,39049-25CV003089
@@ -1314,6 +1326,7 @@ Ranice,Westerfield,White,,Former owner,,575 BROADWAY AVE,BEDFORD,OH,44146-0000,F
 Christine,S,Sitzenstock,,Former owner,,5164 EAST 128TH STREET,GARFIELD HEIGHTS,OH,44125,Former residence - sold at sheriff sale; search by NAME + this address,,,,Maysun Investments Llc,Cuyahoga County,OH,CV14822956,4591.00,2021-04-12,57,39035-CV14822956
 Ernest,L,Carter,,Former owner,,,,OH,,,,,,,Franklin County,OH,18CV010740,4581.83,2020-01-31,44,39049-18CV010740
 Kimberly,C,Thompson,,Former owner,,19910 MOUNTVILLE DRIVE,MAPLE HEIGHTS,OH,44137-0000,Former residence - sold at sheriff sale; search by NAME + this address,,,,"North Shore Investment Group Llc.,",Cuyahoga County,OH,CV21942742,4567.13,2021-11-19,57,39035-CV21942742
+",","- Other Taxes Total Expenditures , , -",Revenues Taxes Property Taxes,,Former owner,,,,TX,,,,,,,Caldwell County,TX,,4566.00,,37,48055-ab4fd9ac1d
 Jeffrey,,Kaczmarski,,Former owner,,2317 TATE AVENUE,CLEVELAND,OH,44109,Former residence - sold at sheriff sale; search by NAME + this address,,,,"N And Z Property, Inc.,",Cuyahoga County,OH,CV16857695,4535.91,2016-07-12,57,39035-CV16857695
 Hugh,,Lenoir,,Former owner,,,,OH,,,,,,,Cuyahoga County,OH,CV04528735,4534.86,2026-08-25,42,39035-CV04528735
 Nicholas,,Szabo,,Former owner,,3506 W 119TH STREET,CLEVELAND,OH,44111,Former residence - sold at sheriff sale; search by NAME + this address,,,,"Ajadi, Elizabeth Abiola",Cuyahoga County,OH,CV15852897,4509.24,2016-09-29,57,39035-CV15852897
@@ -1605,6 +1618,7 @@ Ted,A,Mathews,,Former owner,,,,CA,,,,,,,Imperial County,CA,,3346.01,,42,06025-00
 Jean,M,Jt,,Co-owner,,,,CA,,,,,,,Imperial County,CA,,3346.01,,42,06025-009013011000
 Sean,C,Graham,,Former owner,,6039 RIDGEBURY BLVD,MAYFIELD VILLAGE,OH,44124,Former residence - sold at sheriff sale; search by NAME + this address,,,,"King Martin, Alexander And King Martin, Lana",Cuyahoga County,OH,CV15853987,3344.27,2016-05-27,57,39035-CV15853987
 Kariem,,Hasan,,Former owner,,33324 OVERLAND LANE,SOLON,OH,44139-0000,Former residence - sold at sheriff sale; search by NAME + this address,,,,"Stika, Nicole & Stika, Stephen",Cuyahoga County,OH,CV14825884,3336.58,2015-06-12,57,39035-CV14825884
+",","- Other Taxes Total Expenditures , , -",Revenues Taxes Property Taxes,,Former owner,,,,TX,,,,,,,Caldwell County,TX,,3334.00,,37,48055-68a717ea7e
 Barbara,,Torres,,Former owner,,4515 LESTER AVENUE,CLEVELAND,OH,44127,Former residence - sold at sheriff sale; search by NAME + this address,,,,Marwell West Properties L L C.,Cuyahoga County,OH,CV21944488,3329.88,2021-09-14,57,39035-CV21944488
 Sally,,Barnes,,Former owner,,5545 ANDOVER BOULEVARD,GARFIELD HEIGHTS,OH,44125,Former residence - sold at sheriff sale; search by NAME + this address,,,,Montgomery Street Homes Ii Llc C/O Magnetar Financial Llc,Cuyahoga County,OH,CV17883694,3320.74,2017-11-29,57,39035-CV17883694
 Michael,,Downing,,Former owner,,17501 SHAKER BLVD,SHAKER HEIGHTS,OH,44120-0000,Former residence - sold at sheriff sale; search by NAME + this address,,,,,Cuyahoga County,OH,CV20939083,3320.00,2021-04-09,64,39035-CV20939083
@@ -1964,6 +1978,7 @@ John,H,Hogue,,Heir of deceased owner,John Hogue,2089 WOOSTER ROAD,ROCKY RIVER,OH
 Alvena,,Grimes,,Former owner,,6729 DEER CT,BEDFORD HTS,OH,44146-0000,Former residence - sold at sheriff sale; search by NAME + this address,,,,"Smith, Ty'Esha & Toles, George",Cuyahoga County,OH,CV17878194,2388.36,2017-09-28,51,39035-CV17878194
 Dorothy,,Sadowski,,Former owner,,18816 BELLEVIEW ST,MAPLE HEIGHTS,OH,44137-0000,Former residence - sold at sheriff sale; search by NAME + this address,,,,"James W. Ross, Jr.",Cuyahoga County,OH,CV08655258,2387.68,2008-11-26,51,39035-CV08655258
 Alvin,,Dozie,Jr,Former owner,,,,OH,,,,,,,Cuyahoga County,OH,CV94281721,2386.95,1996-06-24,43,39035-CV94281721
+",",- Other Taxes,Revenues Taxes Property Taxes,,Former owner,,,,TX,,,,,,,Caldwell County,TX,,2384.00,,31,48055-4a7c733a7b
 Walter,,Snipe,,Former owner,,1738 CLIFFVIEW ROAD,CLEVELAND,OH,44112,Former residence - sold at sheriff sale; search by NAME + this address,,,,"Stokes, Ivory",Cuyahoga County,OH,CV24993337,2383.80,2024-12-20,51,39035-CV24993337
 Reed,,Johnnie,,Former owner,,,,SC,,,,,,,Orangeburg County,SC,202101524,2379.73,,31,45075-202101524
 Julia,,Mae,,Co-owner,,,,SC,,,,,,,Orangeburg County,SC,202101524,2379.73,,31,45075-202101524
