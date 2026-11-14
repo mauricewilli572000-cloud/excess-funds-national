@@ -531,6 +531,12 @@ def write_outputs(leads: list[Lead], source_info: list[dict]) -> dict:
         "new_this_run": sum(1 for l in active if l.first_seen == today),
         "leads": [asdict(l) for l in top]}), encoding="utf-8")
     write_csv(config.FEEDS_DIR / "top_ghl.csv", top)
+    try:
+        from . import claimants
+        claimant_stats = claimants.write(leads, config.FEEDS_DIR)
+    except Exception as e:  # noqa: BLE001  never let the skip-trace file break the main feeds
+        log.warning("claimant skip-trace file failed: %s", e)
+        claimant_stats = {}
 
     srcs = load_json(config.SOURCES_PATH, [])
     info_by_id = {i["id"]: i for i in source_info}
@@ -558,6 +564,7 @@ def write_outputs(leads: list[Lead], source_info: list[dict]) -> dict:
         "total_surplus": round(sum(l.amount or 0 for l in active), 2),
         "new_this_run": sum(1 for l in active if l.first_seen == today),
         "states": states_idx,
+        "claimants": claimant_stats,
         "sources": {
             "total": len(srcs),
             "usable": sum(1 for s in srcs if s.get("status") in ("auto-verified", "verified")),
