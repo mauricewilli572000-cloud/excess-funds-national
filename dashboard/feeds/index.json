@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T02:40:40+00:00",
- "total_leads": 8081,
- "total_surplus": 46307991.93,
- "new_this_run": 0,
+ "generated_at": "2026-11-14T07:45:32+00:00",
+ "total_leads": 8529,
+ "total_surplus": 49045314.9,
+ "new_this_run": 448,
  "states": {
   "AK": {
    "leads": 22,
@@ -129,18 +129,28 @@
      "total": 36784.6
     }
    }
+  },
+  "SC": {
+   "leads": 448,
+   "total": 2737322.97,
+   "counties": {
+    "Orangeburg County": {
+     "leads": 448,
+     "total": 2737322.97
+    }
+   }
   }
  },
  "sources": {
-  "total": 186,
-  "usable": 21,
-  "candidates": 148,
+  "total": 193,
+  "usable": 24,
+  "candidates": 152,
   "portals": 11,
   "errors_this_run": 0
  },
  "discovery": {
   "counties_total": 3152,
-  "counties_crawled": 2315,
-  "counties_with_usable_source": 18
+  "counties_crawled": 2445,
+  "counties_with_usable_source": 19
  }
 }
